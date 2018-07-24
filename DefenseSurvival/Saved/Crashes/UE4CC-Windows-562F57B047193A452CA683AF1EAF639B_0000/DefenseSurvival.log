@@ -1,0 +1,874 @@
+﻿Log file open, 07/24/18 22:41:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DefenseSurvival
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1402441593) SRandInit(-1402441593).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.227072
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.030s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am JUN-HYOENG-HOME (192.168.1.49:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/EpicGames/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.24-13.41.07:686][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.24-13.41.07:686][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.24-13.41.07:700][  0]LogInit: Computer: JUN-HYOENG-HOME
+[2018.07.24-13.41.07:700][  0]LogInit: User: user
+[2018.07.24-13.41.07:700][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.07.24-13.41.07:700][  0]LogInit: High frequency timer resolution =2.929687 MHz
+[2018.07.24-13.41.07:700][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.24-13.41.07:700][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.24-13.41.07:700][  0]LogMemory: Process Physical Memory: 273.33 MB used, 273.33 MB peak
+[2018.07.24-13.41.07:700][  0]LogMemory: Process Virtual Memory: 270.27 MB used, 270.27 MB peak
+[2018.07.24-13.41.07:700][  0]LogMemory: Physical Memory: 4860.43 MB used,  11437.55 MB free, 16297.98 MB total
+[2018.07.24-13.41.07:700][  0]LogMemory: Virtual Memory: 4796.73 MB used,  11437.55 MB free, 134217728.00 MB total
+[2018.07.24-13.41.07:717][  0]LogInit: Using OS detected language (ko-KR).
+[2018.07.24-13.41.07:717][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.07.24-13.41.07:720][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.07.24-13.41.08:030][  0]LogStreaming: Display: Took  0.313s to EndInitTextLocalization.
+[2018.07.24-13.41.08:030][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.24-13.41.08:064][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.24-13.41.08:064][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.24-13.41.08:312][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.24-13.41.08:368][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.07.24-13.41.08:368][  0]LogD3D11RHI:       6052/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.24-13.41.08:369][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.24-13.41.08:369][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.24-13.41.08:369][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.24-13.41.08:374][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.24-13.41.08:374][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.24-13.41.08:374][  0]LogWindows: EnumDisplayDevices:
+[2018.07.24-13.41.08:374][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.07.24-13.41.08:374][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.07.24-13.41.08:374][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.07.24-13.41.08:374][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.07.24-13.41.08:374][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.24-13.41.08:374][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.07.24-13.41.08:374][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.24-13.41.08:374][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.24-13.41.08:374][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.07.24-13.41.08:404][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.24-13.41.08:404][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.24-13.41.08:404][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.24-13.41.08:420][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.24-13.41.08:467][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../GitHub/DefOffGame/DefenseSurvival/Intermediate/Shaders/WorkingDirectory/10276/).
+[2018.07.24-13.41.08:468][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/BFCD8295480643CED89659982818F5F9/'.
+[2018.07.24-13.41.08:654][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.24-13.41.08:664][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.24-13.41.08:675][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.24-13.41.08:685][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.24-13.41.08:697][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.24-13.41.08:708][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.24-13.41.08:719][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.24-13.41.08:729][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.24-13.41.08:734][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.24-13.41.08:744][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.24-13.41.08:753][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.24-13.41.08:763][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.24-13.41.08:773][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.24-13.41.08:782][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.24-13.41.08:792][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.24-13.41.08:811][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.24-13.41.08:811][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.24-13.41.08:821][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-13.41.08:822][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.24-13.41.08:856][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.24-13.41.08:865][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.24-13.41.08:875][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.24-13.41.08:885][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.24-13.41.08:895][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.24-13.41.08:905][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.24-13.41.08:905][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.24-13.41.09:007][  0]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.24-13.41.09:007][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.24-13.41.09:007][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.24-13.41.09:007][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.24-13.41.09:544][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.24-13.41.09:596][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/user/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.24-13.41.09:596][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.24-13.41.09:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/DefOffGame/DefenseSurvival/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.24-13.41.09:596][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.24-13.41.09:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/DefOffGame/DefenseSurvival/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.24-13.41.09:596][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.24-13.41.09:609][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.24-13.41.09:621][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.24-13.41.09:621][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.24-13.41.09:621][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.24-13.41.09:639][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.24-13.41.09:639][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.24-13.41.09:640][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.24-13.41.09:640][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.24-13.41.09:765][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2018.07.24-13.41.09:998][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.24-13.41.10:123][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.24-13.41.10:124][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.24-13.41.10:124][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.24-13.41.10:124][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.24-13.41.10:124][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.24-13.41.10:124][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.24-13.41.10:167][  0]LogNetVersion: DefenseSurvival , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3696840644)
+[2018.07.24-13.41.10:629][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.162458 seconds
+[2018.07.24-13.41.10:633][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.24-13.41.10:633][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.24-13.41.10:633][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.24-13.41.12:149][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.24-13.41.12:192][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.24-13.41.12:576][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.24-13.41.12:576][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.24-13.41.12:597][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.24-13.41.12:618][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.24-13.41.13:143][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.24-13.41.13:300][  0]LogOcInput: OculusInput pre-init called
+[2018.07.24-13.41.13:406][  0]LogEngine: Initializing Engine...
+[2018.07.24-13.41.13:407][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.24-13.41.13:408][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.24-13.41.13:408][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.24-13.41.13:583][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.24-13.41.13:591][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-13.41.13:606][  0]LogInit: FAudioDevice initialized.
+[2018.07.24-13.41.13:685][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/user/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.24-13.41.13:696][  0]LogInit: Texture streaming: Enabled
+[2018.07.24-13.41.13:707][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.24-13.41.13:715][  0]LogInit: Transaction tracking system initialized
+[2018.07.24-13.41.13:730][  0]BlueprintLog: New page: 에디터 로드
+[2018.07.24-13.41.13:780][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.07.24-13.41.13:868][  0]LogConsoleResponse: Display: 
+[2018.07.24-13.41.13:989][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.24-13.41.13:989][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.24-13.41.13:989][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.24-13.41.13:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.24-13.41.13:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.24-13.41.14:371][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/DefOffGame/DefenseSurvival/Content/' took 0.01s
+[2018.07.24-13.41.14:371][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.24-13.41.14:371][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.24-13.41.14:371][  0]LightingResults: New page: 라이팅 빌드
+[2018.07.24-13.41.14:373][  0]MapCheck: New page: 맵 체크
+[2018.07.24-13.41.14:373][  0]LightingResults: New page: 라이팅 빌드
+[2018.07.24-13.41.14:420][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a5dfd6340, Size=144, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2018.07.24-13.41.14:422][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a5d990b80, Size=120, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2018.07.24-13.41.14:475][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a5dfd6340, Size=144
+[2018.07.24-13.41.14:475][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a017cbe20, Size=144, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Engine/Transient.REINST_UE4ASP_HeroTPP_AnimBlueprint_C_0:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2018.07.24-13.41.14:475][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a5d990b80, Size=120
+[2018.07.24-13.41.14:475][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a017c7e00, Size=120, Default__Ue4ASP_Character_C Function /Engine/Transient.REINST_Ue4ASP_Character_C_1:ExecuteUbergraph_Ue4ASP_Character
+[2018.07.24-13.41.14:491][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event 가  Crouch 입력 액션  에 대해 알려지지 않은 'Crouch' 액션을 레퍼런싱합니다.
+[2018.07.24-13.41.14:491][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event 가  Jump 입력 액션  에 대해 알려지지 않은 'Jump' 액션을 레퍼런싱합니다.
+[2018.07.24-13.41.14:491][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event 가  LookUp 입력 축  에 대해 알려지지 않은 'LookUp' 축을 레퍼런싱합니다.
+[2018.07.24-13.41.14:491][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event 가  Turn 입력 축  에 대해 알려지지 않은 'Turn' 축을 레퍼런싱합니다.
+[2018.07.24-13.41.14:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a0168e980, Size=144, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2018.07.24-13.41.14:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a016a7b00, Size=320, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2018.07.24-13.41.14:498][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0009.24] Ue4ASP_Character 컴파일에 성공했습니다만, 경고가 4 회 있습니다. [소요시간 27 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2018.07.24-13.41.14:505][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a016c3390, Size=12, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.41.14:509][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a016c3390, Size=12
+[2018.07.24-13.41.14:509][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a016c3390, Size=12, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_4:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.41.14:511][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a016c3380, Size=12, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.41.14:583][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a058a6b00, Size=680, Default__CraftMesh_C Function /Game/TopDownBP/Blueprints/CraftMesh.CraftMesh_C:ExecuteUbergraph_CraftMesh
+[2018.07.24-13.41.14:585][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a058a6b00, Size=680
+[2018.07.24-13.41.14:585][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a058a6b00, Size=680, Default__CraftMesh_C Function /Engine/Transient.REINST_CraftMesh_C_10:ExecuteUbergraph_CraftMesh
+[2018.07.24-13.41.14:587][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a058a4d00, Size=680, Default__CraftMesh_C Function /Game/TopDownBP/Blueprints/CraftMesh.CraftMesh_C:ExecuteUbergraph_CraftMesh
+[2018.07.24-13.41.14:610][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a01737880, Size=608, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2018.07.24-13.41.14:613][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a01737880, Size=608
+[2018.07.24-13.41.14:613][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a01737880, Size=608, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_18:ExecuteUbergraph_TopDownExampleMap
+[2018.07.24-13.41.14:615][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a05dc6e80, Size=608, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2018.07.24-13.41.14:722][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.881536ms] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2018.07.24-13.41.14:787][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.07.24-13.41.14:794][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.24-13.41.14:805][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a017cbe20, Size=144
+[2018.07.24-13.41.14:805][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a017c7e00, Size=120
+[2018.07.24-13.41.14:805][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a016c3390, Size=12
+[2018.07.24-13.41.14:805][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a058a6b00, Size=680
+[2018.07.24-13.41.14:805][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a01737880, Size=608
+[2018.07.24-13.41.14:807][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.24-13.41.14:864][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 56.734ms.
+[2018.07.24-13.41.14:864][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.493
+[2018.07.24-13.41.15:013][  0]LogCollectionManager: Loaded 0 collections in 0.001025 seconds
+[2018.07.24-13.41.15:060][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/DefOffGame/DefenseSurvival/Saved/Collections/' took 0.01s
+[2018.07.24-13.41.15:060][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/DefOffGame/DefenseSurvival/Content/Developers/user/Collections/' took 0.01s
+[2018.07.24-13.41.15:060][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/DefOffGame/DefenseSurvival/Content/Collections/' took 0.01s
+[2018.07.24-13.41.15:060][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.24-13.41.15:068][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2452 classes and 558 folders.
+[2018.07.24-13.41.15:072][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.24-13.41.15:129][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.24-13.41.15:132][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.24-13.41.15:190][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.24-13.41.15:193][  0]LogSlate: Took 0.002089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.07.24-13.41.15:196][  0]LogSlate: Took 0.001909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2018.07.24-13.41.15:196][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.24-13.41.15:200][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.24-13.41.15:277][  0]LogRenderer: Reallocating scene render targets to support 1312x604 Format 10 NumSamples 1 (Frame:1).
+[2018.07.24-13.41.15:450][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.24-13.41.15:450][  0]LogLoad: (Engine Initialization) Total time: 10.19 seconds
+[2018.07.24-13.41.15:450][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.24-13.41.15:809][  0]LogAssetRegistry: Asset discovery search completed in 6.0660 seconds
+[2018.07.24-13.41.15:810][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.24-13.41.15:811][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.07.24-13.41.15:814][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.24-13.41.15:853][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.24-13.41.16:465][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-13.41.16:465][  2]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.24-13.41.16:491][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.41.16:492][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-13.41.16:509][  2]PIE: New page: PIE 세션: TopDownExampleMap (2018. 7. 25. 오전 7:41:16)
+[2018.07.24-13.41.16:509][  2]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.07.24-13.41.16:547][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038585s)
+[2018.07.24-13.41.16:548][  2]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.07.24-13.41.16:548][  2]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.07.24-13.41.16:548][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.039553s)
+[2018.07.24-13.41.16:563][  2]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-13.41.16:575][  2]LogInit: FAudioDevice initialized.
+[2018.07.24-13.41.16:626][  2]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.07.24-13.41.16:650][  2]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.07.24-22.41.16
+[2018.07.24-13.41.16:661][  2]LogWorld: Bringing up level for play took: 0.020724
+[2018.07.24-13.41.16:722][  2]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.24-13.41.16:722][  2]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.058
+[2018.07.24-13.41.16:722][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.41.21:029][507]LogScript: Warning: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+	TopDownExampleMap_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap_C_21
+	Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap:04B4
+[2018.07.24-13.41.21:029][507]PIE: Error: 블루프린트 런타임 오류: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다. 다음 함수에서: 'ExecuteUbergraph_TopDownExampleMap' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownExampleMap 설명: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+[2018.07.24-13.41.21:396][551]LogScript: Warning: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+	TopDownExampleMap_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap_C_21
+	Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap:04B4
+[2018.07.24-13.41.21:396][551]PIE: Error: 블루프린트 런타임 오류: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다. 다음 함수에서: 'ExecuteUbergraph_TopDownExampleMap' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownExampleMap 설명: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+[2018.07.24-13.41.23:272][776]LogScript: Warning: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+	TopDownExampleMap_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap_C_21
+	Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap:04B4
+[2018.07.24-13.41.23:273][776]PIE: Error: 블루프린트 런타임 오류: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다. 다음 함수에서: 'ExecuteUbergraph_TopDownExampleMap' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownExampleMap 설명: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+[2018.07.24-13.41.23:989][862]LogScript: Warning: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+	TopDownExampleMap_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap_C_21
+	Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap:04B4
+[2018.07.24-13.41.23:989][862]PIE: Error: 블루프린트 런타임 오류: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다. 다음 함수에서: 'ExecuteUbergraph_TopDownExampleMap' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownExampleMap 설명: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+[2018.07.24-13.41.24:230][891]LogScript: Warning: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+	TopDownExampleMap_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap_C_21
+	Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap:04B4
+[2018.07.24-13.41.24:231][891]PIE: Error: 블루프린트 런타임 오류: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다. 다음 함수에서: 'ExecuteUbergraph_TopDownExampleMap' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownExampleMap 설명: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+[2018.07.24-13.41.24:748][953]LogScript: Warning: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+	TopDownExampleMap_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap_C_21
+	Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap:04B4
+[2018.07.24-13.41.24:748][953]PIE: Error: 블루프린트 런타임 오류: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다. 다음 함수에서: 'ExecuteUbergraph_TopDownExampleMap' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownExampleMap 설명: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+[2018.07.24-13.41.24:964][979]LogScript: Warning: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+	TopDownExampleMap_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap_C_21
+	Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap:04B4
+[2018.07.24-13.41.24:964][979]PIE: Error: 블루프린트 런타임 오류: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다. 다음 함수에서: 'ExecuteUbergraph_TopDownExampleMap' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownExampleMap 설명: CraftMesh_455_ExecuteUbergraph_TopDownExampleMap_RefProperty 프로퍼티를 통해 CraftMesh_455 에 접근하려 하였으나, CraftMesh_455 는 킬 대기중입니다.
+[2018.07.24-13.41.28:723][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.41.28:755][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.41.30:834][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-13.41.31:569][749]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.24-13.41.31:943][749]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.07.24-13.41.32:198][749]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a01985328, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.24-13.41.32:199][749]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a019852f0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.24-13.41.32:752][749]LogSlate: Took 0.007308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.24-13.41.32:891][750]LogSlate: Took 0.003317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.24-13.42.06:334][931]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CraftMesh_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.CraftMesh_455) from referencer (K2Node_Literal /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_Literal_1).  Import failed...
+[2018.07.24-13.42.06:334][931]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'CraftMesh_C'"/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.CraftMesh_455"''
+[2018.07.24-13.42.06:335][931]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CraftMesh_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.CraftMesh_455) from referencer (K2Node_Literal /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_Literal_2).  Import failed...
+[2018.07.24-13.42.06:335][931]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'CraftMesh_C'"/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.CraftMesh_455"''
+[2018.07.24-13.42.06:337][931]LogBlueprint: Warning: [TopDownCharacter] 'IsCraft?' variable not found. Base class was probably changed. /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter
+[2018.07.24-13.42.06:337][931]LogBlueprint: Warning: [TopDownCharacter] 'IsCraft?' variable not found. Base class was probably changed. /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter
+[2018.07.24-13.42.06:337][931]LogBlueprint: Warning: [TopDownCharacter] 'IsCraft?' variable not found. Base class was probably changed. /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter
+[2018.07.24-13.42.06:337][931]LogBlueprint: Warning: [TopDownCharacter] 'Angle' variable not found. Base class was probably changed. /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter
+[2018.07.24-13.42.06:337][931]LogBlueprint: Warning: [TopDownCharacter] 'Angle' variable not found. Base class was probably changed. /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter
+[2018.07.24-13.42.06:337][931]LogBlueprint: Warning: [TopDownCharacter] 'Angle' variable not found. Base class was probably changed. /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter
+[2018.07.24-13.42.06:337][931]LogBlueprint: Warning: [TopDownCharacter] 'Angle' variable not found. Base class was probably changed. /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter
+[2018.07.24-13.42.06:339][931]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a9645a0e0, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.13:113][681]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a9645a0e0, Size=4
+[2018.07.24-13.42.13:113][681]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a9645a0e0, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_36:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.13:115][681]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a96458708, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.17:171][120]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a96458708, Size=4
+[2018.07.24-13.42.17:172][120]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a1fbda3d0, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_38:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.17:174][120]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a1fbd9350, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.18:732][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a1fbd9350, Size=4
+[2018.07.24-13.42.18:732][285]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a96458fb0, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_40:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.18:734][285]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a964584d8, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.21:951][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a964584d8, Size=4
+[2018.07.24-13.42.21:951][625]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a964584d8, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_42:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.21:953][625]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a96459388, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.29:116][396]LogSlate: Took 0.014469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.24-13.42.31:587][480]LogSlate: Window '변수 유형 변경' being destroyed
+[2018.07.24-13.42.31:594][480]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a96459388, Size=4
+[2018.07.24-13.42.31:594][480]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a939b2ba8, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_44:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.31:596][480]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a939b2bc8, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.32:442][547]BlueprintLog: New page: TopDownCharacter 컴파일
+[2018.07.24-13.42.32:453][547]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a939b2bc8, Size=4
+[2018.07.24-13.42.32:453][547]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a96458c40, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_46:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.32:462][547]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a016c3380, Size=12
+[2018.07.24-13.42.32:462][547]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a968c3f70, Size=12, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_48:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.32:465][547]LogBlueprint: Warning: [Compiler TopDownCharacter] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2018.07.24-13.42.32:465][547]LogBlueprint: Warning: [Compiler TopDownCharacter] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2018.07.24-13.42.32:466][547]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a96931d00, Size=624, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.32:731][547]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a96458c40, Size=4
+[2018.07.24-13.42.32:746][547]LogBlueprint: Warning: [Compiler TopDownCharacter] [0087.49] TopDownCharacter 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 304 ms] (/Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter)
+[2018.07.24-13.42.33:324][598]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2018.07.24-13.42.33:331][598]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2018.07.24-13.42.39:261][197]BlueprintLog: New page: TopDownCharacter 컴파일
+[2018.07.24-13.42.39:278][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a96931d00, Size=624
+[2018.07.24-13.42.39:278][197]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a94ed7d80, Size=624, TopDownCharacter_C_83 Function /Engine/Transient.REINST_TopDownCharacter_C_52:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.39:282][197]LogBlueprint: Warning: [Compiler TopDownCharacter] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2018.07.24-13.42.39:282][197]LogBlueprint: Warning: [Compiler TopDownCharacter] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2018.07.24-13.42.39:283][197]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a96931300, Size=624, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.42.39:552][197]LogBlueprint: Warning: [Compiler TopDownCharacter] [0094.29] TopDownCharacter 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 290 ms] (/Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter)
+[2018.07.24-13.42.40:063][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Character/TopDownCharacter" FILE="../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset" SILENT=true
+[2018.07.24-13.42.40:119][241]LogSavePackage: Save=48.67ms
+[2018.07.24-13.42.40:119][241]LogSavePackage: Moving '../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/TopDownCharacter8905D9EA4BD74928F15EFDA4675876F1.tmp' to '../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset'
+[2018.07.24-13.42.40:124][241]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset
+[2018.07.24-13.43.19:175][477]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a237e46a8, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.47.54:391][154]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.24-13.47.54:416][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.47.54:416][154]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.07.24-13.47.54:424][154]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a237e46a8, Size=4
+[2018.07.24-13.47.54:424][154]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a939b06c8, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_56:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.47.54:425][154]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2018.07.24-13.47.54:433][154]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a96931300, Size=624
+[2018.07.24-13.47.54:434][154]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a49195580, Size=624, TopDownCharacter_C_109 Function /Engine/Transient.REINST_TopDownCharacter_C_58:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.47.54:437][154]LogBlueprint: Warning: [Compiler TopDownCharacter] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2018.07.24-13.47.54:437][154]LogBlueprint: Warning: [Compiler TopDownCharacter] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2018.07.24-13.47.54:439][154]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a49bb0b80, Size=624, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.47.54:440][154]LogBlueprint: Warning: [Compiler TopDownCharacter] [0409.18] TopDownCharacter 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 15 ms] (/Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter)
+[2018.07.24-13.47.54:686][154]LogPlayLevel: [PlayLevel] Compiling TopDownExampleMap before play...
+[2018.07.24-13.47.54:687][154]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a05dc6e80, Size=608
+[2018.07.24-13.47.54:687][154]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a267fd800, Size=608, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_62:ExecuteUbergraph_TopDownExampleMap
+[2018.07.24-13.47.54:762][154]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a267fd800, Size=608
+[2018.07.24-13.47.54:763][154]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a939b06c8, Size=4
+[2018.07.24-13.47.54:763][154]LogPlayLevel: PlayLevel: Blueprint regeneration took 347 ms (2 blueprints)
+[2018.07.24-13.47.54:764][154]PIE: New page: PIE 세션: TopDownExampleMap (2018. 7. 25. 오전 7:47:54)
+[2018.07.24-13.47.54:764][154]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.07.24-13.47.54:776][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011994s)
+[2018.07.24-13.47.54:776][154]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.07.24-13.47.54:776][154]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.07.24-13.47.54:776][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012804s)
+[2018.07.24-13.47.54:816][154]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-13.47.54:828][154]LogInit: FAudioDevice initialized.
+[2018.07.24-13.47.54:877][154]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.07.24-13.47.54:885][154]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.07.24-22.47.54
+[2018.07.24-13.47.54:886][154]LogWorld: Bringing up level for play took: 0.006057
+[2018.07.24-13.47.54:888][154]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.224
+[2018.07.24-13.47.54:889][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.47.55:513][210]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.47.55:513][210]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.47.55:911][252]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.47.55:911][252]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.47.56:275][291]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.47.56:275][291]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.47.56:405][305]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.47.56:405][305]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.47.56:803][347]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.47.56:803][347]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.47.57:456][418]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:047C
+[2018.07.24-13.47.57:457][418]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: DestroyActor 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.47.57:935][469]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.47.57:935][469]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.47.58:280][506]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.47.58:280][506]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.47.58:441][522]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.47.58:441][522]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.01:100][796]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.48.01:100][796]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.01:274][814]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.48.01:274][814]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.01:564][844]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.48.01:564][844]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.02:009][888]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.48.02:009][888]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.02:254][913]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.48.02:254][913]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.02:737][962]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.48.02:737][962]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.02:941][983]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.48.02:941][983]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.03:221][ 12]LogScript: Warning: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04B4
+[2018.07.24-13.48.03:222][ 12]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.03:510][ 42]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.03:541][ 42]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.03:970][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-13.48.04:038][ 77]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.24-13.48.04:061][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.04:061][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-13.48.04:061][ 77]PIE: New page: PIE 세션: TopDownExampleMap (2018. 7. 25. 오전 7:48:04)
+[2018.07.24-13.48.04:061][ 77]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.07.24-13.48.04:073][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011795s)
+[2018.07.24-13.48.04:073][ 77]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.07.24-13.48.04:074][ 77]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.07.24-13.48.04:074][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012535s)
+[2018.07.24-13.48.04:096][ 77]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-13.48.04:106][ 77]LogInit: FAudioDevice initialized.
+[2018.07.24-13.48.04:136][ 77]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.07.24-13.48.04:138][ 77]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.07.24-22.48.04
+[2018.07.24-13.48.04:138][ 77]LogWorld: Bringing up level for play took: 0.001482
+[2018.07.24-13.48.04:139][ 77]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.474
+[2018.07.24-13.48.04:139][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.04:599][115]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: DestroyActor 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.04:724][127]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.05:140][166]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.05:389][190]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.05:725][223]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.06:127][262]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.06:537][303]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.06:834][332]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.07:856][434]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.08:013][450]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.09:469][597]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: AddActorWorldRotation 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.12:352][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.12:393][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.13:760][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-13.48.35:953][616]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.24-13.48.35:969][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.35:969][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-13.48.35:969][616]PIE: New page: PIE 세션: TopDownExampleMap (2018. 7. 25. 오전 7:48:35)
+[2018.07.24-13.48.35:969][616]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.07.24-13.48.35:981][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011613s)
+[2018.07.24-13.48.35:981][616]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.07.24-13.48.35:981][616]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2018.07.24-13.48.35:981][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012392s)
+[2018.07.24-13.48.36:004][616]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-13.48.36:015][616]LogInit: FAudioDevice initialized.
+[2018.07.24-13.48.36:044][616]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.07.24-13.48.36:046][616]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.07.24-22.48.36
+[2018.07.24-13.48.36:046][616]LogWorld: Bringing up level for play took: 0.001406
+[2018.07.24-13.48.36:047][616]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.382
+[2018.07.24-13.48.36:047][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.37:352][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.37:393][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.38:536][854]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.24-13.48.38:552][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.38:552][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-13.48.38:552][854]PIE: New page: PIE 세션: TopDownExampleMap (2018. 7. 25. 오전 7:48:38)
+[2018.07.24-13.48.38:552][854]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.07.24-13.48.38:564][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011545s)
+[2018.07.24-13.48.38:564][854]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.07.24-13.48.38:564][854]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2018.07.24-13.48.38:565][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012191s)
+[2018.07.24-13.48.38:585][854]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-13.48.38:597][854]LogInit: FAudioDevice initialized.
+[2018.07.24-13.48.38:634][854]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.07.24-13.48.38:641][854]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.07.24-22.48.38
+[2018.07.24-13.48.38:642][854]LogWorld: Bringing up level for play took: 0.005281
+[2018.07.24-13.48.38:644][854]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.979
+[2018.07.24-13.48.38:644][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.39:482][933]PIE: Error: 블루프린트 런타임 오류: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownCharacter' 노드: DestroyActor 그래프: EventGraph 오브젝트: TopDownCharacter 설명: None_ExecuteUbergraph_TopDownCharacter_RefProperty 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.07.24-13.48.40:304][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-13.48.40:370][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.48.40:406][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.49.48:291][547]LogSlate: Window '메시지 로그' being destroyed
+[2018.07.24-13.49.48:296][547]LogSlate: Window '메시지 로그' being destroyed
+[2018.07.24-13.50.48:027][994]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a055ad698, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.50.48:819][ 76]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a055ad698, Size=4
+[2018.07.24-13.50.48:819][ 76]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a237e4bd0, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_66:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.50.48:821][ 76]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a237e4a10, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.50.51:082][307]BlueprintLog: New page: TopDownCharacter 컴파일
+[2018.07.24-13.50.51:090][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a237e4a10, Size=4
+[2018.07.24-13.50.51:090][307]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a939b11d0, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_68:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.50.51:099][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a49bb0b80, Size=624
+[2018.07.24-13.50.51:099][307]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a27976200, Size=624, TopDownCharacter_C_155 Function /Engine/Transient.REINST_TopDownCharacter_C_70:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.50.51:104][307]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a063f0b80, Size=624, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.50.51:423][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a939b11d0, Size=4
+[2018.07.24-13.50.52:040][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Character/TopDownCharacter" FILE="../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset" SILENT=true
+[2018.07.24-13.50.52:086][366]LogSavePackage: Save=38.65ms
+[2018.07.24-13.50.52:086][366]LogSavePackage: Moving '../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/TopDownCharacterEFA3C2BA4E2293BE5A2D9EAEA1BCC6E8.tmp' to '../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset'
+[2018.07.24-13.50.52:090][366]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset
+[2018.07.24-13.51.49:539][ 91]LogSavePackage: Save=121.37ms
+[2018.07.24-13.51.49:539][ 91]LogSavePackage: Moving '../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/TopDownExampleMap_Auto10EDC2FC74A3A14598ED167AEC448E83C.tmp' to '../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2018.07.24-13.51.49:541][ 91]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2018.07.24-13.51.49:544][ 91]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.163
+[2018.07.24-13.51.49:545][ 91]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.163
+[2018.07.24-13.52.37:438][820]LogRenderer: Reallocating scene render targets to support 1312x672 Format 10 NumSamples 1 (Frame:45803).
+[2018.07.24-13.52.41:860][212]LogRenderer: Reallocating scene render targets to support 1312x688 Format 10 NumSamples 1 (Frame:46196).
+[2018.07.24-13.53.07:555][651]LogSlate: Window 'Wall' being destroyed
+[2018.07.24-13.53.39:886][213]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.24-13.55.48:509][671]BlueprintLog: New page: TopDownCharacter 컴파일
+[2018.07.24-13.55.48:526][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a063f0b80, Size=624
+[2018.07.24-13.55.48:526][671]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a9befdd00, Size=624, TopDownCharacter_C_177 Function /Engine/Transient.REINST_TopDownCharacter_C_78:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.55.48:531][671]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a49c22700, Size=624, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.55.48:920][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Character/TopDownCharacter" FILE="../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset" SILENT=true
+[2018.07.24-13.55.48:961][672]LogSavePackage: Save=38.29ms
+[2018.07.24-13.55.48:961][672]LogSavePackage: Moving '../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/TopDownCharacter4B95FB1147D250605ED9348E7A33B86B.tmp' to '../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset'
+[2018.07.24-13.55.48:965][672]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset
+[2018.07.24-13.55.50:278][827]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.24-13.55.50:305][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.55.50:306][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-13.55.50:306][827]PIE: New page: PIE 세션: TopDownExampleMap (2018. 7. 25. 오전 7:55:50)
+[2018.07.24-13.55.50:306][827]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.07.24-13.55.50:318][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012445s)
+[2018.07.24-13.55.50:319][827]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.07.24-13.55.50:319][827]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2018.07.24-13.55.50:319][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013182s)
+[2018.07.24-13.55.50:341][827]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-13.55.50:352][827]LogInit: FAudioDevice initialized.
+[2018.07.24-13.55.50:381][827]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.07.24-13.55.50:383][827]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.07.24-22.55.50
+[2018.07.24-13.55.50:383][827]LogWorld: Bringing up level for play took: 0.001460
+[2018.07.24-13.55.50:384][827]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.72
+[2018.07.24-13.55.50:384][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.55.52:376][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.55.52:413][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.55.53:664][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-13.55.53:748][219]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.24-13.55.53:767][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.55.53:767][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-13.55.53:767][219]PIE: New page: PIE 세션: TopDownExampleMap (2018. 7. 25. 오전 7:55:53)
+[2018.07.24-13.55.53:767][219]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.07.24-13.55.53:779][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011662s)
+[2018.07.24-13.55.53:779][219]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.07.24-13.55.53:780][219]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2018.07.24-13.55.53:780][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012314s)
+[2018.07.24-13.55.53:801][219]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-13.55.53:812][219]LogInit: FAudioDevice initialized.
+[2018.07.24-13.55.53:844][219]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.07.24-13.55.53:846][219]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.07.24-22.55.53
+[2018.07.24-13.55.53:846][219]LogWorld: Bringing up level for play took: 0.001393
+[2018.07.24-13.55.53:847][219]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.182
+[2018.07.24-13.55.53:847][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.55.58:673][786]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.55.58:712][786]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.07.24-13.56.20:228][351]BlueprintLog: New page: TopDownCharacter 컴파일
+[2018.07.24-13.56.20:245][351]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a49c22700, Size=624
+[2018.07.24-13.56.20:245][351]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a27680400, Size=624, TopDownCharacter_C_195 Function /Engine/Transient.REINST_TopDownCharacter_C_82:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.56.20:250][351]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a97be8900, Size=624, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.56.20:728][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Character/TopDownCharacter" FILE="../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset" SILENT=true
+[2018.07.24-13.56.20:774][367]LogSavePackage: Save=38.39ms
+[2018.07.24-13.56.20:774][367]LogSavePackage: Moving '../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/TopDownCharacterBCEBC74A44594921CAC15DB477BE4331.tmp' to '../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset'
+[2018.07.24-13.56.20:777][367]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/DefOffGame/DefenseSurvival/Content/TopDownBP/Character/TopDownCharacter.uasset
+[2018.07.24-13.59.41:468][619]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a9645a690, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.59.45:006][ 35]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a9645a690, Size=4
+[2018.07.24-13.59.45:006][ 35]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a055ae648, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_86:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.59.45:008][ 35]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a055afaa8, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.59.46:372][193]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a055afaa8, Size=4
+[2018.07.24-13.59.46:372][193]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a9645a1d0, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_88:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.59.46:374][193]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a96459c38, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.59.48:776][472]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a96459c38, Size=4
+[2018.07.24-13.59.48:776][472]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a055ae350, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_90:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-13.59.48:778][472]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a055af440, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.01.05:683][746]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a055af440, Size=4
+[2018.07.24-14.01.05:683][746]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a055af440, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_92:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.01.05:685][746]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a055ae2e0, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.01.07:532][959]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a055ae2e0, Size=4
+[2018.07.24-14.01.07:532][959]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a1fbda0f8, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_94:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.01.07:534][959]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a1fbda230, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.01.10:538][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a1fbda230, Size=4
+[2018.07.24-14.01.10:538][310]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a82112988, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_96:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.01.10:540][310]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a821117c8, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.01.19:452][352]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a821117c8, Size=4
+[2018.07.24-14.01.19:452][352]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a1fbd9310, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_98:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.01.19:455][352]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a1fbd9848, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.01.57:413][110]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a1fbd9310, Size=4
+[2018.07.24-14.01.57:413][110]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a27680400, Size=624
+[2018.07.24-14.01.57:535][110]LogSavePackage: Save=107.43ms
+[2018.07.24-14.01.57:535][110]LogSavePackage: Moving '../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/TopDownExampleMap_Auto2AF588B5741C3F2EDEB1038BB09E9EBA1.tmp' to '../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2018.07.24-14.01.57:537][110]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+[2018.07.24-14.01.57:539][110]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.144
+[2018.07.24-14.01.57:539][110]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.144
+[2018.07.24-14.01.57:541][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/TopDownCharacter] ([1] browsable assets)...
+[2018.07.24-14.01.57:553][110]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter]
+[2018.07.24-14.01.57:553][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/TopDownCharacter]
+[2018.07.24-14.01.57:600][110]LogSavePackage: Save=38.41ms
+[2018.07.24-14.01.57:600][110]LogSavePackage: Moving '../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/TopDownCharacter_Auto2CFB756D744B355D20EFA73A8D712A244.tmp' to '../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/Autosaves/Game/TopDownBP/Character/TopDownCharacter_Auto2.uasset'
+[2018.07.24-14.01.57:601][110]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/DefOffGame/DefenseSurvival/Saved/Autosaves/Game/TopDownBP/Character/TopDownCharacter_Auto2.uasset
+[2018.07.24-14.01.57:601][110]LogFileHelpers: Auto-saving content packages took 0.062
+[2018.07.24-14.02.03:370][128]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a1fbd9848, Size=4
+[2018.07.24-14.02.03:370][128]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a82111140, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_104:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.02.03:373][128]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a82110878, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.02.17:786][848]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a82110878, Size=4
+[2018.07.24-14.02.17:786][848]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a055acb88, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_106:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.02.17:790][848]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a055adb08, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.02.25:742][776]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a055adb08, Size=4
+[2018.07.24-14.02.25:743][776]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a96458e28, Size=4, Default__SKEL_TopDownCharacter_C Function /Engine/Transient.REINST_SKEL_TopDownCharacter_C_108:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.02.25:745][776]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a9645acf8, Size=4, Default__SKEL_TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.SKEL_TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.07.24-14.02.26:477][776]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.732 s
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: 
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 45]
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name '0.000000'! You must pass in fully qualified package names
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: Stack: 
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000DA0DB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D9E3AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D9E4ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D99BB95C UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D98CD47F UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D98E549F UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D98DDAEF UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D993219E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D98DCD28 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D9659404 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D38043B2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFCD7785 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFD0C23C UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFCCD10E UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFCC8A45 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFCC7C47 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D37FB843 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D37D88C9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D1C56FB3 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D1BF16FC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D1BF5A8C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFBE90A4 UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFBE7321 UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFBC88D0 UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFBCA29A UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFBC96D7 UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFBEE8AC UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000CFBE4B8D UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D63F485C UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D63C7D75 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D645F617 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D6447D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000D643B3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000FA3BE69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000FA3B1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000FA3C052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000FA3AD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x0000000022006CC1 USER32.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x0000000022006693 USER32.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x00000000FA3C1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x000000005C465475 UE4Editor.exe!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x000000005C476BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x000000005C476C4A UE4Editor.exe!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x000000005C484177 UE4Editor.exe!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x000000005C485B87 UE4Editor.exe!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x0000000023EE3034 KERNEL32.DLL!UnknownFunction []
+[2018.07.24-14.02.26:477][776]LogOutputDevice: Error: [Callstack] 0x0000000024201431 ntdll.dll!UnknownFunction []
+[2018.07.24-14.02.26:478][776]LogOutputDevice: Error: 
+[2018.07.24-14.02.26:487][776]LogStats:                SubmitErrorReport -  0.000 s
