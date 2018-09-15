@@ -1,0 +1,991 @@
+﻿Log file open, 09/16/18 00:49:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DefenseSurvival
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-295405556) SRandInit(-295405556).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.234871
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.070s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-OCEV6JO (192.168.25.12:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.15-15.49.42:613][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.15-15.49.42:613][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.15-15.49.42:624][  0]LogInit: Computer: DESKTOP-OCEV6JO
+[2018.09.15-15.49.42:624][  0]LogInit: User: joono
+[2018.09.15-15.49.42:624][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.09.15-15.49.42:624][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2018.09.15-15.49.42:624][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.15-15.49.42:624][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.15-15.49.42:624][  0]LogMemory: Process Physical Memory: 275.21 MB used, 275.21 MB peak
+[2018.09.15-15.49.42:624][  0]LogMemory: Process Virtual Memory: 265.50 MB used, 265.50 MB peak
+[2018.09.15-15.49.42:624][  0]LogMemory: Physical Memory: 5296.93 MB used,  11029.74 MB free, 16326.67 MB total
+[2018.09.15-15.49.42:624][  0]LogMemory: Virtual Memory: 4792.95 MB used,  11029.74 MB free, 134217728.00 MB total
+[2018.09.15-15.49.42:647][  0]LogInit: Using OS detected language (ko-KR).
+[2018.09.15-15.49.42:647][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.09.15-15.49.42:650][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.09.15-15.49.42:979][  0]LogStreaming: Display: Took  0.331s to EndInitTextLocalization.
+[2018.09.15-15.49.42:979][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.15-15.49.43:014][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.15-15.49.43:014][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.15-15.49.43:207][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.15-15.49.43:266][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.09.15-15.49.43:266][  0]LogD3D11RHI:       1987/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.15-15.49.43:268][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.15-15.49.43:268][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.15-15.49.43:268][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.15-15.49.43:273][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.15-15.49.43:273][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.15-15.49.43:273][  0]LogWindows: EnumDisplayDevices:
+[2018.09.15-15.49.43:273][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.09.15-15.49.43:273][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2018.09.15-15.49.43:274][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.15-15.49.43:274][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.15-15.49.43:274][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.15-15.49.43:274][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.09.15-15.49.43:274][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.15-15.49.43:274][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.15-15.49.43:274][  0]LogRHI: Texture pool is 1391 MB (70% of 1987 MB)
+[2018.09.15-15.49.43:299][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.09.15-15.49.43:299][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.15-15.49.43:299][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.15-15.49.43:310][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.15-15.49.43:408][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Intermediate/Shaders/WorkingDirectory/4608/).
+[2018.09.15-15.49.43:408][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joono/AppData/Local/Temp/UnrealShaderWorkingDir/F312C3754B1213278F1FDABB84C95ADB/'.
+[2018.09.15-15.49.43:616][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.15-15.49.43:629][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.15-15.49.43:642][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.15-15.49.43:654][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.15-15.49.43:667][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.15-15.49.43:680][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.15-15.49.43:693][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.15-15.49.43:705][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.15-15.49.43:712][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.15-15.49.43:723][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.15-15.49.43:733][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.15-15.49.43:744][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.15-15.49.43:755][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.15-15.49.43:766][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.15-15.49.43:777][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.15-15.49.43:800][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.15-15.49.43:800][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.15-15.49.43:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-15.49.43:813][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.15-15.49.43:850][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.15-15.49.43:860][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.15-15.49.43:871][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.15-15.49.43:882][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.15-15.49.43:893][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.15-15.49.43:905][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.15-15.49.43:905][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.15-15.49.44:022][  0]LogXGEController: Cleaning working directory: C:/Users/joono/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.15-15.49.44:022][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.15-15.49.44:022][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.15-15.49.44:022][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.15-15.49.44:640][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.15-15.49.44:694][  0]LogDerivedDataCache: Loaded boot cache 0.05s 70MB C:/Users/joono/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.15-15.49.44:694][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joono/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.15-15.49.44:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.15-15.49.44:694][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.15-15.49.44:695][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.15-15.49.44:695][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.15-15.49.44:708][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.15-15.49.44:720][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.15-15.49.44:720][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.15-15.49.44:720][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.15-15.49.44:730][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.15-15.49.44:730][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.15-15.49.44:730][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.15-15.49.44:730][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.15-15.49.44:853][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.09.15-15.49.45:111][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.15-15.49.45:238][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.15-15.49.45:241][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.15-15.49.45:241][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.15-15.49.45:241][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.15-15.49.45:241][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.15-15.49.45:241][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.15-15.49.45:275][  0]LogNetVersion: DefenseSurvival , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3696840644)
+[2018.09.15-15.49.45:662][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.068169 seconds
+[2018.09.15-15.49.45:666][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.15-15.49.45:666][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.09.15-15.49.45:666][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.15-15.49.47:139][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.15-15.49.47:170][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.15-15.49.47:537][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.09.15-15.49.47:537][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.09.15-15.49.47:557][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.09.15-15.49.47:577][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.09.15-15.49.48:090][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.15-15.49.48:301][  0]LogOcInput: OculusInput pre-init called
+[2018.09.15-15.49.48:409][  0]LogEngine: Initializing Engine...
+[2018.09.15-15.49.48:411][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.15-15.49.48:412][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.15-15.49.48:412][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.15-15.49.48:586][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.15-15.49.48:623][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-15.49.48:648][  0]LogInit: FAudioDevice initialized.
+[2018.09.15-15.49.48:717][  0]LogDerivedDataCache: Saved boot cache 0.07s 70MB C:/Users/joono/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.15-15.49.48:730][  0]LogInit: Texture streaming: Enabled
+[2018.09.15-15.49.48:747][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.15-15.49.48:759][  0]LogInit: Transaction tracking system initialized
+[2018.09.15-15.49.48:786][  0]BlueprintLog: New page: 에디터 로드
+[2018.09.15-15.49.48:863][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.09.15-15.49.48:958][  0]LogConsoleResponse: Display: 
+[2018.09.15-15.49.49:092][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.15-15.49.49:092][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.15-15.49.49:092][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.15-15.49.49:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.15-15.49.49:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.15-15.49.49:482][  0]LogFileCache: Scanning file cache for directory 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Content/' took 0.02s
+[2018.09.15-15.49.49:482][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.09.15-15.49.49:482][  0]Cmd: MAP LOAD FILE="../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.15-15.49.49:483][  0]LightingResults: New page: 라이팅 빌드
+[2018.09.15-15.49.49:485][  0]MapCheck: New page: 맵 체크
+[2018.09.15-15.49.49:485][  0]LightingResults: New page: 라이팅 빌드
+[2018.09.15-15.49.49:536][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022683f23ce0, Size=144, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2018.09.15-15.49.49:539][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022683162680, Size=120, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2018.09.15-15.49.49:594][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022683f23ce0, Size=144
+[2018.09.15-15.49.49:595][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022687c7f100, Size=144, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Engine/Transient.REINST_UE4ASP_HeroTPP_AnimBlueprint_C_0:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2018.09.15-15.49.49:595][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022683162680, Size=120
+[2018.09.15-15.49.49:595][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022683735a80, Size=120, Default__Ue4ASP_Character_C Function /Engine/Transient.REINST_Ue4ASP_Character_C_1:ExecuteUbergraph_Ue4ASP_Character
+[2018.09.15-15.49.49:611][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event 가  Crouch 입력 액션  에 대해 알려지지 않은 'Crouch' 액션을 레퍼런싱합니다.
+[2018.09.15-15.49.49:611][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event 가  Jump 입력 액션  에 대해 알려지지 않은 'Jump' 액션을 레퍼런싱합니다.
+[2018.09.15-15.49.49:611][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event 가  LookUp 입력 축  에 대해 알려지지 않은 'LookUp' 축을 레퍼런싱합니다.
+[2018.09.15-15.49.49:612][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event 가  Turn 입력 축  에 대해 알려지지 않은 'Turn' 축을 레퍼런싱합니다.
+[2018.09.15-15.49.49:614][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226888b1bc0, Size=144, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2018.09.15-15.49.49:616][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226888f20c0, Size=320, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2018.09.15-15.49.49:618][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0009.45] Ue4ASP_Character 컴파일에 성공했습니다만, 경고가 4 회 있습니다. [소요시간 28 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2018.09.15-15.49.49:656][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226887bab00, Size=1504, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.09.15-15.49.49:657][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226887df740, Size=264, Default__BuildingGhost_C Function /Game/TopDownBP/Blueprints/BuildingGhost.BuildingGhost_C:ExecuteUbergraph_BuildingGhost
+[2018.09.15-15.49.49:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688586700, Size=144, Default__짐승_C Function /Game/TopDownBP/Blueprints/짐승.짐승_C:ExecuteUbergraph_짐승
+[2018.09.15-15.49.49:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268896ddb8, Size=8, Default__아이템마스터_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.49:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226885318a0, Size=144, Default__인벤토리BP_C Function /Game/TopDownBP/인벤토리시스템/인벤토리BP.인벤토리BP_C:ExecuteUbergraph_인벤토리BP
+[2018.09.15-15.49.49:690][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688526b00, Size=328, Default__PickupItem_C Function /Game/TopDownBP/인벤토리시스템/아이템/PickupItem.PickupItem_C:ExecuteUbergraph_PickupItem
+[2018.09.15-15.49.49:720][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688905360, Size=88, Default__핫키UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/핫키UI.핫키UI_C:ExecuteUbergraph_핫키UI
+[2018.09.15-15.49.49:722][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688906e60, Size=88, Default__InGameUI_C Function /Game/TopDownBP/Blueprints/InGameUI.InGameUI_C:ExecuteUbergraph_InGameUI
+[2018.09.15-15.49.49:730][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226884f8540, Size=80, Default__임시UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/임시UI.임시UI_C:ExecuteUbergraph_임시UI
+[2018.09.15-15.49.49:732][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688904ee0, Size=96, Default__메인위젯UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/메인위젯UI.메인위젯UI_C:ExecuteUbergraph_메인위젯UI
+[2018.09.15-15.49.49:743][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688176780, Size=424, Default__인벤토리슬롯UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/인벤토리슬롯UI.인벤토리슬롯UI_C:ExecuteUbergraph_인벤토리슬롯UI
+[2018.09.15-15.49.49:753][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268896cf70, Size=4, Default__DetailWidget_C Function /Game/TopDownBP/인벤토리시스템/위젯/DetailWidget.DetailWidget_C:ExecuteUbergraph_DetailWidget
+[2018.09.15-15.49.49:758][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268810af20, Size=136, Default__DraggedItem_C Function /Game/TopDownBP/인벤토리시스템/위젯/DraggedItem.DraggedItem_C:ExecuteUbergraph_DraggedItem
+[2018.09.15-15.49.49:764][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688175440, Size=416, Default__ThrowWidget_C Function /Game/TopDownBP/인벤토리시스템/위젯/ThrowWidget.ThrowWidget_C:ExecuteUbergraph_ThrowWidget
+[2018.09.15-15.49.49:779][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226880ce750, Size=72, Default__도구제작UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/도구제작UI.도구제작UI_C:ExecuteUbergraph_도구제작UI
+[2018.09.15-15.49.49:796][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226880cce00, Size=72, Default__무기제작UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/무기제작UI.무기제작UI_C:ExecuteUbergraph_무기제작UI
+[2018.09.15-15.49.49:807][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688558520, Size=16, Default__인벤토리UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/인벤토리UI.인벤토리UI_C:ExecuteUbergraph_인벤토리UI
+[2018.09.15-15.49.49:811][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688558270, Size=12, Default__액션메뉴UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/액션메뉴UI.액션메뉴UI_C:ExecuteUbergraph_액션메뉴UI
+[2018.09.15-15.49.49:829][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688c275e8, Size=4, Default__제작가능무기모음_C Function /Game/TopDownBP/인벤토리시스템/위젯/제작가능무기모음.제작가능무기모음_C:ExecuteUbergraph_제작가능무기모음
+[2018.09.15-15.49.49:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688c275e0, Size=4, Default__제작가능도구모음_C Function /Game/TopDownBP/인벤토리시스템/위젯/제작가능도구모음.제작가능도구모음_C:ExecuteUbergraph_제작가능도구모음
+[2018.09.15-15.49.49:899][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688c24a68, Size=8, Default__자원_나무_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.49:900][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688c24a60, Size=8, Default__자원_나무_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.49:903][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688c24950, Size=8, Default__자원_돌_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.49:906][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688c24900, Size=8, Default__도구_돌곡괭이_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.49:910][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688c24880, Size=8, Default__도구_돌도끼_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.49:914][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688c247e8, Size=8, Default__무기_반지_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:008][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226887df740, Size=264
+[2018.09.15-15.49.50:008][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688bc96c0, Size=264, Default__BuildingGhost_C Function /Engine/Transient.REINST_BuildingGhost_C_12:ExecuteUbergraph_BuildingGhost
+[2018.09.15-15.49.50:010][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688526b00, Size=328
+[2018.09.15-15.49.50:010][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268995f280, Size=328, Default__PickupItem_C Function /Engine/Transient.REINST_PickupItem_C_14:ExecuteUbergraph_PickupItem
+[2018.09.15-15.49.50:011][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268896ddb8, Size=8
+[2018.09.15-15.49.50:011][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226899d7930, Size=8, Default__아이템마스터_C Function /Engine/Transient.REINST_아이템마스터_C_15:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:012][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226885318a0, Size=144
+[2018.09.15-15.49.50:012][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268994a200, Size=144, Default__인벤토리BP_C Function /Engine/Transient.REINST_인벤토리BP_C_16:ExecuteUbergraph_인벤토리BP
+[2018.09.15-15.49.50:012][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688c24900, Size=8
+[2018.09.15-15.49.50:012][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226899d7918, Size=8, Default__도구_돌곡괭이_C Function /Engine/Transient.REINST_아이템마스터_C_15:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:012][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688c24880, Size=8
+[2018.09.15-15.49.50:012][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226899d7910, Size=8, Default__도구_돌도끼_C Function /Engine/Transient.REINST_아이템마스터_C_15:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:012][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688c247e8, Size=8
+[2018.09.15-15.49.50:012][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226899d7908, Size=8, Default__무기_반지_C Function /Engine/Transient.REINST_아이템마스터_C_15:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:013][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688c24a60, Size=8
+[2018.09.15-15.49.50:013][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226899d7900, Size=8, Default__자원_나무_C Function /Engine/Transient.REINST_아이템마스터_C_15:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:013][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688c24950, Size=8
+[2018.09.15-15.49.50:013][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226899d78f8, Size=8, Default__자원_돌_C Function /Engine/Transient.REINST_아이템마스터_C_15:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:013][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268896cf70, Size=4
+[2018.09.15-15.49.50:013][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226899d78f0, Size=4, Default__DetailWidget_C Function /Engine/Transient.REINST_DetailWidget_C_0:ExecuteUbergraph_DetailWidget
+[2018.09.15-15.49.50:013][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268810af20, Size=136
+[2018.09.15-15.49.50:013][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226899485e0, Size=136, Default__DraggedItem_C Function /Engine/Transient.REINST_DraggedItem_C_1:ExecuteUbergraph_DraggedItem
+[2018.09.15-15.49.50:013][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688906e60, Size=88
+[2018.09.15-15.49.50:013][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689c39b40, Size=88, Default__InGameUI_C Function /Engine/Transient.REINST_InGameUI_C_2:ExecuteUbergraph_InGameUI
+[2018.09.15-15.49.50:014][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688175440, Size=416
+[2018.09.15-15.49.50:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268996a940, Size=416, Default__ThrowWidget_C Function /Engine/Transient.REINST_ThrowWidget_C_4:ExecuteUbergraph_ThrowWidget
+[2018.09.15-15.49.50:015][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226887bab00, Size=1504
+[2018.09.15-15.49.50:015][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268991ab00, Size=1504, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_22:ExecuteUbergraph_TopDownCharacter
+[2018.09.15-15.49.50:015][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226880ce750, Size=72
+[2018.09.15-15.49.50:015][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689917330, Size=72, Default__도구제작UI_C Function /Engine/Transient.REINST_도구제작UI_C_6:ExecuteUbergraph_도구제작UI
+[2018.09.15-15.49.50:015][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688904ee0, Size=96
+[2018.09.15-15.49.50:015][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689c39a80, Size=96, Default__메인위젯UI_C Function /Engine/Transient.REINST_메인위젯UI_C_7:ExecuteUbergraph_메인위젯UI
+[2018.09.15-15.49.50:016][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226880cce00, Size=72
+[2018.09.15-15.49.50:016][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689916c50, Size=72, Default__무기제작UI_C Function /Engine/Transient.REINST_무기제작UI_C_9:ExecuteUbergraph_무기제작UI
+[2018.09.15-15.49.50:016][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688558270, Size=12
+[2018.09.15-15.49.50:016][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689b3c200, Size=12, Default__액션메뉴UI_C Function /Engine/Transient.REINST_액션메뉴UI_C_10:ExecuteUbergraph_액션메뉴UI
+[2018.09.15-15.49.50:016][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688558520, Size=16
+[2018.09.15-15.49.50:016][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226898efff0, Size=16, Default__인벤토리UI_C Function /Engine/Transient.REINST_인벤토리UI_C_11:ExecuteUbergraph_인벤토리UI
+[2018.09.15-15.49.50:017][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688176780, Size=424
+[2018.09.15-15.49.50:017][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689969980, Size=424, Default__인벤토리슬롯UI_C Function /Engine/Transient.REINST_인벤토리슬롯UI_C_12:ExecuteUbergraph_인벤토리슬롯UI
+[2018.09.15-15.49.50:017][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226884f8540, Size=80
+[2018.09.15-15.49.50:017][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689915f80, Size=80, Default__임시UI_C Function /Engine/Transient.REINST_임시UI_C_13:ExecuteUbergraph_임시UI
+[2018.09.15-15.49.50:017][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688c275e0, Size=4
+[2018.09.15-15.49.50:017][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226899d7890, Size=4, Default__제작가능도구모음_C Function /Engine/Transient.REINST_제작가능도구모음_C_14:ExecuteUbergraph_제작가능도구모음
+[2018.09.15-15.49.50:017][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688c275e8, Size=4
+[2018.09.15-15.49.50:017][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226899d7880, Size=4, Default__제작가능무기모음_C Function /Engine/Transient.REINST_제작가능무기모음_C_15:ExecuteUbergraph_제작가능무기모음
+[2018.09.15-15.49.50:018][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688586700, Size=144
+[2018.09.15-15.49.50:018][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226898e4900, Size=144, Default__짐승_C Function /Engine/Transient.REINST_짐승_C_23:ExecuteUbergraph_짐승
+[2018.09.15-15.49.50:018][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688905360, Size=88
+[2018.09.15-15.49.50:018][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689c39720, Size=88, Default__핫키UI_C Function /Engine/Transient.REINST_핫키UI_C_16:ExecuteUbergraph_핫키UI
+[2018.09.15-15.49.50:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc56afc0, Size=264, Default__BuildingGhost_C Function /Game/TopDownBP/Blueprints/BuildingGhost.BuildingGhost_C:ExecuteUbergraph_BuildingGhost
+[2018.09.15-15.49.50:117][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268a13a380, Size=328, Default__PickupItem_C Function /Game/TopDownBP/인벤토리시스템/아이템/PickupItem.PickupItem_C:ExecuteUbergraph_PickupItem
+[2018.09.15-15.49.50:118][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc52b1e0, Size=8, Default__아이템마스터_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:126][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268a085260, Size=144, Default__인벤토리BP_C Function /Game/TopDownBP/인벤토리시스템/인벤토리BP.인벤토리BP_C:ExecuteUbergraph_인벤토리BP
+[2018.09.15-15.49.50:128][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc52a6a0, Size=8, Default__도구_돌곡괭이_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:128][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc52a698, Size=8, Default__도구_돌도끼_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:128][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc52a690, Size=8, Default__무기_반지_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:128][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc52a688, Size=8, Default__자원_나무_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:128][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc52a680, Size=8, Default__자원_돌_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:129][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc52a570, Size=4, Default__DetailWidget_C Function /Game/TopDownBP/인벤토리시스템/위젯/DetailWidget.DetailWidget_C:ExecuteUbergraph_DetailWidget
+[2018.09.15-15.49.50:129][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689fc6ac0, Size=136, Default__DraggedItem_C Function /Game/TopDownBP/인벤토리시스템/위젯/DraggedItem.DraggedItem_C:ExecuteUbergraph_DraggedItem
+[2018.09.15-15.49.50:130][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268a134220, Size=88, Default__InGameUI_C Function /Game/TopDownBP/Blueprints/InGameUI.InGameUI_C:ExecuteUbergraph_InGameUI
+[2018.09.15-15.49.50:133][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689f9ee80, Size=416, Default__ThrowWidget_C Function /Game/TopDownBP/인벤토리시스템/위젯/ThrowWidget.ThrowWidget_C:ExecuteUbergraph_ThrowWidget
+[2018.09.15-15.49.50:138][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689f7c100, Size=1504, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.09.15-15.49.50:143][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689ec90d0, Size=72, Default__도구제작UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/도구제작UI.도구제작UI_C:ExecuteUbergraph_도구제작UI
+[2018.09.15-15.49.50:145][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689f90a00, Size=96, Default__메인위젯UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/메인위젯UI.메인위젯UI_C:ExecuteUbergraph_메인위젯UI
+[2018.09.15-15.49.50:150][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689e286d0, Size=72, Default__무기제작UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/무기제작UI.무기제작UI_C:ExecuteUbergraph_무기제작UI
+[2018.09.15-15.49.50:152][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268a1553c0, Size=12, Default__액션메뉴UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/액션메뉴UI.액션메뉴UI_C:ExecuteUbergraph_액션메뉴UI
+[2018.09.15-15.49.50:153][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268a1551b0, Size=16, Default__인벤토리UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/인벤토리UI.인벤토리UI_C:ExecuteUbergraph_인벤토리UI
+[2018.09.15-15.49.50:155][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689e69440, Size=424, Default__인벤토리슬롯UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/인벤토리슬롯UI.인벤토리슬롯UI_C:ExecuteUbergraph_인벤토리슬롯UI
+[2018.09.15-15.49.50:157][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268ad23f60, Size=80, Default__임시UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/임시UI.임시UI_C:ExecuteUbergraph_임시UI
+[2018.09.15-15.49.50:157][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc528910, Size=4, Default__제작가능도구모음_C Function /Game/TopDownBP/인벤토리시스템/위젯/제작가능도구모음.제작가능도구모음_C:ExecuteUbergraph_제작가능도구모음
+[2018.09.15-15.49.50:158][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc5288b8, Size=4, Default__제작가능무기모음_C Function /Game/TopDownBP/인벤토리시스템/위젯/제작가능무기모음.제작가능무기모음_C:ExecuteUbergraph_제작가능무기모음
+[2018.09.15-15.49.50:159][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268ad5c400, Size=144, Default__짐승_C Function /Game/TopDownBP/Blueprints/짐승.짐승_C:ExecuteUbergraph_짐승
+[2018.09.15-15.49.50:161][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689db5420, Size=88, Default__핫키UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/핫키UI.핫키UI_C:ExecuteUbergraph_핫키UI
+[2018.09.15-15.49.50:296][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc5682c0, Size=264, Default__Campfire_C Function /Game/TopDownBP/Blueprints/Campfire.Campfire_C:ExecuteUbergraph_Campfire
+[2018.09.15-15.49.50:299][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226dc5682c0, Size=264
+[2018.09.15-15.49.50:299][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc5682c0, Size=264, Default__Campfire_C Function /Engine/Transient.REINST_Campfire_C_51:ExecuteUbergraph_Campfire
+[2018.09.15-15.49.50:301][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226dc568400, Size=264, Default__Campfire_C Function /Game/TopDownBP/Blueprints/Campfire.Campfire_C:ExecuteUbergraph_Campfire
+[2018.09.15-15.49.50:306][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268acf2c20, Size=48, Default__DayAndNight_C Function /Game/TopDownBP/Blueprints/DayAndNight.DayAndNight_C:ExecuteUbergraph_DayAndNight
+[2018.09.15-15.49.50:313][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268acf2c20, Size=48
+[2018.09.15-15.49.50:313][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268acf2c20, Size=48, Default__DayAndNight_C Function /Engine/Transient.REINST_DayAndNight_C_53:ExecuteUbergraph_DayAndNight
+[2018.09.15-15.49.50:319][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226888801c0, Size=48, Default__DayAndNight_C Function /Game/TopDownBP/Blueprints/DayAndNight.DayAndNight_C:ExecuteUbergraph_DayAndNight
+[2018.09.15-15.49.50:329][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268855d180, Size=384, Default__나무_C Function /Game/TopDownBP/Blueprints/나무.나무_C:ExecuteUbergraph_나무
+[2018.09.15-15.49.50:334][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268855d180, Size=384
+[2018.09.15-15.49.50:334][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226890bd000, Size=384, Default__나무_C Function /Engine/Transient.REINST_나무_C_55:ExecuteUbergraph_나무
+[2018.09.15-15.49.50:337][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688d4df00, Size=384, Default__나무_C Function /Game/TopDownBP/Blueprints/나무.나무_C:ExecuteUbergraph_나무
+[2018.09.15-15.49.50:350][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688fd4f00, Size=392, Default__바위_C Function /Game/TopDownBP/Blueprints/바위.바위_C:ExecuteUbergraph_바위
+[2018.09.15-15.49.50:355][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688fd4f00, Size=392
+[2018.09.15-15.49.50:355][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022689183740, Size=392, Default__바위_C Function /Engine/Transient.REINST_바위_C_57:ExecuteUbergraph_바위
+[2018.09.15-15.49.50:358][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226891833c0, Size=392, Default__바위_C Function /Game/TopDownBP/Blueprints/바위.바위_C:ExecuteUbergraph_바위
+[2018.09.15-15.49.50:373][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688cb6760, Size=12, Default__아이템_체력포션_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템_체력포션.아이템_체력포션_C:ExecuteUbergraph_아이템_체력포션
+[2018.09.15-15.49.50:373][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268a993cf8, Size=8, Default__아이템_체력포션_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:376][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688cb6760, Size=12
+[2018.09.15-15.49.50:376][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268a993cf8, Size=8
+[2018.09.15-15.49.50:376][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022688cb6760, Size=12, Default__아이템_체력포션_C Function /Engine/Transient.REINST_아이템_체력포션_C_63:ExecuteUbergraph_아이템_체력포션
+[2018.09.15-15.49.50:376][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268a993cf8, Size=8, Default__아이템_체력포션_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:378][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268904ddd0, Size=12, Default__아이템_체력포션_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템_체력포션.아이템_체력포션_C:ExecuteUbergraph_아이템_체력포션
+[2018.09.15-15.49.50:378][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002268a993948, Size=8, Default__아이템_체력포션_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2018.09.15-15.49.50:455][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.338209ms] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2018.09.15-15.49.50:765][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.082781ms] /Engine/EngineMeshes/SkeletalCube.SkeletalCube
+[2018.09.15-15.49.51:023][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.15-15.49.51:029][  0]LogMaterial: Warning: Material /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.GradientMap_Multi_Example needed to have new flag set bUsedWithSkeletalMesh !
+[2018.09.15-15.49.51:030][  0]LogMaterial: Missing cached shader map for material GradientMap_Multi_Example, compiling. 
+[2018.09.15-15.49.51:050][  0]MapCheck: Warning: GradientMap_Multi_Example /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.GradientMap_Multi_Example 머티리얼이 bUsedWithSkeletalMesh 사용 플래그에 빠져있었습니다. 머티리얼 애셋이 재저장되지 않은 경우, 에디터 밖에서 실행시 제대로 렌더링되지 않을 수 있습니다. 픽스
+[2018.09.15-15.49.51:058][  0]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.15-15.49.51:058][  0]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.15-15.49.51:058][  0]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.15-15.49.51:058][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.15-15.49.51:074][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022687c7f100, Size=144
+[2018.09.15-15.49.51:074][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022683735a80, Size=120
+[2018.09.15-15.49.51:074][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268991ab00, Size=1504
+[2018.09.15-15.49.51:074][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688bc96c0, Size=264
+[2018.09.15-15.49.51:074][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226898e4900, Size=144
+[2018.09.15-15.49.51:074][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226899d7930, Size=8
+[2018.09.15-15.49.51:074][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268994a200, Size=144
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268995f280, Size=328
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022689c39720, Size=88
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022689c39b40, Size=88
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022689915f80, Size=80
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022689c39a80, Size=96
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022689969980, Size=424
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226899d78f0, Size=4
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226899485e0, Size=136
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268996a940, Size=416
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022689917330, Size=72
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022689916c50, Size=72
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226898efff0, Size=16
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226899d7880, Size=4
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226899d7890, Size=4
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226899d7900, Size=8
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226899d78f8, Size=8
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226899d7918, Size=8
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226899d7910, Size=8
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226899d7908, Size=8
+[2018.09.15-15.49.51:075][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226dc5682c0, Size=264
+[2018.09.15-15.49.51:076][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268acf2c20, Size=48
+[2018.09.15-15.49.51:076][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000226890bd000, Size=384
+[2018.09.15-15.49.51:076][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022689183740, Size=392
+[2018.09.15-15.49.51:076][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022688cb6760, Size=12
+[2018.09.15-15.49.51:076][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002268a993cf8, Size=8
+[2018.09.15-15.49.51:079][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.15-15.49.51:168][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 1 회, 소요 시간 89.093ms.
+[2018.09.15-15.49.51:185][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.703
+[2018.09.15-15.49.51:309][  0]LogCollectionManager: Loaded 0 collections in 0.002044 seconds
+[2018.09.15-15.49.51:353][  0]LogFileCache: Scanning file cache for directory 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Saved/Collections/' took 0.01s
+[2018.09.15-15.49.51:353][  0]LogFileCache: Scanning file cache for directory 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Content/Developers/joono/Collections/' took 0.01s
+[2018.09.15-15.49.51:353][  0]LogFileCache: Scanning file cache for directory 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Content/Collections/' took 0.01s
+[2018.09.15-15.49.51:353][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.15-15.49.51:361][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2452 classes and 558 folders.
+[2018.09.15-15.49.51:368][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.15-15.49.51:420][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.15-15.49.51:427][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.15-15.49.51:441][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.15-15.49.51:444][  0]LogSlate: Took 0.002170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.09.15-15.49.51:447][  0]LogSlate: Took 0.002102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2018.09.15-15.49.51:447][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.15-15.49.51:450][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.15-15.49.51:545][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.15-15.49.51:649][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.15-15.49.51:649][  0]LogLoad: (Engine Initialization) Total time: 11.48 seconds
+[2018.09.15-15.49.51:649][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.15-15.49.51:660][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.09.15-15.49.51:685][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.15-15.49.51:713][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.15-15.49.51:786][  1]LogAssetRegistry: Asset discovery search completed in 6.9560 seconds
+[2018.09.15-15.49.51:788][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.15-15.49.51:788][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2018.09.15-15.49.52:699][ 94]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.15-15.49.52:701][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.15-15.49.52:923][ 94]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.15-15.49.52:957][ 94]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.09.15-15.49.53:233][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226efa5dd30, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.15-15.49.53:234][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x00000226efa5dcf8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.15-15.49.54:076][ 94]LogLinker: Warning: 애셋 이름을 해석할 수 없습니다.
+[2018.09.15-15.49.54:323][ 94]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:UserConstructionScript'!
+[2018.09.15-15.49.54:323][ 94]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:UserConstructionScript'!
+[2018.09.15-15.49.54:323][ 94]LogScript: Warning: CallFunc_Array_Get_Item 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownCharacter_C /Engine/Transient.World_5:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:00DA
+[2018.09.15-15.49.54:332][ 94]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.15-15.49.54:397][ 95]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.15-15.49.57:837][484]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.15-15.49.59:708][682]LogEditorViewport: Clicking on Actor (LMB): 바위_C (바위)
+[2018.09.15-15.50.02:213][958]LogEditorViewport: Clicking on Actor (LMB): 나무_C (나무)
+[2018.09.15-15.50.03:913][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2018.09.15-15.50.04:648][238]Cmd: DELETE
+[2018.09.15-15.50.04:648][238]Cmd: ACTOR DELETE
+[2018.09.15-15.50.04:654][238]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.15-15.50.04:679][238]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.09.15-15.50.04:911][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.09.15-15.50.05:060][277]Cmd: DELETE
+[2018.09.15-15.50.05:060][277]Cmd: ACTOR DELETE
+[2018.09.15-15.50.05:061][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.15-15.50.05:079][277]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.09.15-15.50.05:501][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.09.15-15.50.05:599][333]Cmd: DELETE
+[2018.09.15-15.50.05:599][333]Cmd: ACTOR DELETE
+[2018.09.15-15.50.05:600][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.15-15.50.05:618][333]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.09.15-15.50.05:848][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.15-15.50.05:954][367]Cmd: DELETE
+[2018.09.15-15.50.05:954][367]Cmd: ACTOR DELETE
+[2018.09.15-15.50.05:955][367]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.15-15.50.05:971][367]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.09.15-15.50.06:496][430]LogEditorViewport: Clicking on Actor (LMB): PickupItem_C (체력포션3)
+[2018.09.15-15.50.08:618][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.15-15.50.09:225][746]LogEditorViewport: Clicking on Actor (LMB): Campfire_C (Campfire)
+[2018.09.15-15.50.09:622][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.15-15.50.15:312][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.09.15-15.50.16:773][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.50.17:385][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.15-15.50.17:402][657]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.09.15-15.50.21:797][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.50.36:383][796]LogAIModule: Creating AISystem for world Overview
+[2018.09.15-15.50.37:713][796]LogSavePackage: Save=50.90ms
+[2018.09.15-15.50.37:713][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/Overview483D79F34EB73D0465DC5E8345CD927A.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Maps/Overview.umap'
+[2018.09.15-15.50.37:717][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Maps/Overview.umap
+[2018.09.15-15.50.37:721][796]LogFileHelpers: Saving map 'Overview' took 0.166
+[2018.09.15-15.50.37:904][796]LogSavePackage: Save=177.58ms
+[2018.09.15-15.50.37:904][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/Overview_BuiltDataDF8AA4A345C3CA51D022DDB45FD57ADD.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Maps/Overview_BuiltData.uasset'
+[2018.09.15-15.50.37:906][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Maps/Overview_BuiltData.uasset
+[2018.09.15-15.50.37:957][796]LogSavePackage: Save=16.12ms
+[2018.09.15-15.50.37:957][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/M_FireParticle6EFD8F2F4EDA72781803D1BBA60839BB.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Materials/M_FireParticle.uasset'
+[2018.09.15-15.50.37:960][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Materials/M_FireParticle.uasset
+[2018.09.15-15.50.37:992][796]LogSavePackage: Save=11.82ms
+[2018.09.15-15.50.37:992][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/M_MainC83F7E954968B6D87DBF848024B1AAC2.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Materials/M_Main.uasset'
+[2018.09.15-15.50.37:994][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Materials/M_Main.uasset
+[2018.09.15-15.50.38:032][796]LogSavePackage: Save=11.47ms
+[2018.09.15-15.50.38:032][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/M_Tree_Proxy7B6F31BC4CF0933A1EC8C5B1BC576461.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Materials/M_Tree_Proxy.uasset'
+[2018.09.15-15.50.38:035][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Materials/M_Tree_Proxy.uasset
+[2018.09.15-15.50.38:072][796]LogSavePackage: Save=15.03ms
+[2018.09.15-15.50.38:072][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/M_Water089E2B5D4CA44D989C02D39DD1A48547.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Materials/M_Water.uasset'
+[2018.09.15-15.50.38:075][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Materials/M_Water.uasset
+[2018.09.15-15.50.38:114][796]LogSavePackage: Save=12.49ms
+[2018.09.15-15.50.38:114][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/M_WaterParticleC4F0891945B220416B2FFA8FBAB5CD79.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Materials/M_WaterParticle.uasset'
+[2018.09.15-15.50.38:117][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Materials/M_WaterParticle.uasset
+[2018.09.15-15.50.38:153][796]LogSavePackage: Save=14.08ms
+[2018.09.15-15.50.38:153][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_AgaveLow9B698EEC4FAC7E2B07C22BB28E940A12.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_AgaveLow.uasset'
+[2018.09.15-15.50.38:156][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_AgaveLow.uasset
+[2018.09.15-15.50.38:192][796]LogSavePackage: Save=14.49ms
+[2018.09.15-15.50.38:192][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Bridge_Forest3824632A48DCE4BBE721E494B9F1E716.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Bridge_Forest.uasset'
+[2018.09.15-15.50.38:194][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Bridge_Forest.uasset
+[2018.09.15-15.50.38:225][796]LogSavePackage: Save=13.96ms
+[2018.09.15-15.50.38:225][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Bush19B5AF484482D7AE6AFA5B0A19C844FFC.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Bush1.uasset'
+[2018.09.15-15.50.38:227][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Bush1.uasset
+[2018.09.15-15.50.38:261][796]LogSavePackage: Save=17.01ms
+[2018.09.15-15.50.38:261][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Bush2300318FB4A6D5CC0008E0F8AFBE5DF20.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Bush2.uasset'
+[2018.09.15-15.50.38:263][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Bush2.uasset
+[2018.09.15-15.50.38:299][796]LogSavePackage: Save=13.65ms
+[2018.09.15-15.50.38:299][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_CampFireDF5719C1423C6A688C7B9F8308F4FE0B.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_CampFire.uasset'
+[2018.09.15-15.50.38:302][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_CampFire.uasset
+[2018.09.15-15.50.38:334][796]LogSavePackage: Save=12.17ms
+[2018.09.15-15.50.38:334][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_CaveLightBlocker9128B9B644F300910F60D69C40C46785.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_CaveLightBlocker.uasset'
+[2018.09.15-15.50.38:336][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_CaveLightBlocker.uasset
+[2018.09.15-15.50.38:372][796]LogSavePackage: Save=15.23ms
+[2018.09.15-15.50.38:372][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Conifer1_DistantD366D8DD49C097B34A5FE7BD68BAB37E.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer1_Distant.uasset'
+[2018.09.15-15.50.38:375][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer1_Distant.uasset
+[2018.09.15-15.50.38:411][796]LogSavePackage: Save=15.41ms
+[2018.09.15-15.50.38:411][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Conifer1_High023E8003436301658FF80C8BAE67CDBC.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer1_High.uasset'
+[2018.09.15-15.50.38:413][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer1_High.uasset
+[2018.09.15-15.50.38:450][796]LogSavePackage: Save=19.95ms
+[2018.09.15-15.50.38:450][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Conifer1_Low50056D064C8A5E60F2CAA5904380B4CD.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer1_Low.uasset'
+[2018.09.15-15.50.38:452][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer1_Low.uasset
+[2018.09.15-15.50.38:489][796]LogSavePackage: Save=14.84ms
+[2018.09.15-15.50.38:489][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Conifer2_DistantB9055EB34D09669894FDA2BD66349C6A.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer2_Distant.uasset'
+[2018.09.15-15.50.38:491][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer2_Distant.uasset
+[2018.09.15-15.50.38:526][796]LogSavePackage: Save=16.23ms
+[2018.09.15-15.50.38:526][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Conifer2_Low4DC4B41448868FB26D6B838BE377E71D.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer2_Low.uasset'
+[2018.09.15-15.50.38:529][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer2_Low.uasset
+[2018.09.15-15.50.38:560][796]LogSavePackage: Save=13.57ms
+[2018.09.15-15.50.38:560][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Conifer_ProxyBECD671E4C56526CB8DD8884E10194B0.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer_Proxy.uasset'
+[2018.09.15-15.50.38:562][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Conifer_Proxy.uasset
+[2018.09.15-15.50.38:593][796]LogSavePackage: Save=17.25ms
+[2018.09.15-15.50.38:594][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Demo_Basemesh8E3C03884A307BE4B5254F863490C9C8.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Demo_Basemesh.uasset'
+[2018.09.15-15.50.38:596][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Demo_Basemesh.uasset
+[2018.09.15-15.50.38:623][796]LogSavePackage: Save=11.87ms
+[2018.09.15-15.50.38:623][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Demo_WatermeshDD390535402FDCC48FB137863768C1D0.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Demo_Watermesh.uasset'
+[2018.09.15-15.50.38:625][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Demo_Watermesh.uasset
+[2018.09.15-15.50.38:655][796]LogSavePackage: Save=12.87ms
+[2018.09.15-15.50.38:655][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Demo_WaterTopD999F86C4DB6FFB6362C60BABEB9E1A1.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Demo_WaterTop.uasset'
+[2018.09.15-15.50.38:657][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Demo_WaterTop.uasset
+[2018.09.15-15.50.38:687][796]LogSavePackage: Save=12.66ms
+[2018.09.15-15.50.38:687][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_DistantBackgroundMountainsA786E86D48B6C99ADF933894A66A927D.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_DistantBackgroundMountains.uasset'
+[2018.09.15-15.50.38:689][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_DistantBackgroundMountains.uasset
+[2018.09.15-15.50.38:722][796]LogSavePackage: Save=13.94ms
+[2018.09.15-15.50.38:722][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_FlowerBlue6453136A4DF17F2B03C4A8A1F637B2AA.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_FlowerBlue.uasset'
+[2018.09.15-15.50.38:724][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_FlowerBlue.uasset
+[2018.09.15-15.50.38:760][796]LogSavePackage: Save=13.57ms
+[2018.09.15-15.50.38:760][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_FlowerRed8B95C4F646B83C014B13508C473EBC8B.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_FlowerRed.uasset'
+[2018.09.15-15.50.38:763][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_FlowerRed.uasset
+[2018.09.15-15.50.38:793][796]LogSavePackage: Save=13.59ms
+[2018.09.15-15.50.38:793][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_FlowerWhite43E64544445698091BBA508504C8C76A.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_FlowerWhite.uasset'
+[2018.09.15-15.50.38:796][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_FlowerWhite.uasset
+[2018.09.15-15.50.38:826][796]LogSavePackage: Save=13.64ms
+[2018.09.15-15.50.38:826][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Ladder9DBFE9EC469F51FC0E8C5CBE60013E05.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Ladder.uasset'
+[2018.09.15-15.50.38:829][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Ladder.uasset
+[2018.09.15-15.50.38:864][796]LogSavePackage: Save=17.73ms
+[2018.09.15-15.50.38:864][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Mushroom8258F405406FC7076E60CD859BF85A2F.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Mushroom.uasset'
+[2018.09.15-15.50.38:866][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Mushroom.uasset
+[2018.09.15-15.50.38:900][796]LogSavePackage: Save=13.31ms
+[2018.09.15-15.50.38:900][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_MushroomsEAD662994EF4A6AD25A9D9B289224EC5.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Mushrooms.uasset'
+[2018.09.15-15.50.38:903][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Mushrooms.uasset
+[2018.09.15-15.50.38:938][796]LogSavePackage: Save=14.49ms
+[2018.09.15-15.50.38:938][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_MushroomsYellowF4D7B92240F460EF8111D990BA5E00D3.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_MushroomsYellow.uasset'
+[2018.09.15-15.50.38:941][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_MushroomsYellow.uasset
+[2018.09.15-15.50.38:975][796]LogSavePackage: Save=14.80ms
+[2018.09.15-15.50.38:975][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_ReedBig3858D1184F68CA1EF96937BBFAE52885.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_ReedBig.uasset'
+[2018.09.15-15.50.38:977][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_ReedBig.uasset
+[2018.09.15-15.50.39:008][796]LogSavePackage: Save=13.64ms
+[2018.09.15-15.50.39:008][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Rock180EEF794B82CD9B0609C0A40DAD1146.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Rock.uasset'
+[2018.09.15-15.50.39:010][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Rock.uasset
+[2018.09.15-15.50.39:044][796]LogSavePackage: Save=14.77ms
+[2018.09.15-15.50.39:044][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_RockGrey1_high2565621C4CCF54363A815DA68B77DA46.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_RockGrey1_high.uasset'
+[2018.09.15-15.50.39:046][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_RockGrey1_high.uasset
+[2018.09.15-15.50.39:077][796]LogSavePackage: Save=13.01ms
+[2018.09.15-15.50.39:077][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_RockGrey2_high52AE83F54617FF95E3F288976855EC07.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_RockGrey2_high.uasset'
+[2018.09.15-15.50.39:079][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_RockGrey2_high.uasset
+[2018.09.15-15.50.39:109][796]LogSavePackage: Save=13.45ms
+[2018.09.15-15.50.39:109][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_TorchBig6ABAE24F4F06BD1FF99713BCD5E97589.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TorchBig.uasset'
+[2018.09.15-15.50.39:111][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TorchBig.uasset
+[2018.09.15-15.50.39:142][796]LogSavePackage: Save=13.03ms
+[2018.09.15-15.50.39:142][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_TorchSmall6F4C3FF44CF2178991B6E391FE5DE557.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TorchSmall.uasset'
+[2018.09.15-15.50.39:144][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TorchSmall.uasset
+[2018.09.15-15.50.39:176][796]LogSavePackage: Save=14.70ms
+[2018.09.15-15.50.39:176][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Tree18FB3C33D4415B628F8A511BE8643672C.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Tree1.uasset'
+[2018.09.15-15.50.39:178][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Tree1.uasset
+[2018.09.15-15.50.39:210][796]LogSavePackage: Save=14.48ms
+[2018.09.15-15.50.39:210][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Tree21645A21E432F799C47E5E7A9C238C17F.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Tree2.uasset'
+[2018.09.15-15.50.39:212][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Tree2.uasset
+[2018.09.15-15.50.39:251][796]LogSavePackage: Save=15.24ms
+[2018.09.15-15.50.39:251][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_Tree3_BirchYoungF33B0F284582AF6390F372AD1DC48800.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Tree3_BirchYoung.uasset'
+[2018.09.15-15.50.39:253][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_Tree3_BirchYoung.uasset
+[2018.09.15-15.50.39:289][796]LogSavePackage: Save=15.24ms
+[2018.09.15-15.50.39:289][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_TreeDead1EFA261F148BD84B04D3B968C5866AAA9.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TreeDead1.uasset'
+[2018.09.15-15.50.39:292][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TreeDead1.uasset
+[2018.09.15-15.50.39:326][796]LogSavePackage: Save=14.97ms
+[2018.09.15-15.50.39:326][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_TreeDead21969021F45AC636CF0F4508E5C9CAA95.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TreeDead2.uasset'
+[2018.09.15-15.50.39:328][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TreeDead2.uasset
+[2018.09.15-15.50.39:359][796]LogSavePackage: Save=13.68ms
+[2018.09.15-15.50.39:359][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_TreeTrunk1CF7013FA4B68CCBD5B84C49CD9EA963C.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TreeTrunk1.uasset'
+[2018.09.15-15.50.39:361][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TreeTrunk1.uasset
+[2018.09.15-15.50.39:393][796]LogSavePackage: Save=13.99ms
+[2018.09.15-15.50.39:393][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_TreeTrunk20286082C4B438CE983B33985C2004F2B.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TreeTrunk2.uasset'
+[2018.09.15-15.50.39:396][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_TreeTrunk2.uasset
+[2018.09.15-15.50.39:426][796]LogSavePackage: Save=13.34ms
+[2018.09.15-15.50.39:426][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_WaterLiliesC401759141757BBA60B7B8AA5D8DF19F.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_WaterLilies.uasset'
+[2018.09.15-15.50.39:429][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_WaterLilies.uasset
+[2018.09.15-15.50.39:462][796]LogSavePackage: Save=15.48ms
+[2018.09.15-15.50.39:462][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_WoodenPole80CDCB0746F73033EFFEC69575A3AFAE.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_WoodenPole.uasset'
+[2018.09.15-15.50.39:464][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_WoodenPole.uasset
+[2018.09.15-15.50.39:495][796]LogSavePackage: Save=14.11ms
+[2018.09.15-15.50.39:495][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/SM_WoodenWalkwayE2700BB344237093562B01B4C9052E67.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_WoodenWalkway.uasset'
+[2018.09.15-15.50.39:497][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Meshes/SM_WoodenWalkway.uasset
+[2018.09.15-15.50.39:522][796]LogSavePackage: Save=14.32ms
+[2018.09.15-15.50.39:522][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/PS_AmbientD89484DB44292CFB3AFFB385633A4DAA.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Ambient.uasset'
+[2018.09.15-15.50.39:524][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Ambient.uasset
+[2018.09.15-15.50.39:547][796]LogSavePackage: Save=13.65ms
+[2018.09.15-15.50.39:547][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/PS_FireB5A1D6E346C16A86EBE31588158BDF85.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Fire.uasset'
+[2018.09.15-15.50.39:550][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Fire.uasset
+[2018.09.15-15.50.39:573][796]LogSavePackage: Save=15.19ms
+[2018.09.15-15.50.39:573][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/PS_Waterfall933A35F84664C1D8AB3AEC95B2ED2BB8.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Waterfall.uasset'
+[2018.09.15-15.50.39:575][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Waterfall.uasset
+[2018.09.15-15.50.39:599][796]LogSavePackage: Save=15.55ms
+[2018.09.15-15.50.39:600][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/PS_Waterfall_TopCE9B6FA144CD234ED325C381D92A63A0.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Waterfall_Top.uasset'
+[2018.09.15-15.50.39:602][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Waterfall_Top.uasset
+[2018.09.15-15.50.39:625][796]LogSavePackage: Save=15.77ms
+[2018.09.15-15.50.39:625][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/PS_Water_Fast637B50FA48395AC2A825F79794863E09.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Water_Fast.uasset'
+[2018.09.15-15.50.39:628][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Water_Fast.uasset
+[2018.09.15-15.50.39:649][796]LogSavePackage: Save=13.89ms
+[2018.09.15-15.50.39:649][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/PS_Water_SplashE1018DC6469859604020178DC3D14388.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Water_Splash.uasset'
+[2018.09.15-15.50.39:652][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Particles/PS_Water_Splash.uasset
+[2018.09.15-15.50.39:675][796]LogSavePackage: Save=15.87ms
+[2018.09.15-15.50.39:675][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/T_FarTree36B0BD374B3A6E5C7C4E76A96046C859.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Textures/T_FarTree.uasset'
+[2018.09.15-15.50.39:677][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Textures/T_FarTree.uasset
+[2018.09.15-15.50.39:717][796]LogSavePackage: Save=29.25ms
+[2018.09.15-15.50.39:717][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/T_Main1B90E6074AAE7546401C5C9CF4B4E04F.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Textures/T_Main.uasset'
+[2018.09.15-15.50.39:719][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Textures/T_Main.uasset
+[2018.09.15-15.50.39:735][796]LogSavePackage: Save=7.61ms
+[2018.09.15-15.50.39:735][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/T_ParticleB08CFB174C2F0B2E45F57F8B27437037.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Textures/T_Particle.uasset'
+[2018.09.15-15.50.39:737][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Textures/T_Particle.uasset
+[2018.09.15-15.50.39:764][796]LogSavePackage: Save=16.98ms
+[2018.09.15-15.50.39:764][796]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/water3817D2F941D710529BA56F8B44ED6916.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Textures/water.uasset'
+[2018.09.15-15.50.39:767][796]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Textures/water.uasset
+[2018.09.15-15.50.59:921][733]LogMaterial: Missing cached shader map for material T_FarTree_Mat, compiling. 
+[2018.09.15-15.50.59:931][733]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.15-15.50.59:931][733]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.15-15.51.01:581][929]Cmd: TRANSACTION UNDO
+[2018.09.15-15.51.01:582][929]LogEditorTransaction: Undo 액터 생성
+[2018.09.15-15.51.05:401][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.51.08:994][520]LogSlate: Window '콘텐츠 저장' being destroyed
+[2018.09.15-15.51.09:263][520]LogSavePackage: Save=127.42ms
+[2018.09.15-15.51.09:263][520]LogSavePackage: Moving '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Saved/TopDownExampleMapDFAD3AC44FE46E352E2B5AB7277F83C8.tmp' to '../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.09.15-15.51.09:266][520]LogSavePackage: Display: Finished SavePackage ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.09.15-15.51.09:317][520]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.316
+[2018.09.15-15.51.09:321][520]Cmd: MAP LOAD FILE="../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/LowpolyMapAsset/Forest/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.15-15.51.09:321][520]LightingResults: New page: 라이팅 빌드
+[2018.09.15-15.51.09:322][520]LoadErrors: New page: 맵 로드중: Overview.umap
+[2018.09.15-15.51.09:322][520]MapCheck: New page: 맵 체크
+[2018.09.15-15.51.09:323][520]LightingResults: New page: 라이팅 빌드
+[2018.09.15-15.51.09:344][520]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.15-15.51.09:413][520]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.15-15.51.09:507][520]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 93.345ms.
+[2018.09.15-15.51.09:508][520]LogFileHelpers: Loading map 'Overview' took 0.188
+[2018.09.15-15.51.12:183][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MushroomsYellow)
+[2018.09.15-15.51.19:406][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.15-15.52.34:093][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.52.39:149][670]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.15-15.52.39:181][670]Cmd: MAP LOAD FILE="../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.15-15.52.39:181][670]LightingResults: New page: 라이팅 빌드
+[2018.09.15-15.52.39:182][670]LoadErrors: New page: 맵 로드중: TopDownExampleMap.umap
+[2018.09.15-15.52.39:183][670]MapCheck: New page: 맵 체크
+[2018.09.15-15.52.39:183][670]LightingResults: New page: 라이팅 빌드
+[2018.09.15-15.52.39:215][670]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.15-15.52.39:284][670]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.15-15.52.39:384][670]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 99.255ms.
+[2018.09.15-15.52.39:386][670]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.206
+[2018.09.15-15.52.41:272][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.15-15.52.46:674][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.52.46:752][482]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.09.15-15.52.46:757][482]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.09.15-15.52.46:774][482]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.15-15.52.46:774][482]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.15-15.52.46:778][482]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.09.15-15.52.46:788][482]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.09.15-15.52.46:801][482]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.09.15-15.52.46:807][482]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.09.15-15.52.46:826][482]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.09.15-15.52.46:830][482]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.09.15-15.52.46:836][482]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.09.15-15.52.46:855][482]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.09.15-15.52.46:860][482]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.09.15-15.52.46:880][482]LogMaterial: Missing cached shader map for material MirrorPlaneMaterial, compiling. 
+[2018.09.15-15.52.46:901][482]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.15-15.52.46:906][482]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.15-15.52.46:911][482]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.15-15.52.46:923][482]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.15-15.52.46:935][482]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.15-15.52.46:941][482]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.15-15.52.46:953][482]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.15-15.52.46:958][482]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.15-15.52.46:976][482]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.09.15-15.52.46:982][482]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.09.15-15.52.46:994][482]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.15-15.52.47:000][482]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.15-15.52.47:013][482]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.09.15-15.52.47:019][482]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.09.15-15.52.47:031][482]LogTexture: Display: 텍스처 빌드: Texture2D_2 (G8, 128X128)
+[2018.09.15-15.52.47:811][562]LogShaderCompilers: Display: Shaders left to compile 347
+[2018.09.15-15.52.48:389][621]LogShaderCompilers: Display: Shaders left to compile 337
+[2018.09.15-15.52.49:460][742]LogShaderCompilers: Display: Shaders left to compile 327
+[2018.09.15-15.52.50:015][807]LogShaderCompilers: Display: Shaders left to compile 317
+[2018.09.15-15.52.51:125][937]LogShaderCompilers: Display: Shaders left to compile 307
+[2018.09.15-15.52.51:632][996]LogShaderCompilers: Display: Shaders left to compile 297
+[2018.09.15-15.52.52:417][ 71]LogShaderCompilers: Display: Shaders left to compile 287
+[2018.09.15-15.52.53:330][174]LogShaderCompilers: Display: Shaders left to compile 277
+[2018.09.15-15.52.54:092][264]LogShaderCompilers: Display: Shaders left to compile 267
+[2018.09.15-15.52.54:803][347]LogShaderCompilers: Display: Shaders left to compile 257
+[2018.09.15-15.52.55:650][446]LogShaderCompilers: Display: Shaders left to compile 247
+[2018.09.15-15.52.56:454][541]LogShaderCompilers: Display: Shaders left to compile 237
+[2018.09.15-15.52.57:297][638]LogShaderCompilers: Display: Shaders left to compile 227
+[2018.09.15-15.52.57:440][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.15-15.52.57:785][679]LogShaderCompilers: Display: Shaders left to compile 217
+[2018.09.15-15.52.58:652][781]LogShaderCompilers: Display: Shaders left to compile 207
+[2018.09.15-15.52.59:184][844]LogShaderCompilers: Display: Shaders left to compile 197
+[2018.09.15-15.53.00:004][942]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.09.15-15.53.00:456][995]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.09.15-15.53.01:576][124]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.09.15-15.53.02:043][179]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.09.15-15.53.03:206][314]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.09.15-15.53.03:523][352]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.09.15-15.53.04:814][498]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.09.15-15.53.05:329][557]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.09.15-15.53.06:447][688]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.09.15-15.53.06:938][746]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.09.15-15.53.08:202][894]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.09.15-15.53.08:578][938]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.15-15.53.09:873][ 88]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.15-15.53.10:331][141]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.15-15.53.11:580][285]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.15-15.53.12:046][340]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.15-15.53.13:391][461]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.15-15.53.13:754][494]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.15-15.53.15:018][613]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.15-15.53.32:800][664]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2018.09.15-15.53.32:821][665]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.15-15.53.32:821][665]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.15-15.53.41:933][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.53.42:077][731]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 512X512)
+[2018.09.15-15.53.42:089][731]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2018.09.15-15.53.42:098][731]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.15-15.53.42:098][731]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.15-15.53.43:564][884]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.15-15.53.46:599][242]Cmd: TRANSACTION UNDO
+[2018.09.15-15.53.46:599][242]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.53.47:574][327]Cmd: TRANSACTION UNDO
+[2018.09.15-15.53.47:574][327]LogEditorTransaction: Undo 새 랜드스케이프 생성중입니다.
+[2018.09.15-15.53.52:252][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.54.03:224][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.54.03:326][181]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.54.05:124][389]LogEditorViewport: Clicking on Actor (double click): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2018.09.15-15.54.06:488][552]Cmd: TRANSACTION UNDO
+[2018.09.15-15.54.06:488][552]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.54.06:498][552]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.54.42:842][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.54.52:734][980]Cmd: TRANSACTION UNDO
+[2018.09.15-15.54.52:734][980]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.54.54:845][166]Cmd: TRANSACTION UNDO
+[2018.09.15-15.54.54:845][166]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.54.55:745][260]Cmd: TRANSACTION UNDO
+[2018.09.15-15.54.55:745][260]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.54.58:244][549]Cmd: TRANSACTION UNDO
+[2018.09.15-15.54.58:244][549]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.54.58:253][549]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.54.58:649][593]Cmd: TRANSACTION UNDO
+[2018.09.15-15.54.58:649][593]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.54.58:657][593]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.54.58:897][618]Cmd: TRANSACTION UNDO
+[2018.09.15-15.54.58:897][618]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.54.58:905][618]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.54.59:109][639]Cmd: TRANSACTION UNDO
+[2018.09.15-15.54.59:109][639]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.54.59:117][639]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.54.59:643][699]Cmd: TRANSACTION UNDO
+[2018.09.15-15.54.59:643][699]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.03:664][172]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.03:664][172]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.03:673][172]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.55.03:889][193]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.03:889][193]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.03:898][193]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.55.04:069][207]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.04:070][207]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.04:078][207]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.55.04:250][223]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.04:250][223]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.04:258][223]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.55.04:441][242]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.04:441][242]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.04:450][242]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.55.04:836][285]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.04:836][285]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.04:845][285]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.55.05:250][330]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.05:250][330]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.05:259][330]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 128X128)
+[2018.09.15-15.55.05:764][387]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.05:764][387]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.08:792][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.55.11:541][ 74]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.11:541][ 74]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.11:760][ 96]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.11:760][ 96]LogEditorTransaction: Undo 액터 클릭 (더블클릭)
+[2018.09.15-15.55.11:985][116]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.11:985][116]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2018.09.15-15.55.12:197][137]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.12:197][137]LogEditorTransaction: Undo 새 랜드스케이프 생성중입니다.
+[2018.09.15-15.55.14:413][372]Cmd: TRANSACTION UNDO
+[2018.09.15-15.55.14:413][372]LogEditorTransaction: Undo Section Size 편집
+[2018.09.15-15.55.17:603][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-15.55.20:017][996]LogSlate: Window 'DefenseSurvival - 언리얼 에디터' being destroyed
+[2018.09.15-15.55.20:020][996]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.09.15-15.55.20:200][997]Cmd: QUIT_EDITOR
+[2018.09.15-15.55.20:227][997]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.15-15.55.20:227][997]LogExit: Preparing to exit.
+[2018.09.15-15.55.20:360][997]LogDirectoryWatcher: A directory notification for 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Content/' was aborted.
+[2018.09.15-15.55.20:367][997]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2018.09.15-15.55.21:192][997]LogWindows: Error: === Critical error: ===
+[2018.09.15-15.55.21:192][997]LogWindows: Error: 
+[2018.09.15-15.55.21:192][997]LogWindows: Error: Assertion failed: !HasAnyFlags(RF_NeedLoad|RF_NeedPostLoad) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectLinker.cpp] [Line: 105] 
+[2018.09.15-15.55.21:192][997]LogWindows: Error: Detaching from existing linker for ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Content/TopDownBP/인벤토리시스템/위젯/ThrowWidget.uasset while object ButtonSlot /Game/TopDownBP/인벤토리시스템/위젯/ThrowWidget.WidgetArchetype:WidgetTree_0.ConfirmButton.ButtonSlot_1 needs loaded
+[2018.09.15-15.55.21:192][997]LogWindows: Error: 
+[2018.09.15-15.55.21:192][997]LogWindows: Error: 
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x000000006502A388 KERNELBASE.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x000000004A647884 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000023736D9B UE4Editor-Core.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000023671949 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x00000000231FB498 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x00000000230875DA UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x00000000230FD41A UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x00000000230FF96F UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000023142713 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000022F7A7F7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000094A61955 UE4Editor.exe!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000094A617B3 UE4Editor.exe!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000094A660F1 UE4Editor.exe!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000094A66C05 UE4Editor.exe!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000094A66C4A UE4Editor.exe!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000094A74177 UE4Editor.exe!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000094A75B87 UE4Editor.exe!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x0000000065F53034 KERNEL32.DLL!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x00000000683D1461 ntdll.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: [Callstack] 0x00000000683D1461 ntdll.dll!UnknownFunction []
+[2018.09.15-15.55.21:192][997]LogWindows: Error: 
