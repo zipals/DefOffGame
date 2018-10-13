@@ -1,7 +1,27 @@
 ------------------
 System Information
 ------------------
-  DxDiag Previously: Crashed in system information (stage 1) & DirectInput (stage 1). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
+      Time of this report: 10/13/2018, 17:40:51
+             Machine name: DESKTOP-OCEV6JO
+               Machine Id: {F36DEADA-1B43-4434-A429-0A7E3BC24E45}
+         Operating System: Windows 10 Education 64-bit (10.0, Build 17134) (17134.rs4_release.180410-1804)
+                 Language: Korean (Regional Setting: Korean)
+      System Manufacturer: Micro-Star International Co., Ltd.
+             System Model: MS-7B24
+                     BIOS: A.10 (type: UEFI)
+                Processor: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz (6 CPUs), ~2.8GHz
+                   Memory: 16384MB RAM
+      Available OS Memory: 16326MB RAM
+                Page File: 5938MB used, 12820MB available
+              Windows Dir: C:\Windows
+          DirectX Version: DirectX 12
+      DX Setup Parameters: Not found
+         User DPI Setting: 96 DPI (100 percent)
+       System DPI Setting: 96 DPI (100 percent)
+          DWM DPI Scaling: Disabled
+                 Miracast: Available, with HDCP
+Microsoft Graphics Hybrid: Not Supported
+           DxDiag Version: 10.00.17134.0001 64bit Unicode
 
 ------------
 DxDiag Notes
@@ -11,7 +31,18 @@ DxDiag Notes
         Sound Tab 1: No problems found.
         Sound Tab 2: No problems found.
         Sound Tab 3: No problems found.
-          Input Tab: 
+          Input Tab: No problems found.
+
+--------------------
+DirectX Debug Levels
+--------------------
+Direct3D:    0/4 (retail)
+DirectDraw:  0/4 (retail)
+DirectInput: 0/5 (retail)
+DirectMusic: 0/5 (retail)
+DirectPlay:  0/9 (retail)
+DirectSound: 0/5 (retail)
+DirectShow:  0/6 (retail)
 
 ---------------
 Display Devices
@@ -232,8 +263,8 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
 Sound Devices
 -------------
             Description: 스피커(High Definition Audio 장치)
- Default Sound Playback: No
- Default Voice Playback: No
+ Default Sound Playback: Yes
+ Default Voice Playback: Yes
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0887&SUBSYS_14629B24&REV_1003
         Manufacturer ID: 1
              Product ID: 65535
@@ -241,14 +272,14 @@ Sound Devices
             Driver Name: HdAudio.sys
          Driver Version: 10.00.17134.0001 (English)
       Driver Attributes: Final Retail
-            WHQL Logo'd: n/a
-          Date and Size: 2018-07-06 오전 12:00:00, 436736 bytes
+            WHQL Logo'd: Yes
+          Date and Size: 2018-09-07 오전 12:00:00, 436736 bytes
             Other Files: 
         Driver Provider: Microsoft
          HW Accel Level: Basic
-              Cap Flags: 0x0
-    Min/Max Sample Rate: 0, 0
-Static/Strm HW Mix Bufs: 0, 0
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
  Static/Strm HW 3D Bufs: 0, 0
               HW Memory: 0
        Voice Management: No
@@ -266,14 +297,14 @@ Sensaura(tm) ZoomFX(tm): No
             Driver Name: nvhda64v.sys
          Driver Version: 1.03.0035.0001 (English)
       Driver Attributes: Final Retail
-            WHQL Logo'd: n/a
+            WHQL Logo'd: Yes
           Date and Size: 2017-10-27 오전 12:00:00, 233904 bytes
             Other Files: 
         Driver Provider: NVIDIA Corporation
          HW Accel Level: Basic
-              Cap Flags: 0x0
-    Min/Max Sample Rate: 0, 0
-Static/Strm HW Mix Bufs: 0, 0
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
  Static/Strm HW 3D Bufs: 0, 0
               HW Memory: 0
        Voice Management: No
@@ -291,14 +322,14 @@ Sensaura(tm) ZoomFX(tm): No
             Driver Name: nvhda64v.sys
          Driver Version: 1.03.0035.0001 (English)
       Driver Attributes: Final Retail
-            WHQL Logo'd: n/a
+            WHQL Logo'd: Yes
           Date and Size: 2017-10-27 오전 12:00:00, 233904 bytes
             Other Files: 
         Driver Provider: NVIDIA Corporation
          HW Accel Level: Basic
-              Cap Flags: 0x0
-    Min/Max Sample Rate: 0, 0
-Static/Strm HW Mix Bufs: 0, 0
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
  Static/Strm HW 3D Bufs: 0, 0
               HW Memory: 0
        Voice Management: No
@@ -310,14 +341,14 @@ Sensaura(tm) ZoomFX(tm): No
 Sound Capture Devices
 ---------------------
             Description: 마이크(High Definition Audio 장치)
-  Default Sound Capture: No
-  Default Voice Capture: No
+  Default Sound Capture: Yes
+  Default Voice Capture: Yes
             Driver Name: HdAudio.sys
          Driver Version: 10.00.17134.0001 (English)
       Driver Attributes: Final Retail
           Date and Size: 4/12/2018 08:33:45, 436736 bytes
-              Cap Flags: 0x0
-           Format Flags: 0x0
+              Cap Flags: 0x1
+           Format Flags: 0xFFFFF
 
 ---------------------
 Video Capture Devices
@@ -326,11 +357,91 @@ Number of Devices: 0
 -------------------
 DirectInput Devices
 -------------------
+      Device Name: 마우스
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: 키보드
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: G102 Prodigy Gaming Mouse
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x046D, 0xC084
+        FF Driver: n/a
+
+      Device Name: G102 Prodigy Gaming Mouse
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x046D, 0xC084
+        FF Driver: n/a
+
+      Device Name: G102 Prodigy Gaming Mouse
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x046D, 0xC084
+        FF Driver: n/a
+
+      Device Name: G102 Prodigy Gaming Mouse
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x046D, 0xC084
+        FF Driver: n/a
+
 Poll w/ Interrupt: No
 
 -----------
 USB Devices
 -----------
++ USB 루트 허브(USB 3.0)
+| Vendor/Product ID: 0x8086, 0xA36D
+| Matching Device ID: USB\ROOT_HUB30
+| Service: USBHUB3
+| Driver: USBHUB3.SYS, 8/3/2018 12:40:43, 566568 bytes
+| 
++-+ USB Composite Device
+| | Vendor/Product ID: 0x046D, 0xC084
+| | Location: Port_#0003.Hub_#0001
+| | Matching Device ID: USB\COMPOSITE
+| | Service: usbccgp
+| | Driver: usbccgp.sys, 4/12/2018 08:33:52, 168864 bytes
+| | 
+| +-+ USB 입력 장치
+| | | Vendor/Product ID: 0x046D, 0xC084
+| | | Location: 0000.0014.0000.003.000.000.000.000.000
+| | | Matching Device ID: USB\Class_03&SubClass_01
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 4/12/2018 08:33:52, 42496 bytes
+| | | Driver: hidclass.sys, 4/12/2018 08:33:52, 173568 bytes
+| | | Driver: hidparse.sys, 6/8/2018 18:01:36, 46080 bytes
+| | | 
+| | +-+ HID 규격 마우스
+| | | | Vendor/Product ID: 0x046D, 0xC084
+| | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| | | | Service: mouhid
+| | | | Driver: mouhid.sys, 4/12/2018 08:33:52, 33280 bytes
+| | | | Driver: mouclass.sys, 4/12/2018 08:33:52, 56728 bytes
+| | | 
+| +-+ USB 입력 장치
+| | | Vendor/Product ID: 0x046D, 0xC084
+| | | Location: 0000.0014.0000.003.000.000.000.000.000
+| | | Matching Device ID: USB\Class_03
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 4/12/2018 08:33:52, 42496 bytes
+| | | Driver: hidclass.sys, 4/12/2018 08:33:52, 173568 bytes
+| | | Driver: hidparse.sys, 6/8/2018 18:01:36, 46080 bytes
+| | | 
+| | +-+ HID 키보드 장치
+| | | | Vendor/Product ID: 0x046D, 0xC084
+| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | Service: kbdhid
+| | | | Driver: kbdhid.sys, 4/12/2018 08:33:52, 40448 bytes
+| | | | Driver: kbdclass.sys, 4/12/2018 08:33:52, 63904 bytes
 
 ----------------
 Gameport Devices
@@ -339,6 +450,165 @@ Gameport Devices
 ------------
 PS/2 Devices
 ------------
++ 표준 PS/2 키보드
+| Matching Device ID: *PNP0303
+| Service: i8042prt
+| Driver: i8042prt.sys, 4/12/2018 08:33:52, 105984 bytes
+| Driver: kbdclass.sys, 4/12/2018 08:33:52, 63904 bytes
+
+------------------------
+Disk & DVD/CD-ROM Drives
+------------------------
+      Drive: C:
+ Free Space: 75.1 GB
+Total Space: 237.9 GB
+File System: NTFS
+      Model: Samsung SSD 860 EVO 250GB
+
+      Drive: E:
+ Free Space: 835.3 GB
+Total Space: 953.9 GB
+File System: NTFS
+      Model: WDC WD10EZEX-22MFCA0
+
+--------------
+System Devices
+--------------
+     Name: Intel(R) SPI (flash) Controller - A324
+Device ID: PCI\VEN_8086&DEV_A324&SUBSYS_7B241462&REV_10\3&11583659&0&FD
+   Driver: n/a
+
+     Name: 표준 SATA AHCI 컨트롤러
+Device ID: PCI\VEN_8086&DEV_A352&SUBSYS_7B241462&REV_10\3&11583659&0&B8
+   Driver: C:\Windows\system32\DRIVERS\storahci.sys, 10.00.17134.0001 (English), 4/12/2018 08:33:49, 156056 bytes
+
+     Name: PCI 표준 호스트 CPU 브리지
+Device ID: PCI\VEN_8086&DEV_3EC2&SUBSYS_7B241462&REV_07\3&11583659&0&00
+   Driver: n/a
+
+     Name: Intel(R) USB 3.1 확장 가능한 호스트 컨트롤러 - 1.10(Microsoft)
+Device ID: PCI\VEN_8086&DEV_A36D&SUBSYS_7B241462&REV_10\3&11583659&0&A0
+   Driver: C:\Windows\system32\DRIVERS\USBXHCI.SYS, 10.00.17134.0001 (Korean), 4/12/2018 08:33:52, 434592 bytes
+   Driver: C:\Windows\system32\DRIVERS\UMDF\UsbXhciCompanion.dll, 10.00.17134.0001 (English), 4/12/2018 08:33:52, 123576 bytes
+
+     Name: PCI 표준 ISA 브리지
+Device ID: PCI\VEN_8086&DEV_A308&SUBSYS_7B241462&REV_10\3&11583659&0&F8
+   Driver: C:\Windows\system32\DRIVERS\msisadrv.sys, 10.00.17134.0001 (English), 4/12/2018 08:33:49, 18848 bytes
+
+     Name: Intel(R) Xeon(R) E3 - 1200/1500 v5/6th Gen Intel(R) Core(TM) Gaussian Mixture Model - 1911
+Device ID: PCI\VEN_8086&DEV_1911&SUBSYS_7B241462&REV_00\3&11583659&0&40
+   Driver: n/a
+
+     Name: PCI 표준 RAM 컨트롤러
+Device ID: PCI\VEN_8086&DEV_A36F&SUBSYS_72708086&REV_10\3&11583659&0&A2
+   Driver: n/a
+
+     Name: NVIDIA GeForce GTX 1050
+Device ID: PCI\VEN_10DE&DEV_1C81&SUBSYS_372C1458&REV_A1\4&27A23B36&0&0008
+   Driver: C:\Program Files\NVIDIA Corporation\Drs\dbInstaller.exe, 23.21.0013.8813 (English), 11/9/2017 04:36:12, 470456 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\Drs\nvdrsdb.bin, 11/9/2017 03:57:26, 1437380 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\NvContainerSetup.exe, 1.00.0007.0000 (Korean), 11/9/2017 04:37:40, 4188464 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\NvCplSetupInt.exe, 1.00.0007.0000 (Korean), 11/9/2017 04:37:44, 101510600 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 11/9/2017 03:57:26, 27203 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\NvFBC\NVFBCPlugin.dll, 6.14.0013.8813 (English), 11/9/2017 04:38:34, 853432 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVFBC\NVFBCPlugin64.dll, 6.14.0013.8813 (English), 11/9/2017 04:38:40, 894384 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (Korean), 11/9/2017 04:37:04, 857200 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe, 6.14.0013.8813 (English), 11/9/2017 04:37:58, 423864 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.1.pdf, 11/9/2017 03:57:28, 102016 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.exe, 8.17.0013.8813 (English), 11/9/2017 04:39:20, 517232 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvml.dll, 8.17.0013.8813 (English), 11/9/2017 04:40:32, 919992 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL.dll, 2.00.0004.0000 (English), 11/9/2017 04:43:28, 446392 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL64.dll, 2.00.0004.0000 (English), 11/9/2017 04:43:32, 540784 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvlddmkm.sys, 23.21.0013.8813 (English), 11/9/2017 04:40:28, 16936048 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvd3dumx.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:38, 18917192 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvd3dumx_cfg.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:42, 19297248 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvinitx.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:30, 208832 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvldumdx.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:36, 945072 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvoglshim64.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:40, 183648 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvumdshimx.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:58, 591056 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvwgf2umx.dll, 23.21.0013.8813 (English), 11/9/2017 04:31:04, 28145680 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvwgf2umx_cfg.dll, 23.21.0013.8813 (English), 11/9/2017 04:31:10, 28969976 bytes
+   Driver: C:\Windows\system32\NvFBC64.dll, 6.14.0013.8813 (English), 11/9/2017 04:38:30, 1108408 bytes
+   Driver: C:\Windows\system32\NvIFR64.dll, 6.14.0013.8813 (English), 11/9/2017 04:39:52, 989808 bytes
+   Driver: C:\Windows\system32\NvIFROpenGL.dll, 23.21.0013.8813 (English), 11/9/2017 04:40:00, 624240 bytes
+   Driver: C:\Windows\system32\nv-vk64.json, 11/9/2017 03:57:26, 669 bytes
+   Driver: C:\Windows\system32\nvDecMFTMjpeg.dll, 23.21.0013.8813 (English), 11/9/2017 04:38:08, 748144 bytes
+   Driver: C:\Windows\system32\nvEncMFTH264.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:50, 1342008 bytes
+   Driver: C:\Windows\system32\nvEncMFThevc.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:54, 1351792 bytes
+   Driver: C:\Windows\system32\nvEncodeAPI64.dll, 23.21.0013.8813 (English), 11/9/2017 04:26:02, 810304 bytes
+   Driver: C:\Windows\system32\nvapi64.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:22, 4533184 bytes
+   Driver: C:\Windows\system32\nvcompiler.dll, 23.21.0013.8813 (English), 11/9/2017 04:37:32, 40246384 bytes
+   Driver: C:\Windows\system32\nvcuda.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:28, 13994136 bytes
+   Driver: C:\Windows\system32\nvcuvid.dll, 7.17.0013.8813 (English), 11/9/2017 04:37:48, 4210288 bytes
+   Driver: C:\Windows\system32\nvfatbinaryLoader.dll, 23.21.0013.8813 (English), 11/9/2017 04:26:12, 1154296 bytes
+   Driver: C:\Windows\system32\nvinfo.pb, 11/9/2017 03:57:28, 48442 bytes
+   Driver: C:\Windows\system32\nvmcumd.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:40, 633256 bytes
+   Driver: C:\Windows\system32\nvoglv64.dll, 23.21.0013.8813 (English), 11/9/2017 04:40:56, 36248176 bytes
+   Driver: C:\Windows\system32\nvopencl.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:48, 23474480 bytes
+   Driver: C:\Windows\system32\nvptxJitCompiler.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:56, 13379352 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvd3dum.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:32, 15525768 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvd3dum_cfg.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:46, 15849040 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvinit.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:30, 182304 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvldumd.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:36, 787472 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvoglshim32.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:40, 155768 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvumdshim.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:58, 507936 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvwgf2um.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:58, 23696976 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvwgf2um_cfg.dll, 23.21.0013.8813 (English), 11/9/2017 04:31:20, 24589496 bytes
+   Driver: C:\Windows\SysWow64\NvFBC.dll, 6.14.0013.8813 (English), 11/9/2017 04:38:26, 1039800 bytes
+   Driver: C:\Windows\SysWow64\NvIFR.dll, 6.14.0013.8813 (English), 11/9/2017 04:39:48, 940984 bytes
+   Driver: C:\Windows\SysWow64\NvIFROpenGL.dll, 23.21.0013.8813 (English), 11/9/2017 04:39:56, 514672 bytes
+   Driver: C:\Windows\SysWow64\nv-vk32.json, 11/9/2017 03:57:26, 669 bytes
+   Driver: C:\Windows\SysWow64\nvDecMFTMjpeg.dll, 23.21.0013.8813 (English), 11/9/2017 04:38:02, 607160 bytes
+   Driver: C:\Windows\SysWow64\nvEncMFTH264.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:48, 1056720 bytes
+   Driver: C:\Windows\SysWow64\nvEncMFThevc.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:54, 1062920 bytes
+   Driver: C:\Windows\SysWow64\nvEncodeAPI.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:58, 648728 bytes
+   Driver: C:\Windows\SysWow64\nvapi.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:16, 3859848 bytes
+   Driver: C:\Windows\SysWow64\nvcompiler.dll, 23.21.0013.8813 (English), 11/9/2017 04:37:26, 35165624 bytes
+   Driver: C:\Windows\SysWow64\nvcuda.dll, 23.21.0013.8813 (English), 11/9/2017 04:25:26, 11891200 bytes
+   Driver: C:\Windows\SysWow64\nvcuvid.dll, 7.17.0013.8813 (English), 11/9/2017 04:37:44, 3623024 bytes
+   Driver: C:\Windows\SysWow64\nvfatbinaryLoader.dll, 23.21.0013.8813 (English), 11/9/2017 04:26:08, 902312 bytes
+   Driver: C:\Windows\SysWow64\nvoglv32.dll, 23.21.0013.8813 (English), 11/9/2017 04:40:48, 29279672 bytes
+   Driver: C:\Windows\SysWow64\nvopencl.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:44, 19212720 bytes
+   Driver: C:\Windows\SysWow64\nvptxJitCompiler.dll, 23.21.0013.8813 (English), 11/9/2017 04:30:54, 10986768 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\VulkanRT-Installer.exe, 1.00.0061.0000 (English), 11/9/2017 04:44:00, 988144 bytes
+   Driver: C:\Windows\system32\nvdispco6438813.dll, 2.00.0048.0004 (English), 11/9/2017 04:38:16, 1997752 bytes
+   Driver: C:\Windows\system32\nvdispgenco6438813.dll, 2.00.0026.0002 (English), 11/9/2017 04:38:16, 1682544 bytes
+
+     Name: PCI-to-PCI 브리지
+Device ID: PCI\VEN_8086&DEV_1901&SUBSYS_7B241462&REV_07\3&11583659&0&08
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.17134.0254 (Korean), 8/9/2018 13:54:29, 375704 bytes
+
+     Name: PCI-to-PCI 브리지
+Device ID: PCI\VEN_8086&DEV_A33C&SUBSYS_7B241462&REV_F0\3&11583659&0&E0
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.17134.0254 (Korean), 8/9/2018 13:54:29, 375704 bytes
+
+     Name: Intel(R) SMBus - A323
+Device ID: PCI\VEN_8086&DEV_A323&SUBSYS_7B241462&REV_10\3&11583659&0&FC
+   Driver: n/a
+
+     Name: High Definition Audio 컨트롤러
+Device ID: PCI\VEN_10DE&DEV_0FB9&SUBSYS_372C1458&REV_A1\4&27A23B36&0&0108
+   Driver: C:\Windows\system32\DRIVERS\hdaudbus.sys, 10.00.17134.0001 (English), 4/12/2018 08:33:45, 86016 bytes
+   Driver: C:\Windows\system32\DRIVERS\drmk.sys, 10.00.17134.0001 (English), 4/12/2018 08:33:46, 98304 bytes
+   Driver: C:\Windows\system32\DRIVERS\portcls.sys, 10.00.17134.0001 (English), 4/12/2018 08:33:46, 379392 bytes
+
+     Name: Intel(R) Thermal Subsystem - A379
+Device ID: PCI\VEN_8086&DEV_A379&SUBSYS_7B241462&REV_10\3&11583659&0&90
+   Driver: n/a
+
+     Name: Realtek PCIe GBE Family Controller
+Device ID: PCI\VEN_10EC&DEV_8168&SUBSYS_7B241462&REV_15\4&574FE4C&0&00E0
+   Driver: C:\Windows\system32\DRIVERS\rt640x64.sys, 9.01.0406.2015 (Korean), 4/12/2018 08:33:49, 604160 bytes
+
+     Name: High Definition Audio 컨트롤러
+Device ID: PCI\VEN_8086&DEV_A348&SUBSYS_9B241462&REV_10\3&11583659&0&FB
+   Driver: C:\Windows\system32\DRIVERS\hdaudbus.sys, 10.00.17134.0001 (English), 4/12/2018 08:33:45, 86016 bytes
+   Driver: C:\Windows\system32\DRIVERS\drmk.sys, 10.00.17134.0001 (English), 4/12/2018 08:33:46, 98304 bytes
+   Driver: C:\Windows\system32\DRIVERS\portcls.sys, 10.00.17134.0001 (English), 4/12/2018 08:33:46, 379392 bytes
+
+     Name: Intel(R) Management Engine Interface 
+Device ID: PCI\VEN_8086&DEV_A360&SUBSYS_7B241462&REV_10\3&11583659&0&B0
+   Driver: C:\Windows\system32\DRIVERS\TeeDriverW8x64.sys, 1803.12.0000.1093 (English), 1/25/2018 08:50:40, 227456 bytes
 
 ------------------
 DirectShow Filters
@@ -360,7 +630,7 @@ WM ASF Reader,0x00400000,0,0,qasf.dll,12.00.17134.0001
 AVI Splitter,0x00600000,1,1,quartz.dll,10.00.17134.0001
 VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,10.00.17134.0001
 SBE2MediaTypeProfile,0x00200000,0,0,sbe.dll,10.00.17134.0001
-Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.17134.0137
+Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.17134.0191
 AC3 Parser Filter,0x00600000,1,1,mpg2splt.ax,10.00.17134.0001
 StreamBufferSink,0x00200000,0,0,sbe.dll,10.00.17134.0001
 MJPEG Decompressor,0x00600000,1,1,quartz.dll,10.00.17134.0001
@@ -415,7 +685,7 @@ Line 21 Decoder 2,0x00600002,1,1,quartz.dll,10.00.17134.0001
 File Source (Async.),0x00400000,0,1,quartz.dll,10.00.17134.0001
 File Source (URL),0x00400000,0,1,quartz.dll,10.00.17134.0001
 Infinite Pin Tee Filter,0x00200000,1,1,qcap.dll,10.00.17134.0001
-Enhanced Video Renderer,0x00200000,1,0,evr.dll,10.00.17134.0137
+Enhanced Video Renderer,0x00200000,1,0,evr.dll,10.00.17134.0320
 BDA MPEG2 Transport Information Filter,0x00200000,2,0,psisrndr.ax,10.00.17134.0001
 MPEG Video Decoder,0x40000001,1,1,quartz.dll,10.00.17134.0001
 
@@ -562,10 +832,10 @@ Media Foundation Transforms
 
 Video Decoders:
   NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpeg.dll, 23.21.0013.8813
-  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.17134.0137
+  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.17134.0191
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.17134.0001
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.17134.0001
-  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.17134.0137
+  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.17134.0191
   WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject, 0x1, wmvsdecd.dll, 10.00.17134.0001
   WMVideo Decoder MFT, CLSID_CWMVDecMediaObject, 0x1, wmvdecod.dll, 10.00.17134.0112
   MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.17134.0001
@@ -577,40 +847,40 @@ Video Encoders:
   NVIDIA HEVC Encoder MFT, {966F107C-8EA2-425D-B822-E4A71BEF01D7}, 0x4, 8, nvEncMFThevc.dll, 23.21.0013.8813
   H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.17134.0001
   WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.17134.0001
-  Microsoft MF VPX Encoder Transform, {AEB6C755-2546-4881-82CC-E15AE5EBFF3D}, 0x1, MSVPXENC.dll, 10.00.17134.0165
+  Microsoft MF VPX Encoder Transform, {AEB6C755-2546-4881-82CC-E15AE5EBFF3D}, 0x1, MSVPXENC.dll, 10.00.17134.0191
   H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.17134.0001
   WMVideo9 Encoder MFT, CLSID_CWMV9EncMediaObject, 0x1, wmvencod.dll, 10.00.17134.0001
   Microsoft MPEG-2 Video Encoder MFT, {E6335F02-80B7-4DC4-ADFA-DFE7210D20D5}, 0x2, msmpeg2enc.dll, 10.00.17134.0112
 Video Effects:
   Frame Rate Converter, CLSID_CFrameRateConvertDmo, 0x1, mfvdsp.dll, 10.00.17134.0001
   Resizer MFT, CLSID_CResizerDMO, 0x1, vidreszr.dll, 10.00.17134.0001
-  VideoStabilization MFT, {51571744-7FE4-4FF2-A498-2DC34FF74F1B}, 0x1, MSVideoDSP.dll, 10.00.17134.0083
+  VideoStabilization MFT, {51571744-7FE4-4FF2-A498-2DC34FF74F1B}, 0x1, MSVideoDSP.dll, 10.00.17134.0345
   Color Control, CLSID_CColorControlDmo, 0x1, mfvdsp.dll, 10.00.17134.0001
   Color Converter MFT, CLSID_CColorConvertDMO, 0x1, colorcnv.dll, 10.00.17134.0001
 Video Processor:
-  Microsoft Video Processor MFT, {88753B26-5B24-49BD-B2E7-0C445C78C982}, 0x1, msvproc.dll, 10.00.17134.0137
+  Microsoft Video Processor MFT, {88753B26-5B24-49BD-B2E7-0C445C78C982}, 0x1, msvproc.dll, 10.00.17134.0345
 Audio Decoders:
   Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}, 0x1, DolbyDecMFT.dll, 10.00.17134.0081
   MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}, 0x1, MSAMRNBDecoder.dll, 10.00.17134.0001
   WMAudio Decoder MFT, CLSID_CWMADecMediaObject, 0x1, WMADMOD.DLL, 10.00.17134.0001
   Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT, 0x1, MSAudDecMFT.dll, 10.00.17134.0112
-  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.17134.0137
-  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.17134.0137
+  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.17134.0320
+  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.17134.0320
   WMAPro over S/PDIF MFT, CLSID_CWMAudioSpdTxDMO, 0x1, WMADMOD.DLL, 10.00.17134.0001
   Microsoft Opus Audio Decoder MFT, {63E17C10-2D43-4C42-8FE3-8D8B63E46A6A}, 0x1, MSOpusDecoder.dll, 10.00.17134.0001
   Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}, 0x1, MSFlacDecoder.dll, 10.00.17134.0001
   Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}, 0x1, MSAudDecMFT.dll, 10.00.17134.0112
   WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject, 0x1, WMSPDMOD.DLL, 10.00.17134.0001
-  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.17134.0137
-  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.17134.0137
+  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.17134.0320
+  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.17134.0320
   MP3 Decoder MFT, CLSID_CMP3DecMediaObject, 0x1, mp3dmod.dll, 10.00.17134.0001
   Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}, 0x1, MSAlacDecoder.dll, 10.00.17134.0001
-  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.17134.0137
+  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.17134.0320
   Dolby TrueHD IEC-61937 converter MFT, {CF5EEEDF-0E92-4B3B-A161-BD0FFE545E4B}, 0x1, mfaudiocnv.dll, 10.00.17134.0001
   DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}, 0x1, mfaudiocnv.dll, 10.00.17134.0001
 Audio Encoders:
   LPCM DVD-Audio MFT, {068A8476-9229-4CC0-9D49-2FC699DCD30A}, 0x1, mfaudiocnv.dll, 10.00.17134.0001
-  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.17134.0137
+  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.17134.0320
   Microsoft FLAC Audio Encoder MFT, {128509E9-C44E-45DC-95E9-C255B8F466A6}, 0x1, MSFlacEncoder.dll, 10.00.17134.0001
   WM Speech Encoder DMO, CLSID_CWMSPEncMediaObject2, 0x1, WMSPDMOE.DLL, 10.00.17134.0001
   MS AMRNB Encoder MFT, {2FAE8AFE-04A3-423A-A814-85DB454712B0}, 0x1, MSAMRNBEncoder.dll, 10.00.17134.0001
@@ -625,7 +895,7 @@ Audio Effects:
 Multiplexers:
   Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.17134.0137
 Others:
-  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.17134.0137
+  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.17134.0191
 
 
 --------------------------------------------
@@ -893,336 +1163,354 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-오류 버킷 1522677206360882895, 유형 5
-이벤트 이름: RADAR_PRE_LEAK_WOW64
+오류 버킷 1457273608440365148, 유형 5
+이벤트 이름: BEX
 응답: 사용할 수 없음
 Cab ID: 0
 
 문제 서명:
-P1: portal2.exe
-P2: 0.0.0.0
-P3: 10.0.17134.2.0.0
-P4: 
-P5: 
-P6: 
-P7: 
-P8: 
-P9: 
+P1: MapleStory.exe
+P2: 1.306.1.0
+P3: 5bac8214
+P4: StackHash_4c4a
+P5: 0.0.0.0
+P6: 00000000
+P7: PCH_9C_FROM_ntdll+0x0006A81C
+P8: c0000409
+P9: 00000015
 P10: 
 
 첨부 파일:
-\\?\C:\Users\joono\AppData\Local\Temp\RDR89D2.tmp\empty.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER89D3.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER89E4.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER89F1.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER8A11.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER252E.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2704.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2715.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2713.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2743.tmp.txt
+\\?\C:\Users\joono\AppData\Local\Temp\WER2820.tmp.appcompat.txt
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_cab_349628e8\memory.hdmp
 
 이 파일은 다음에서 사용할 수 있습니다.
-
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_1c944a41
 
 분석 기호: 
 해결 방법 재확인: 0
-보고서 ID: 1a1d0384-bb1b-4f58-8280-29fbd236f837
+보고서 ID: 81a5edd0-4e1b-4ec3-a998-db7a0e3ac983
 보고서 상태: 268435456
-해시된 패킷: 6c42dc9b0b8b6b976521a2da08b97ecf
+해시된 패킷: b7c11215f87ad3d2243946a03ba3c05c
 Cab Guid: 0
 +++ WER1 +++:
-오류 버킷 1282159207116782231, 유형 5
-이벤트 이름: WindowsUpdateFailure3
-응답: 사용할 수 없음
-Cab ID: 0
-
-문제 서명:
-P1: 10.0.17134.137
-P2: 8024000b
-P3: F2B03BAA-A9BD-487A-A220-006D031612B8
-P4: Install
-P5: 200
-P6: 0
-P7: 8024000b
-P8: Windows Defender 바이러스 백신 (77BDAF73-B396-481F-9042-AD358843EC24)
-P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
-P10: 0
-
-첨부 파일:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAF20.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAF30.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAF4F.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAF5F.tmp.txt
-
-이 파일은 다음에서 사용할 수 있습니다.
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_10.0.17134.137_91cacb644a8ce06c7717c516f838d01de2857937_00000000_2311b74e
-
-분석 기호: 
-해결 방법 재확인: 0
-보고서 ID: 6d5c820b-bc88-4ca5-86ca-a352cdfcf803
-보고서 상태: 268435456
-해시된 패킷: 96e5c60cf7c5154761cb250175b13a97
-Cab Guid: 0
-+++ WER2 +++:
 오류 버킷 , 유형 0
-이벤트 이름: WindowsUpdateFailure3
+이벤트 이름: BEX
 응답: 사용할 수 없음
 Cab ID: 0
 
 문제 서명:
-P1: 10.0.17134.137
-P2: 8024000b
-P3: F2B03BAA-A9BD-487A-A220-006D031612B8
-P4: Install
-P5: 200
-P6: 0
-P7: 8024000b
-P8: Windows Defender 바이러스 백신 (77BDAF73-B396-481F-9042-AD358843EC24)
-P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
-P10: 0
+P1: MapleStory.exe
+P2: 1.306.1.0
+P3: 5bac8214
+P4: StackHash_4c4a
+P5: 0.0.0.0
+P6: 00000000
+P7: PCH_9C_FROM_ntdll+0x0006A81C
+P8: c0000409
+P9: 00000015
+P10: 
 
 첨부 파일:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAF20.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAF30.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAF4F.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAF5F.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER252E.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2704.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2715.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2713.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2743.tmp.txt
+\\?\C:\Users\joono\AppData\Local\Temp\WER2820.tmp.appcompat.txt
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_cab_349628e8\memory.hdmp
 
 이 파일은 다음에서 사용할 수 있습니다.
-C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_10.0.17134.137_91cacb644a8ce06c7717c516f838d01de2857937_00000000_cab_284daf6e
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_cab_349628e8
 
 분석 기호: 
 해결 방법 재확인: 0
-보고서 ID: 6d5c820b-bc88-4ca5-86ca-a352cdfcf803
+보고서 ID: 81a5edd0-4e1b-4ec3-a998-db7a0e3ac983
 보고서 상태: 4
 해시된 패킷: 
 Cab Guid: 0
-+++ WER3 +++:
-오류 버킷 , 유형 0
-이벤트 이름: WindowsUpdateFailure3
++++ WER2 +++:
+오류 버킷 2261926281096299685, 유형 5
+이벤트 이름: BEX
 응답: 사용할 수 없음
 Cab ID: 0
 
 문제 서명:
-P1: 10.0.17134.137
-P2: 8024000b
-P3: F2B03BAA-A9BD-487A-A220-006D031612B8
-P4: Install
-P5: 200
-P6: 0
-P7: 8024000b
-P8: Windows Defender 바이러스 백신 (77BDAF73-B396-481F-9042-AD358843EC24)
-P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
-P10: 0
-
-첨부 파일:
-
-이 파일은 다음에서 사용할 수 있습니다.
-
-
-분석 기호: 
-해결 방법 재확인: 0
-보고서 ID: 6d5c820b-bc88-4ca5-86ca-a352cdfcf803
-보고서 상태: 1074003968
-해시된 패킷: 
-Cab Guid: 0
-+++ WER4 +++:
-오류 버킷 1968790508368860282, 유형 5
-이벤트 이름: MoAppCrash
-응답: 사용할 수 없음
-Cab ID: 0
-
-문제 서명:
-P1: windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy
-P2: praid:microsoft.windows.immersivecontrolpanel
-P3: 10.0.17134.112
-P4: 2a3c4e62
-P5: msxml6.dll
-P6: 6.30.17134.112
-P7: 035975cc
+P1: MapleStory.exe
+P2: 1.306.1.0
+P3: 5bac8214
+P4: StackHash_e98d
+P5: 0.0.0.0
+P6: 00000000
+P7: PCH_03_FROM_ntdll+0x0007EB32
 P8: c0000005
-P9: 0000000000080ae7
+P9: 00000008
 P10: 
 
 첨부 파일:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERA8F.tmp.mdmp
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERCA3.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERCB4.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERCB2.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERCD2.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2A30.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2BB7.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2BC8.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2BD8.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2C17.tmp.txt
 
 이 파일은 다음에서 사용할 수 있습니다.
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_windows.immersiv_bd6649318036e8d4d35647bd1e45f14b8cafd14c_31aeda3d_025a11a3
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_MapleStory.exe_c8b5d746e61a2c9256f31c309acc4687a7483e63_54e6cbc6_3dca33e4
 
 분석 기호: 
 해결 방법 재확인: 0
-보고서 ID: 363226dc-504e-4837-8aed-959f0a38563c
+보고서 ID: 522d09c5-20e8-44ee-8ff3-c80ab0934108
 보고서 상태: 268435456
-해시된 패킷: e111470450ee63a05b528c89487c947a
+해시된 패킷: 672052dec38a348eef63f9f7ecdd84a5
+Cab Guid: 0
++++ WER3 +++:
+오류 버킷 1629119309738089347, 유형 1
+이벤트 이름: APPCRASH
+응답: 사용할 수 없음
+Cab ID: 0
+
+문제 서명:
+P1: MapleStory.exe
+P2: 1.306.1.0
+P3: 5bac8214
+P4: MapleStory.exe
+P5: 1.306.1.0
+P6: 5bac8214
+P7: c0000005
+P8: 01f6bcb6
+P9: 
+P10: 
+
+첨부 파일:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER5C8E.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER5DE7.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER5DF8.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER5DF6.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER5E26.tmp.txt
+
+이 파일은 다음에서 사용할 수 있습니다.
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_MapleStory.exe_17e5a7fd4feeab4719a68798db40403f27c685_54e6cbc6_39806299
+
+분석 기호: 
+해결 방법 재확인: 0
+보고서 ID: c75a8a3b-f894-4769-8d68-83245900f76a
+보고서 상태: 268435456
+해시된 패킷: d8d97ce5c8bd2200969bcb6179ab1b83
+Cab Guid: 0
++++ WER4 +++:
+오류 버킷 1457273608440365148, 유형 5
+이벤트 이름: BEX
+응답: 사용할 수 없음
+Cab ID: 0
+
+문제 서명:
+P1: MapleStory.exe
+P2: 1.306.1.0
+P3: 5bac8214
+P4: StackHash_4c4a
+P5: 0.0.0.0
+P6: 00000000
+P7: PCH_9C_FROM_ntdll+0x0006A81C
+P8: c0000409
+P9: 00000015
+P10: 
+
+첨부 파일:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER255.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3DD.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3ED.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3FB.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER41B.tmp.txt
+\\?\C:\Users\joono\AppData\Local\Temp\WER509.tmp.appcompat.txt
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_cab_3ef805b0\memory.hdmp
+
+이 파일은 다음에서 사용할 수 있습니다.
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_11fa2228
+
+분석 기호: 
+해결 방법 재확인: 0
+보고서 ID: 96813f99-00ad-440e-ad46-0d87aebafbcf
+보고서 상태: 268435456
+해시된 패킷: b7c11215f87ad3d2243946a03ba3c05c
 Cab Guid: 0
 +++ WER5 +++:
 오류 버킷 , 유형 0
-이벤트 이름: AppHangB1
+이벤트 이름: BEX
 응답: 사용할 수 없음
 Cab ID: 0
 
 문제 서명:
-P1: StarCraft.exe
-P2: 1.22.0.4466
-P3: 5b5b1d0a
-P4: 2abe
-P5: 134217728
-P6: 
-P7: 
-P8: 
-P9: 
+P1: MapleStory.exe
+P2: 1.306.1.0
+P3: 5bac8214
+P4: StackHash_4c4a
+P5: 0.0.0.0
+P6: 00000000
+P7: PCH_9C_FROM_ntdll+0x0006A81C
+P8: c0000409
+P9: 00000015
 P10: 
 
 첨부 파일:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7A9A.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7AAA.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7AA9.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7ACA.tmp.txt
-\\?\C:\Users\joono\AppData\Local\Temp\WER7F3F.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER255.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3DD.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3ED.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3FB.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER41B.tmp.txt
+\\?\C:\Users\joono\AppData\Local\Temp\WER509.tmp.appcompat.txt
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_cab_3ef805b0\memory.hdmp
 
 이 파일은 다음에서 사용할 수 있습니다.
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_StarCraft.exe_54ce6e637f896f53748a145f14475394c0f9267c_0a5177c8_031c85b5
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_cab_3ef805b0
 
 분석 기호: 
 해결 방법 재확인: 0
-보고서 ID: 2420c398-28f2-4362-9239-72e2530bcb7e
-보고서 상태: 97
+보고서 ID: 96813f99-00ad-440e-ad46-0d87aebafbcf
+보고서 상태: 4
 해시된 패킷: 
 Cab Guid: 0
 +++ WER6 +++:
-오류 버킷 1503598855126462756, 유형 5
-이벤트 이름: RADAR_PRE_LEAK_64
+오류 버킷 2261926281096299685, 유형 5
+이벤트 이름: BEX
 응답: 사용할 수 없음
 Cab ID: 0
 
 문제 서명:
-P1: EpicGamesLauncher.exe
-P2: 7.14.1.0
-P3: 10.0.17134.2.0.0
-P4: 
-P5: 
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
-
-첨부 파일:
-\\?\C:\Users\joono\AppData\Local\Temp\RDR9771.tmp\empty.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9781.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9792.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER97AF.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER97D0.tmp.txt
-
-이 파일은 다음에서 사용할 수 있습니다.
-
-
-분석 기호: 
-해결 방법 재확인: 0
-보고서 ID: ab07d9b9-467b-499c-ac29-09bd28c293ad
-보고서 상태: 268435456
-해시된 패킷: c59c427bddd3328454dddb313c7f3124
-Cab Guid: 0
-+++ WER7 +++:
-오류 버킷 1259579595104636422, 유형 5
-이벤트 이름: MoAppCrash
-응답: 사용할 수 없음
-Cab ID: 0
-
-문제 서명:
-P1: Microsoft.Windows.Photos_2018.18051.17710.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 2018.18051.17710.0
-P4: 5b4c53ea
-P5: SharedLibrary.dll
-P6: 1.7.25531.0
-P7: 597af36c
-P8: 00001007
-P9: 0000000000493b3f
-P10: 
-
-첨부 파일:
-\\?\C:\Users\joono\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\PhotosAppTracing.etl
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERFE2E.tmp.mdmp
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER62.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER82.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER80.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER91.tmp.txt
-
-이 파일은 다음에서 사용할 수 있습니다.
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Window_9efbac38ee169ad1a13cb967b1778f2bfc0ed90_faf08c25_1e8104b6
-
-분석 기호: 
-해결 방법 재확인: 0
-보고서 ID: 88aab433-49eb-4c59-9103-f3f7e6ef576b
-보고서 상태: 268435456
-해시된 패킷: 0b37a458d2e58d87917aecf7dc8ace06
-Cab Guid: 0
-+++ WER8 +++:
-오류 버킷 2097085934005371378, 유형 5
-이벤트 이름: BEX64
-응답: 사용할 수 없음
-Cab ID: 0
-
-문제 서명:
-P1: bad_module_info
-P2: 0.0.0.0
-P3: 00000000
-P4: unknown
+P1: MapleStory.exe
+P2: 1.306.1.0
+P3: 5bac8214
+P4: StackHash_e98d
 P5: 0.0.0.0
 P6: 00000000
-P7: 0000014f4f379d45
+P7: PCH_03_FROM_ntdll+0x0007EB32
 P8: c0000005
-P9: 0000000000000008
+P9: 00000008
 P10: 
 
 첨부 파일:
-\\?\C:\Users\joono\AppData\Local\Temp\WERA5BB.tmp.WERDataCollectionStatus.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB55C.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB57C.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB579.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB599.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6F9.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER880.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER891.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER891.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER8B1.tmp.txt
 
 이 파일은 다음에서 사용할 수 있습니다.
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_bad_module_info_e31c834f6e6635b5632a7fe8404d6399253c53_85207d7d_1fa3bcdc
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_MapleStory.exe_c8b5d746e61a2c9256f31c309acc4687a7483e63_54e6cbc6_25b813ca
 
 분석 기호: 
 해결 방법 재확인: 0
-보고서 ID: edf94f5a-7056-4a91-91d1-a99c437f53ca
+보고서 ID: 8b7b3fe6-c9cf-47cd-ac50-756df352a7eb
 보고서 상태: 268435456
-해시된 패킷: e0690fc92dbfa02bbd1a588bcfdbc1f2
+해시된 패킷: 672052dec38a348eef63f9f7ecdd84a5
 Cab Guid: 0
-+++ WER9 +++:
-오류 버킷 1981013705555676914, 유형 5
-이벤트 이름: RADAR_PRE_LEAK_64
++++ WER7 +++:
+오류 버킷 1457273608440365148, 유형 5
+이벤트 이름: BEX
 응답: 사용할 수 없음
 Cab ID: 0
 
 문제 서명:
-P1: Diablo III64.exe
-P2: 2.6.1.50649
-P3: 10.0.17134.2.0.0
-P4: 
-P5: 
-P6: 
-P7: 
-P8: 
-P9: 
+P1: MapleStory.exe
+P2: 1.306.1.0
+P3: 5bac8214
+P4: StackHash_4c4a
+P5: 0.0.0.0
+P6: 00000000
+P7: PCH_9C_FROM_ntdll+0x0006A81C
+P8: c0000409
+P9: 00000015
 P10: 
 
 첨부 파일:
-\\?\C:\Users\joono\AppData\Local\Temp\RDR3641.tmp\empty.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3642.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3663.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER3670.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER36A0.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERA88D.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAA73.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAA83.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAA81.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAAA1.tmp.txt
+\\?\C:\Users\joono\AppData\Local\Temp\WERAB8F.tmp.appcompat.txt
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_cab_012cae4a\memory.hdmp
 
 이 파일은 다음에서 사용할 수 있습니다.
-
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_3486d987
 
 분석 기호: 
 해결 방법 재확인: 0
-보고서 ID: 3ea3f2e7-1813-4a44-90a6-266ef9782272
+보고서 ID: 0f4becab-0674-45e6-b3f2-e7c54ad3036c
 보고서 상태: 268435456
-해시된 패킷: 4b77e2fdb602adee8b7df97826d38ef2
+해시된 패킷: b7c11215f87ad3d2243946a03ba3c05c
+Cab Guid: 0
++++ WER8 +++:
+오류 버킷 , 유형 0
+이벤트 이름: BEX
+응답: 사용할 수 없음
+Cab ID: 0
+
+문제 서명:
+P1: MapleStory.exe
+P2: 1.306.1.0
+P3: 5bac8214
+P4: StackHash_4c4a
+P5: 0.0.0.0
+P6: 00000000
+P7: PCH_9C_FROM_ntdll+0x0006A81C
+P8: c0000409
+P9: 00000015
+P10: 
+
+첨부 파일:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERA88D.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAA73.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAA83.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAA81.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAAA1.tmp.txt
+\\?\C:\Users\joono\AppData\Local\Temp\WERAB8F.tmp.appcompat.txt
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_cab_012cae4a\memory.hdmp
+
+이 파일은 다음에서 사용할 수 있습니다.
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_MapleStory.exe_7f688d238e337e921eb48c9bec60a76885551518_54e6cbc6_cab_012cae4a
+
+분석 기호: 
+해결 방법 재확인: 0
+보고서 ID: 0f4becab-0674-45e6-b3f2-e7c54ad3036c
+보고서 상태: 4
+해시된 패킷: 
+Cab Guid: 0
++++ WER9 +++:
+오류 버킷 2261926281096299685, 유형 5
+이벤트 이름: BEX
+응답: 사용할 수 없음
+Cab ID: 0
+
+문제 서명:
+P1: MapleStory.exe
+P2: 1.306.1.0
+P3: 5bac8214
+P4: StackHash_e98d
+P5: 0.0.0.0
+P6: 00000000
+P7: PCH_03_FROM_ntdll+0x0007EB32
+P8: c0000005
+P9: 00000008
+P10: 
+
+첨부 파일:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERAFB1.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB139.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB14A.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB14A.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERB179.tmp.txt
+
+이 파일은 다음에서 사용할 수 있습니다.
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_MapleStory.exe_c8b5d746e61a2c9256f31c309acc4687a7483e63_54e6cbc6_11f4bbf6
+
+분석 기호: 
+해결 방법 재확인: 0
+보고서 ID: f8b88026-5b37-444f-9552-41eb14629975
+보고서 상태: 268435456
+해시된 패킷: 672052dec38a348eef63f9f7ecdd84a5
 Cab Guid: 0
