@@ -1,0 +1,1142 @@
+﻿Log file open, 05/04/19 18:53:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DefenseSurvival
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1727994966) SRandInit(1727994966).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.254402
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.432s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-OCEV6JO (192.168.25.12:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  /Game/TopDownBP/Maps/TopDownExampleMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.04-09.53.51:897][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.04-09.53.51:897][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.04-09.53.51:902][  0]LogInit: Computer: DESKTOP-OCEV6JO
+[2019.05.04-09.53.51:902][  0]LogInit: User: joono
+[2019.05.04-09.53.51:902][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.05.04-09.53.51:902][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2019.05.04-09.53.51:902][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.04-09.53.51:902][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.04-09.53.51:902][  0]LogMemory: Process Physical Memory: 276.64 MB used, 276.64 MB peak
+[2019.05.04-09.53.51:902][  0]LogMemory: Process Virtual Memory: 281.68 MB used, 281.68 MB peak
+[2019.05.04-09.53.51:902][  0]LogMemory: Physical Memory: 9195.20 MB used,  7131.46 MB free, 16326.67 MB total
+[2019.05.04-09.53.51:902][  0]LogMemory: Virtual Memory: 4809.26 MB used,  7131.46 MB free, 134217728.00 MB total
+[2019.05.04-09.53.51:931][  0]LogInit: Using OS detected language (ko-KR).
+[2019.05.04-09.53.51:931][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.05.04-09.53.51:931][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the language.
+[2019.05.04-09.53.51:931][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the locale.
+[2019.05.04-09.53.52:321][  0]LogStreaming: Display: Took  0.390s to EndInitTextLocalization.
+[2019.05.04-09.53.52:354][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.04-09.53.52:354][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.04-09.53.52:361][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.04-09.53.52:426][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.05.04-09.53.52:426][  0]LogD3D11RHI:       1977/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.04-09.53.52:428][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.04-09.53.52:428][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.04-09.53.52:428][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.04-09.53.52:433][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.04-09.53.52:433][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.04-09.53.52:433][  0]LogWindows: EnumDisplayDevices:
+[2019.05.04-09.53.52:434][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2019.05.04-09.53.52:434][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2019.05.04-09.53.52:435][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.05.04-09.53.52:435][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.05.04-09.53.52:436][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.04-09.53.52:436][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.05.04-09.53.52:436][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.04-09.53.52:436][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.04-09.53.52:436][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2019.05.04-09.53.52:476][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.05.04-09.53.52:476][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.05.04-09.53.52:476][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.04-09.53.52:494][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.04-09.53.52:594][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/Intermediate/Shaders/WorkingDirectory/15184/).
+[2019.05.04-09.53.52:594][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joono/AppData/Local/Temp/UnrealShaderWorkingDir/6C25C0BC4B71F8FAE2F14483E4AE2E06/'.
+[2019.05.04-09.53.52:816][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.04-09.53.52:831][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.04-09.53.52:844][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.04-09.53.52:859][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.04-09.53.52:859][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.04-09.53.53:002][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.04-09.53.53:002][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.04-09.53.53:002][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.04-09.53.53:714][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.04-09.53.53:772][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/joono/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.05.04-09.53.53:772][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joono/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.05.04-09.53.53:772][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.04-09.53.53:772][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.04-09.53.53:772][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../CapstoneDesign/DefOffGame/DefenseSurvival/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.04-09.53.53:772][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.04-09.53.53:786][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.04-09.53.53:798][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.04-09.53.53:798][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.04-09.53.53:798][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.04-09.53.53:808][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.04-09.53.53:808][  0]LogSlate: Using Freetype 2.6.0
+[2019.05.04-09.53.53:809][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.04-09.53.53:809][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.04-09.53.53:927][  0]LogAssetRegistry: FAssetRegistry took 0.0040 seconds to start up
+[2019.05.04-09.53.54:091][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.008028 seconds
+[2019.05.04-09.53.54:198][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.04-09.53.54:332][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.04-09.53.54:335][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.04-09.53.54:335][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.04-09.53.54:336][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.04-09.53.54:336][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.05.04-09.53.54:336][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.05.04-09.53.54:375][  0]LogNetVersion: DefenseSurvival , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3696840644)
+[2019.05.04-09.53.55:009][  0]LogMoviePlayer: Initializing movie player
+[2019.05.04-09.53.55:333][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.04-09.53.55:368][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.04-09.53.55:509][  0]LogCollectionManager: Loaded 0 collections in 0.002030 seconds
+[2019.05.04-09.53.55:546][  0]LogFileCache: Scanning file cache for directory 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Saved/Collections/' took 0.01s
+[2019.05.04-09.53.55:546][  0]LogFileCache: Scanning file cache for directory 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Content/Developers/joono/Collections/' took 0.01s
+[2019.05.04-09.53.55:546][  0]LogFileCache: Scanning file cache for directory 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Content/Collections/' took 0.01s
+[2019.05.04-09.53.55:546][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.04-09.53.55:546][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2019.05.04-09.53.55:761][  0]SourceControl: Source control is disabled
+[2019.05.04-09.53.55:761][  0]SourceControl: Source control is disabled
+[2019.05.04-09.53.55:785][  0]SourceControl: Source control is disabled
+[2019.05.04-09.53.56:227][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.04-09.53.56:555][  0]LogOcInput: OculusInput pre-init called
+[2019.05.04-09.53.56:608][  0]LogUObjectArray: 40283 objects as part of root set at end of initial load.
+[2019.05.04-09.53.56:608][  0]LogUObjectAllocator: 8397680 out of 0 bytes used by permanent object pool.
+[2019.05.04-09.53.56:608][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.04-09.53.56:655][  0]LogEngine: Initializing Engine...
+[2019.05.04-09.53.56:657][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.04-09.53.56:669][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.04-09.53.56:669][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.04-09.53.56:908][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-09.53.56:939][  0]LogInit: FAudioDevice initialized.
+[2019.05.04-09.53.56:965][  0]LogInit: Texture streaming: Enabled
+[2019.05.04-09.53.57:075][  0]LogInit: Display: Game Engine Initialized.
+[2019.05.04-09.53.57:075][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.04-09.53.57:075][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.04-09.53.57:075][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.04-09.53.57:207][  0]LogInit: Display: Starting Game.
+[2019.05.04-09.53.57:207][  0]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap?Name=Player
+[2019.05.04-09.53.57:207][  0]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap?Name=Player
+[2019.05.04-09.53.57:232][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9207600, Size=264, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.05.04-09.53.57:234][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9212ac0, Size=72, Default__DayAndNight_C Function /Game/TopDownBP/Blueprints/DayAndNight.DayAndNight_C:ExecuteUbergraph_DayAndNight
+[2019.05.04-09.53.57:282][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb8e43900, Size=1568, Default__멧돼지_C Function /Game/TopDownBP/Blueprints/멧돼지.멧돼지_C:ExecuteUbergraph_멧돼지
+[2019.05.04-09.53.57:293][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9225a68, Size=8, Default__아이템마스터_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:298][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb91ccc00, Size=256, Default__인벤토리BP_C Function /Game/TopDownBP/인벤토리시스템/인벤토리BP.인벤토리BP_C:ExecuteUbergraph_인벤토리BP
+[2019.05.04-09.53.57:380][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9acc1600, Size=4896, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2019.05.04-09.53.57:383][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb91d2bf0, Size=48, Default__TempAnim_C Function /Game/TopDownBP/Character/MixamoAnim/TempAnim.TempAnim_C:ExecuteUbergraph_TempAnim
+[2019.05.04-09.53.57:394][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb91d26e0, Size=48, Default__MainAnim_C Function /Game/TopDownBP/Character/Model/Animation/MainAnim.MainAnim_C:ExecuteUbergraph_MainAnim
+[2019.05.04-09.53.57:411][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbbe79d00, Size=304, Default__BuildingGhost_C Function /Game/TopDownBP/Blueprints/건물/BuildingGhost.BuildingGhost_C:ExecuteUbergraph_BuildingGhost
+[2019.05.04-09.53.57:434][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c97e187c0, Size=88, Default__메인위젯UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/메인위젯UI.메인위젯UI_C:ExecuteUbergraph_메인위젯UI
+[2019.05.04-09.53.57:451][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd302240, Size=424, Default__ThrowWidget_C Function /Game/TopDownBP/인벤토리시스템/위젯/ThrowWidget.ThrowWidget_C:ExecuteUbergraph_ThrowWidget
+[2019.05.04-09.53.57:456][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbc739a30, Size=16, Default__상자BP_C Function /Game/TopDownBP/인벤토리시스템/상자BP.상자BP_C:ExecuteUbergraph_상자BP
+[2019.05.04-09.53.57:459][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd314180, Size=560, Default__보관상자_C Function /Game/TopDownBP/Blueprints/건물/보관상자.보관상자_C:ExecuteUbergraph_보관상자
+[2019.05.04-09.53.57:470][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd3017c0, Size=392, Default__InGameUI_C Function /Game/TopDownBP/인벤토리시스템/위젯/InGameUI.InGameUI_C:ExecuteUbergraph_InGameUI
+[2019.05.04-09.53.57:471][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9225678, Size=4, Default__경고문UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/경고문UI.경고문UI_C:ExecuteUbergraph_경고문UI
+[2019.05.04-09.53.57:474][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb91d10f0, Size=48, Default__상자UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/상자UI.상자UI_C:ExecuteUbergraph_상자UI
+[2019.05.04-09.53.57:478][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cad8d8c00, Size=480, Default__인벤토리슬롯UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/인벤토리슬롯UI.인벤토리슬롯UI_C:ExecuteUbergraph_인벤토리슬롯UI
+[2019.05.04-09.53.57:482][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd772340, Size=312, Default__상자슬롯UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/상자슬롯UI.상자슬롯UI_C:ExecuteUbergraph_상자슬롯UI
+[2019.05.04-09.53.57:484][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb92255e0, Size=4, Default__DetailWidget_C Function /Game/TopDownBP/인벤토리시스템/위젯/DetailWidget.DetailWidget_C:ExecuteUbergraph_DetailWidget
+[2019.05.04-09.53.57:488][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd746020, Size=136, Default__DraggedItem_C Function /Game/TopDownBP/인벤토리시스템/위젯/DraggedItem.DraggedItem_C:ExecuteUbergraph_DraggedItem
+[2019.05.04-09.53.57:506][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd6bb200, Size=496, Default__PickupItem_C Function /Game/TopDownBP/인벤토리시스템/아이템/PickupItem.PickupItem_C:ExecuteUbergraph_PickupItem
+[2019.05.04-09.53.57:516][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd6967f0, Size=72, Default__집UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/집UI.집UI_C:ExecuteUbergraph_집UI
+[2019.05.04-09.53.57:518][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd6b9c00, Size=472, Default__집_C Function /Game/TopDownBP/Blueprints/건물/집.집_C:ExecuteUbergraph_집
+[2019.05.04-09.53.57:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd6b9800, Size=472, Default__집_C Function /Game/TopDownBP/Blueprints/건물/집.집_C:ExecuteUbergraph_집
+[2019.05.04-09.53.57:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd686700, Size=560, Default__보관상자_C Function /Game/TopDownBP/Blueprints/건물/보관상자.보관상자_C:ExecuteUbergraph_보관상자
+[2019.05.04-09.53.57:525][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd648f00, Size=1408, Default__대포_C Function /Game/TopDownBP/Blueprints/건물/대포.대포_C:ExecuteUbergraph_대포
+[2019.05.04-09.53.57:526][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb92250e0, Size=4, Default__대포_D_C Function /Game/TopDownBP/Blueprints/건물/대포_D.대포_D_C:ExecuteUbergraph_대포_D
+[2019.05.04-09.53.57:531][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbc3f3d00, Size=752, Default__곰_C Function /Game/TopDownBP/Blueprints/곰.곰_C:ExecuteUbergraph_곰
+[2019.05.04-09.53.57:537][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd633c40, Size=96, Default__BloodEffect_Health_C Function /Game/TopDownBP/Blueprints/UI/BloodEffect_Health.BloodEffect_Health_C:ExecuteUbergraph_BloodEffect_Health
+[2019.05.04-09.53.57:547][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cab0dab00, Size=1456, Default__박격포_C Function /Game/TopDownBP/Blueprints/건물/박격포.박격포_C:ExecuteUbergraph_박격포
+[2019.05.04-09.53.57:548][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9224fb8, Size=4, Default__박격포_D_C Function /Game/TopDownBP/Blueprints/건물/박격포_D.박격포_D_C:ExecuteUbergraph_박격포_D
+[2019.05.04-09.53.57:572][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd6336a0, Size=88, Default__BoarAnimBP_C Function /Game/TopDownBP/Blueprints/BPAnum/BoarAnimBP.BoarAnimBP_C:ExecuteUbergraph_BoarAnimBP
+[2019.05.04-09.53.57:578][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd87c800, Size=1424, Default__석궁_C Function /Game/TopDownBP/Blueprints/건물/석궁.석궁_C:ExecuteUbergraph_석궁
+[2019.05.04-09.53.57:579][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9224e98, Size=4, Default__석궁_D_C Function /Game/TopDownBP/Blueprints/건물/석궁_D.석궁_D_C:ExecuteUbergraph_석궁_D
+[2019.05.04-09.53.57:583][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd8aff20, Size=224, Default__석궁화살_C Function /Game/TopDownBP/Blueprints/타워/석궁화살.석궁화살_C:ExecuteUbergraph_석궁화살
+[2019.05.04-09.53.57:594][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd8ce800, Size=648, Default__용광로_C Function /Game/TopDownBP/Blueprints/건물/용광로.용광로_C:ExecuteUbergraph_용광로
+[2019.05.04-09.53.57:600][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd632fe0, Size=96, Default__튜토리얼UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/튜토리얼UI.튜토리얼UI_C:ExecuteUbergraph_튜토리얼UI
+[2019.05.04-09.53.57:608][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbfc7eb00, Size=672, Default__모닥불_C Function /Game/TopDownBP/Blueprints/모닥불.모닥불_C:ExecuteUbergraph_모닥불
+[2019.05.04-09.53.57:612][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9607250, Size=48, Default__핫키UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/핫키UI.핫키UI_C:ExecuteUbergraph_핫키UI
+[2019.05.04-09.53.57:618][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbfc28c60, Size=216, Default__T건물카드UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/T건물카드UI.T건물카드UI_C:ExecuteUbergraph_T건물카드UI
+[2019.05.04-09.53.57:622][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbfd02d40, Size=136, Default__T건물제작UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/T건물제작UI.T건물제작UI_C:ExecuteUbergraph_T건물제작UI
+[2019.05.04-09.53.57:651][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbdadeb00, Size=1520, Default__투석기_C Function /Game/TopDownBP/Blueprints/건물/투석기.투석기_C:ExecuteUbergraph_투석기
+[2019.05.04-09.53.57:652][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9224c40, Size=4, Default__투석기_D_C Function /Game/TopDownBP/Blueprints/건물/투석기_D.투석기_D_C:ExecuteUbergraph_투석기_D
+[2019.05.04-09.53.57:659][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbdac8800, Size=1552, Default__사슴_C Function /Game/TopDownBP/Blueprints/사슴.사슴_C:ExecuteUbergraph_사슴
+[2019.05.04-09.53.57:677][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbd631f60, Size=88, Default__DeerAIMBP_C Function /Game/TopDownBP/Blueprints/BPAnum/DeerAIMBP.DeerAIMBP_C:ExecuteUbergraph_DeerAIMBP
+[2019.05.04-09.53.57:702][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbca42840, Size=320, Default__대포탄알_C Function /Game/TopDownBP/Blueprints/타워/대포탄알.대포탄알_C:ExecuteUbergraph_대포탄알
+[2019.05.04-09.53.57:703][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9224818, Size=4, Default__폭발_C Function /Game/TopDownBP/Blueprints/타워/폭발.폭발_C:ExecuteUbergraph_폭발
+[2019.05.04-09.53.57:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbc7cae80, Size=576, Default__화덕_C Function /Game/TopDownBP/Blueprints/건물/화덕.화덕_C:ExecuteUbergraph_화덕
+[2019.05.04-09.53.57:736][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc03b0a00, Size=480, Default__박격포탄알_C Function /Game/TopDownBP/Blueprints/타워/박격포탄알.박격포탄알_C:ExecuteUbergraph_박격포탄알
+[2019.05.04-09.53.57:742][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0393900, Size=448, Default__모닥불제작_C Function /Game/TopDownBP/Blueprints/모닥불제작.모닥불제작_C:ExecuteUbergraph_모닥불제작
+[2019.05.04-09.53.57:746][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0370880, Size=344, Default__모닥불터텍스트_C Function /Game/TopDownBP/인벤토리시스템/위젯/모닥불터텍스트.모닥불터텍스트_C:ExecuteUbergraph_모닥불터텍스트
+[2019.05.04-09.53.57:747][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9224610, Size=8, Default__자원_나무_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:758][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019caa6ae860, Size=56, Default__T장비제작UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/T장비제작UI.T장비제작UI_C:ExecuteUbergraph_T장비제작UI
+[2019.05.04-09.53.57:768][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0303660, Size=208, Default__T장비카드UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/T장비카드UI.T장비카드UI_C:ExecuteUbergraph_T장비카드UI
+[2019.05.04-09.53.57:769][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9605810, Size=48, Default__도구_돌곡괭이_C Function /Game/TopDownBP/인벤토리시스템/아이템/도구_돌곡괭이.도구_돌곡괭이_C:ExecuteUbergraph_도구_돌곡괭이
+[2019.05.04-09.53.57:769][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb92245e0, Size=8, Default__도구_돌곡괭이_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:769][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb9605720, Size=48, Default__도구_돌곡괭이_C Function /Game/TopDownBP/인벤토리시스템/아이템/도구_돌곡괭이.도구_돌곡괭이_C:ExecuteUbergraph_도구_돌곡괭이
+[2019.05.04-09.53.57:769][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb92245d8, Size=8, Default__도구_돌곡괭이_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:769][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb92245d0, Size=8, Default__자원_나무_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:772][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc02db900, Size=416, Default__집짓기_C Function /Game/TopDownBP/Blueprints/집짓기.집짓기_C:ExecuteUbergraph_집짓기
+[2019.05.04-09.53.57:776][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0301a60, Size=216, Default__집터텍스트_C Function /Game/TopDownBP/인벤토리시스템/위젯/집터텍스트.집터텍스트_C:ExecuteUbergraph_집터텍스트
+[2019.05.04-09.53.57:779][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbbe601c0, Size=64, Default__BloodEffect_Attacked_C Function /Game/TopDownBP/Blueprints/UI/BloodEffect_Attacked.BloodEffect_Attacked_C:ExecuteUbergraph_BloodEffect_Attacked
+[2019.05.04-09.53.57:783][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc02d3ae8, Size=4, Default__아이템획득UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/아이템획득UI.아이템획득UI_C:ExecuteUbergraph_아이템획득UI
+[2019.05.04-09.53.57:788][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc02d32f8, Size=8, Default__자원_돌_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:794][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc02ce160, Size=40, Default__도구_돌도끼_C Function /Game/TopDownBP/인벤토리시스템/아이템/도구_돌도끼.도구_돌도끼_C:ExecuteUbergraph_도구_돌도끼
+[2019.05.04-09.53.57:794][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc02d3220, Size=8, Default__도구_돌도끼_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:822][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0fac680, Size=592, Default__투석기돌_C Function /Game/TopDownBP/Blueprints/타워/투석기돌.투석기돌_C:ExecuteUbergraph_투석기돌
+[2019.05.04-09.53.57:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0e8f880, Size=192, Default__돌파괴_C Function /Game/TopDownBP/Blueprints/타워/돌파괴.돌파괴_C:ExecuteUbergraph_돌파괴
+[2019.05.04-09.53.57:831][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0eba2a0, Size=40, Default__가공전재료_진흙_C Function /Game/TopDownBP/인벤토리시스템/아이템/가공전재료_진흙.가공전재료_진흙_C:ExecuteUbergraph_가공전재료_진흙
+[2019.05.04-09.53.57:831][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc02d10f8, Size=8, Default__가공전재료_진흙_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:834][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc02d1068, Size=8, Default__재료_벽돌_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:845][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0eef190, Size=48, Default__가공전재료_생고기_C Function /Game/TopDownBP/인벤토리시스템/아이템/가공전재료_생고기.가공전재료_생고기_C:ExecuteUbergraph_가공전재료_생고기
+[2019.05.04-09.53.57:845][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc02d09d0, Size=8, Default__가공전재료_생고기_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:883][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc09fd040, Size=16, Default__소비_구운고기_C Function /Game/TopDownBP/인벤토리시스템/아이템/소비_구운고기.소비_구운고기_C:ExecuteUbergraph_소비_구운고기
+[2019.05.04-09.53.57:883][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0aa6120, Size=8, Default__소비_구운고기_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:893][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0eed8d0, Size=48, Default__가공전재료_구리광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/가공전재료_구리광석.가공전재료_구리광석_C:ExecuteUbergraph_가공전재료_구리광석
+[2019.05.04-09.53.57:893][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0aa5b38, Size=8, Default__가공전재료_구리광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:898][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0eed780, Size=48, Default__가공전재료_금광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/가공전재료_금광석.가공전재료_금광석_C:ExecuteUbergraph_가공전재료_금광석
+[2019.05.04-09.53.57:898][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0aa5a70, Size=8, Default__가공전재료_금광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:903][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0eed750, Size=48, Default__가공전재료_철광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/가공전재료_철광석.가공전재료_철광석_C:ExecuteUbergraph_가공전재료_철광석
+[2019.05.04-09.53.57:903][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0aa5998, Size=8, Default__가공전재료_철광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:908][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0aa58c8, Size=8, Default__재료_구리_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:910][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0aa5878, Size=8, Default__재료_금_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:912][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0aa5828, Size=8, Default__재료_석탄_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.57:914][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc0aa57d8, Size=8, Default__재료_철_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:021][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc4d87ab0, Size=40, Default__횃불_C Function /Game/TopDownBP/Blueprints/건물/횃불.횃불_C:ExecuteUbergraph_횃불
+[2019.05.04-09.53.58:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc4eb2a40, Size=48, Default__도구_돌망치_C Function /Game/TopDownBP/인벤토리시스템/아이템/도구_돌망치.도구_돌망치_C:ExecuteUbergraph_도구_돌망치
+[2019.05.04-09.53.58:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc4dccd50, Size=8, Default__도구_돌망치_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:065][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc1712480, Size=80, Default__도구_휴대용횃불_C Function /Game/TopDownBP/인벤토리시스템/아이템/도구_휴대용횃불.도구_휴대용횃불_C:ExecuteUbergraph_도구_휴대용횃불
+[2019.05.04-09.53.58:065][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc4dccca0, Size=8, Default__도구_휴대용횃불_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:066][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc4d869f8, Size=40, Default__횃불_장비_C Function /Game/TopDownBP/Blueprints/횃불_장비.횃불_장비_C:ExecuteUbergraph_횃불_장비
+[2019.05.04-09.53.58:074][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc4eb2890, Size=48, Default__무기_돌나이프_C Function /Game/TopDownBP/인벤토리시스템/아이템/무기_돌나이프.무기_돌나이프_C:ExecuteUbergraph_무기_돌나이프
+[2019.05.04-09.53.58:074][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc4dcc9f8, Size=8, Default__무기_돌나이프_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:118][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc16ea200, Size=320, Default__Spawn_Animal_C Function /Game/TopDownBP/Blueprints/Spawn_Animal.Spawn_Animal_C:ExecuteUbergraph_Spawn_Animal
+[2019.05.04-09.53.58:122][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc530f660, Size=224, Default__Spawn_Enemy_C Function /Game/TopDownBP/Blueprints/Spawn_Enemy.Spawn_Enemy_C:ExecuteUbergraph_Spawn_Enemy
+[2019.05.04-09.53.58:126][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc4d5e8c0, Size=96, Default__BloodEffect_Cold_C Function /Game/TopDownBP/Blueprints/UI/BloodEffect_Cold.BloodEffect_Cold_C:ExecuteUbergraph_BloodEffect_Cold
+[2019.05.04-09.53.58:132][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc4d5ea40, Size=96, Default__BloodEffect_Hunger_C Function /Game/TopDownBP/Blueprints/UI/BloodEffect_Hunger.BloodEffect_Hunger_C:ExecuteUbergraph_BloodEffect_Hunger
+[2019.05.04-09.53.58:141][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc52ab7a0, Size=32, Default__BP_CartoonWater_Ocean_C Function /Game/CartoonWaterShader/Blueprints/CartoonWaterBlueprints/BP_CartoonWater_Ocean.BP_CartoonWater_Ocean_C:ExecuteUbergraph_BP_CartoonWater_Ocean
+[2019.05.04-09.53.58:171][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cb77f9000, Size=768, Default__광석_C Function /Game/TopDownBP/Blueprints/광석.광석_C:ExecuteUbergraph_광석
+[2019.05.04-09.53.58:174][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc5b76e80, Size=784, Default__바위_C Function /Game/TopDownBP/Blueprints/바위.바위_C:ExecuteUbergraph_바위
+[2019.05.04-09.53.58:199][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc5b50800, Size=1088, Default__나무_C Function /Game/TopDownBP/Blueprints/나무.나무_C:ExecuteUbergraph_나무
+[2019.05.04-09.53.58:217][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc5807100, Size=736, Default__열매나무_C Function /Game/TopDownBP/Blueprints/열매나무.열매나무_C:ExecuteUbergraph_열매나무
+[2019.05.04-09.53.58:218][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc5ad6ea0, Size=16, Default__소비_열매_C Function /Game/TopDownBP/인벤토리시스템/아이템/소비_열매.소비_열매_C:ExecuteUbergraph_소비_열매
+[2019.05.04-09.53.58:218][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc5bce450, Size=8, Default__소비_열매_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:480][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd6336a0, Size=88
+[2019.05.04-09.53.58:480][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6b70ee0, Size=88, Default__BoarAnimBP_C Function /Engine/Transient.REINST_BoarAnimBP_C_0:ExecuteUbergraph_BoarAnimBP
+[2019.05.04-09.53.58:480][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc52ab7a0, Size=32
+[2019.05.04-09.53.58:480][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc740b7e0, Size=32, Default__BP_CartoonWater_Ocean_C Function /Engine/Transient.REINST_BP_CartoonWater_Ocean_C_2:ExecuteUbergraph_BP_CartoonWater_Ocean
+[2019.05.04-09.53.58:481][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbbe79d00, Size=304
+[2019.05.04-09.53.58:481][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc09bb9c0, Size=304, Default__BuildingGhost_C Function /Engine/Transient.REINST_BuildingGhost_C_4:ExecuteUbergraph_BuildingGhost
+[2019.05.04-09.53.58:481][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb9212ac0, Size=72
+[2019.05.04-09.53.58:482][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc73e8ae0, Size=72, Default__DayAndNight_C Function /Engine/Transient.REINST_DayAndNight_C_5:ExecuteUbergraph_DayAndNight
+[2019.05.04-09.53.58:482][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd631f60, Size=88
+[2019.05.04-09.53.58:482][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6b71000, Size=88, Default__DeerAIMBP_C Function /Engine/Transient.REINST_DeerAIMBP_C_1:ExecuteUbergraph_DeerAIMBP
+[2019.05.04-09.53.58:482][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb91d26e0, Size=48
+[2019.05.04-09.53.58:482][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674b100, Size=48, Default__MainAnim_C Function /Engine/Transient.REINST_MainAnim_C_2:ExecuteUbergraph_MainAnim
+[2019.05.04-09.53.58:483][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd6bb200, Size=496
+[2019.05.04-09.53.58:483][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6e59200, Size=496, Default__PickupItem_C Function /Engine/Transient.REINST_PickupItem_C_7:ExecuteUbergraph_PickupItem
+[2019.05.04-09.53.58:483][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc16ea200, Size=320
+[2019.05.04-09.53.58:483][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc09bbc40, Size=320, Default__Spawn_Animal_C Function /Engine/Transient.REINST_Spawn_Animal_C_8:ExecuteUbergraph_Spawn_Animal
+[2019.05.04-09.53.58:483][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc530f660, Size=224
+[2019.05.04-09.53.58:483][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc73a74a0, Size=224, Default__Spawn_Enemy_C Function /Engine/Transient.REINST_Spawn_Enemy_C_9:ExecuteUbergraph_Spawn_Enemy
+[2019.05.04-09.53.58:483][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb91d2bf0, Size=48
+[2019.05.04-09.53.58:483][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674b070, Size=48, Default__TempAnim_C Function /Engine/Transient.REINST_TempAnim_C_3:ExecuteUbergraph_TempAnim
+[2019.05.04-09.53.58:484][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb77f9000, Size=768
+[2019.05.04-09.53.58:484][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7397700, Size=768, Default__광석_C Function /Engine/Transient.REINST_광석_C_11:ExecuteUbergraph_광석
+[2019.05.04-09.53.58:485][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc5b50800, Size=1088
+[2019.05.04-09.53.58:485][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7393900, Size=1088, Default__나무_C Function /Engine/Transient.REINST_나무_C_12:ExecuteUbergraph_나무
+[2019.05.04-09.53.58:485][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb92250e0, Size=4
+[2019.05.04-09.53.58:485][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7a00, Size=4, Default__대포_D_C Function /Engine/Transient.REINST_대포_D_C_13:ExecuteUbergraph_대포_D
+[2019.05.04-09.53.58:485][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbca42840, Size=320
+[2019.05.04-09.53.58:485][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc09bbd80, Size=320, Default__대포탄알_C Function /Engine/Transient.REINST_대포탄알_C_14:ExecuteUbergraph_대포탄알
+[2019.05.04-09.53.58:486][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0e8f880, Size=192
+[2019.05.04-09.53.58:486][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc73c6f80, Size=192, Default__돌파괴_C Function /Engine/Transient.REINST_돌파괴_C_15:ExecuteUbergraph_돌파괴
+[2019.05.04-09.53.58:486][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbfc7eb00, Size=672
+[2019.05.04-09.53.58:486][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7394d00, Size=672, Default__모닥불_C Function /Engine/Transient.REINST_모닥불_C_16:ExecuteUbergraph_모닥불
+[2019.05.04-09.53.58:487][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0393900, Size=448
+[2019.05.04-09.53.58:487][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7385440, Size=448, Default__모닥불제작_C Function /Engine/Transient.REINST_모닥불제작_C_17:ExecuteUbergraph_모닥불제작
+[2019.05.04-09.53.58:487][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc5b76e80, Size=784
+[2019.05.04-09.53.58:487][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc73c8f00, Size=784, Default__바위_C Function /Engine/Transient.REINST_바위_C_18:ExecuteUbergraph_바위
+[2019.05.04-09.53.58:487][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb9224fb8, Size=4
+[2019.05.04-09.53.58:487][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7990, Size=4, Default__박격포_D_C Function /Engine/Transient.REINST_박격포_D_C_19:ExecuteUbergraph_박격포_D
+[2019.05.04-09.53.58:488][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc03b0a00, Size=480
+[2019.05.04-09.53.58:488][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6e58e00, Size=480, Default__박격포탄알_C Function /Engine/Transient.REINST_박격포탄알_C_20:ExecuteUbergraph_박격포탄알
+[2019.05.04-09.53.58:489][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbc739a30, Size=16
+[2019.05.04-09.53.58:489][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6579b80, Size=16, Default__상자BP_C Function /Engine/Transient.REINST_상자BP_C_21:ExecuteUbergraph_상자BP
+[2019.05.04-09.53.58:489][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb9224e98, Size=4
+[2019.05.04-09.53.58:489][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7960, Size=4, Default__석궁_D_C Function /Engine/Transient.REINST_석궁_D_C_23:ExecuteUbergraph_석궁_D
+[2019.05.04-09.53.58:489][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd8aff20, Size=224
+[2019.05.04-09.53.58:489][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7347e40, Size=224, Default__석궁화살_C Function /Engine/Transient.REINST_석궁화살_C_24:ExecuteUbergraph_석궁화살
+[2019.05.04-09.53.58:489][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb9225a68, Size=8
+[2019.05.04-09.53.58:489][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7938, Size=8, Default__아이템마스터_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:490][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc5807100, Size=736
+[2019.05.04-09.53.58:490][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7355900, Size=736, Default__열매나무_C Function /Engine/Transient.REINST_열매나무_C_26:ExecuteUbergraph_열매나무
+[2019.05.04-09.53.58:492][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb91ccc00, Size=256
+[2019.05.04-09.53.58:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6030400, Size=256, Default__인벤토리BP_C Function /Engine/Transient.REINST_인벤토리BP_C_27:ExecuteUbergraph_인벤토리BP
+[2019.05.04-09.53.58:492][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc02db900, Size=416
+[2019.05.04-09.53.58:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc73689c0, Size=416, Default__집짓기_C Function /Engine/Transient.REINST_집짓기_C_28:ExecuteUbergraph_집짓기
+[2019.05.04-09.53.58:493][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb9224c40, Size=4
+[2019.05.04-09.53.58:493][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b78e0, Size=4, Default__투석기_D_C Function /Engine/Transient.REINST_투석기_D_C_30:ExecuteUbergraph_투석기_D
+[2019.05.04-09.53.58:493][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0fac680, Size=592
+[2019.05.04-09.53.58:493][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc613ee80, Size=592, Default__투석기돌_C Function /Engine/Transient.REINST_투석기돌_C_31:ExecuteUbergraph_투석기돌
+[2019.05.04-09.53.58:493][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb9224818, Size=4
+[2019.05.04-09.53.58:493][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b78c0, Size=4, Default__폭발_C Function /Engine/Transient.REINST_폭발_C_32:ExecuteUbergraph_폭발
+[2019.05.04-09.53.58:493][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc4d869f8, Size=40
+[2019.05.04-09.53.58:493][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6787510, Size=40, Default__횃불_장비_C Function /Engine/Transient.REINST_횃불_장비_C_33:ExecuteUbergraph_횃불_장비
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0eed8d0, Size=48
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0aa5b38, Size=8
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674b040, Size=48, Default__가공전재료_구리광석_C Function /Engine/Transient.REINST_가공전재료_구리광석_C_34:ExecuteUbergraph_가공전재료_구리광석
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b78a0, Size=8, Default__가공전재료_구리광석_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0eed780, Size=48
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0aa5a70, Size=8
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674b010, Size=48, Default__가공전재료_금광석_C Function /Engine/Transient.REINST_가공전재료_금광석_C_35:ExecuteUbergraph_가공전재료_금광석
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7888, Size=8, Default__가공전재료_금광석_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0eef190, Size=48
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc02d09d0, Size=8
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674afe0, Size=48, Default__가공전재료_생고기_C Function /Engine/Transient.REINST_가공전재료_생고기_C_36:ExecuteUbergraph_가공전재료_생고기
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7870, Size=8, Default__가공전재료_생고기_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0eba2a0, Size=40
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc02d10f8, Size=8
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc67874e8, Size=40, Default__가공전재료_진흙_C Function /Engine/Transient.REINST_가공전재료_진흙_C_37:ExecuteUbergraph_가공전재료_진흙
+[2019.05.04-09.53.58:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7860, Size=8, Default__가공전재료_진흙_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:495][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0eed750, Size=48
+[2019.05.04-09.53.58:495][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0aa5998, Size=8
+[2019.05.04-09.53.58:495][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674afb0, Size=48, Default__가공전재료_철광석_C Function /Engine/Transient.REINST_가공전재료_철광석_C_38:ExecuteUbergraph_가공전재료_철광석
+[2019.05.04-09.53.58:495][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7850, Size=8, Default__가공전재료_철광석_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd648f00, Size=1408
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc72fb900, Size=1408, Default__대포_C Function /Engine/Transient.REINST_대포_C_39:ExecuteUbergraph_대포
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb9605720, Size=48
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb92245d8, Size=8
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674af80, Size=48, Default__도구_돌곡괭이_C Function /Engine/Transient.REINST_도구_돌곡괭이_C_40:ExecuteUbergraph_도구_돌곡괭이
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7828, Size=8, Default__도구_돌곡괭이_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc02ce160, Size=40
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc02d3220, Size=8
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6787498, Size=40, Default__도구_돌도끼_C Function /Engine/Transient.REINST_도구_돌도끼_C_41:ExecuteUbergraph_도구_돌도끼
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7810, Size=8, Default__도구_돌도끼_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc4eb2a40, Size=48
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc4dccd50, Size=8
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674af50, Size=48, Default__도구_돌망치_C Function /Engine/Transient.REINST_도구_돌망치_C_42:ExecuteUbergraph_도구_돌망치
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b77f8, Size=8, Default__도구_돌망치_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc1712480, Size=80
+[2019.05.04-09.53.58:496][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc4dccca0, Size=8
+[2019.05.04-09.53.58:497][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7340bd0, Size=80, Default__도구_휴대용횃불_C Function /Engine/Transient.REINST_도구_휴대용횃불_C_43:ExecuteUbergraph_도구_휴대용횃불
+[2019.05.04-09.53.58:497][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b77e8, Size=8, Default__도구_휴대용횃불_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:497][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc4eb2890, Size=48
+[2019.05.04-09.53.58:497][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc4dcc9f8, Size=8
+[2019.05.04-09.53.58:497][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674af20, Size=48, Default__무기_돌나이프_C Function /Engine/Transient.REINST_무기_돌나이프_C_44:ExecuteUbergraph_무기_돌나이프
+[2019.05.04-09.53.58:497][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b77c0, Size=8, Default__무기_돌나이프_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:498][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cab0dab00, Size=1456
+[2019.05.04-09.53.58:498][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc72e3200, Size=1456, Default__박격포_C Function /Engine/Transient.REINST_박격포_C_45:ExecuteUbergraph_박격포
+[2019.05.04-09.53.58:498][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd686700, Size=560
+[2019.05.04-09.53.58:498][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc613dd00, Size=560, Default__보관상자_C Function /Engine/Transient.REINST_보관상자_C_46:ExecuteUbergraph_보관상자
+[2019.05.04-09.53.58:499][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd87c800, Size=1424
+[2019.05.04-09.53.58:499][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc72bb900, Size=1424, Default__석궁_C Function /Engine/Transient.REINST_석궁_C_47:ExecuteUbergraph_석궁
+[2019.05.04-09.53.58:499][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc09fd040, Size=16
+[2019.05.04-09.53.58:499][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0aa6120, Size=8
+[2019.05.04-09.53.58:499][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6579b30, Size=16, Default__소비_구운고기_C Function /Engine/Transient.REINST_소비_구운고기_C_48:ExecuteUbergraph_소비_구운고기
+[2019.05.04-09.53.58:499][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7778, Size=8, Default__소비_구운고기_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:499][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc5ad6ea0, Size=16
+[2019.05.04-09.53.58:499][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc5bce450, Size=8
+[2019.05.04-09.53.58:499][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6579710, Size=16, Default__소비_열매_C Function /Engine/Transient.REINST_소비_열매_C_49:ExecuteUbergraph_소비_열매
+[2019.05.04-09.53.58:499][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7770, Size=8, Default__소비_열매_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd8ce800, Size=648
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc72c9c00, Size=648, Default__용광로_C Function /Engine/Transient.REINST_용광로_C_50:ExecuteUbergraph_용광로
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb92245d0, Size=8
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7758, Size=8, Default__자원_나무_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc02d32f8, Size=8
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7750, Size=8, Default__자원_돌_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0aa58c8, Size=8
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7748, Size=8, Default__재료_구리_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0aa5878, Size=8
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7740, Size=8, Default__재료_금_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc02d1068, Size=8
+[2019.05.04-09.53.58:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7738, Size=8, Default__재료_벽돌_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:501][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0aa5828, Size=8
+[2019.05.04-09.53.58:501][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7730, Size=8, Default__재료_석탄_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:501][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0aa57d8, Size=8
+[2019.05.04-09.53.58:501][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7728, Size=8, Default__재료_철_C Function /Engine/Transient.REINST_아이템마스터_C_25:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.58:501][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd6b9800, Size=472
+[2019.05.04-09.53.58:501][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc72db800, Size=472, Default__집_C Function /Engine/Transient.REINST_집_C_58:ExecuteUbergraph_집
+[2019.05.04-09.53.58:502][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbdadeb00, Size=1520
+[2019.05.04-09.53.58:502][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc729a400, Size=1520, Default__투석기_C Function /Engine/Transient.REINST_투석기_C_59:ExecuteUbergraph_투석기
+[2019.05.04-09.53.58:503][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbc7cae80, Size=576
+[2019.05.04-09.53.58:503][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc613df80, Size=576, Default__화덕_C Function /Engine/Transient.REINST_화덕_C_60:ExecuteUbergraph_화덕
+[2019.05.04-09.53.58:503][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc4d87ab0, Size=40
+[2019.05.04-09.53.58:503][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc6787358, Size=40, Default__횃불_C Function /Engine/Transient.REINST_횃불_C_61:ExecuteUbergraph_횃불
+[2019.05.04-09.53.58:503][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbbe601c0, Size=64
+[2019.05.04-09.53.58:503][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7308300, Size=64, Default__BloodEffect_Attacked_C Function /Engine/Transient.REINST_BloodEffect_Attacked_C_0:ExecuteUbergraph_BloodEffect_Attacked
+[2019.05.04-09.53.58:504][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc4d5e8c0, Size=96
+[2019.05.04-09.53.58:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc729fca0, Size=96, Default__BloodEffect_Cold_C Function /Engine/Transient.REINST_BloodEffect_Cold_C_1:ExecuteUbergraph_BloodEffect_Cold
+[2019.05.04-09.53.58:504][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd633c40, Size=96
+[2019.05.04-09.53.58:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc729fac0, Size=96, Default__BloodEffect_Health_C Function /Engine/Transient.REINST_BloodEffect_Health_C_2:ExecuteUbergraph_BloodEffect_Health
+[2019.05.04-09.53.58:504][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc4d5ea40, Size=96
+[2019.05.04-09.53.58:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc729fa00, Size=96, Default__BloodEffect_Hunger_C Function /Engine/Transient.REINST_BloodEffect_Hunger_C_3:ExecuteUbergraph_BloodEffect_Hunger
+[2019.05.04-09.53.58:504][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb92255e0, Size=4
+[2019.05.04-09.53.58:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b76d0, Size=4, Default__DetailWidget_C Function /Engine/Transient.REINST_DetailWidget_C_4:ExecuteUbergraph_DetailWidget
+[2019.05.04-09.53.58:504][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd746020, Size=136
+[2019.05.04-09.53.58:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7269c60, Size=136, Default__DraggedItem_C Function /Engine/Transient.REINST_DraggedItem_C_5:ExecuteUbergraph_DraggedItem
+[2019.05.04-09.53.58:505][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd3017c0, Size=392
+[2019.05.04-09.53.58:505][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc727b740, Size=392, Default__InGameUI_C Function /Engine/Transient.REINST_InGameUI_C_6:ExecuteUbergraph_InGameUI
+[2019.05.04-09.53.58:506][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd302240, Size=424
+[2019.05.04-09.53.58:506][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc727b580, Size=424, Default__ThrowWidget_C Function /Engine/Transient.REINST_ThrowWidget_C_8:ExecuteUbergraph_ThrowWidget
+[2019.05.04-09.53.58:508][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9acc1600, Size=4896
+[2019.05.04-09.53.58:508][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc727eb00, Size=4896, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_62:ExecuteUbergraph_TopDownCharacter
+[2019.05.04-09.53.58:509][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbfd02d40, Size=136
+[2019.05.04-09.53.58:509][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc720c680, Size=136, Default__T건물제작UI_C Function /Engine/Transient.REINST_T건물제작UI_C_10:ExecuteUbergraph_T건물제작UI
+[2019.05.04-09.53.58:509][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbfc28c60, Size=216
+[2019.05.04-09.53.58:509][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7236940, Size=216, Default__T건물카드UI_C Function /Engine/Transient.REINST_T건물카드UI_C_11:ExecuteUbergraph_T건물카드UI
+[2019.05.04-09.53.58:510][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019caa6ae860, Size=56
+[2019.05.04-09.53.58:510][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc661b580, Size=56, Default__T장비제작UI_C Function /Engine/Transient.REINST_T장비제작UI_C_13:ExecuteUbergraph_T장비제작UI
+[2019.05.04-09.53.58:510][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0303660, Size=208
+[2019.05.04-09.53.58:510][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7235d00, Size=208, Default__T장비카드UI_C Function /Engine/Transient.REINST_T장비카드UI_C_14:ExecuteUbergraph_T장비카드UI
+[2019.05.04-09.53.58:510][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb9225678, Size=4
+[2019.05.04-09.53.58:510][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b7640, Size=4, Default__경고문UI_C Function /Engine/Transient.REINST_경고문UI_C_17:ExecuteUbergraph_경고문UI
+[2019.05.04-09.53.58:511][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbc3f3d00, Size=752
+[2019.05.04-09.53.58:511][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbfd0d300, Size=752, Default__곰_C Function /Engine/Transient.REINST_곰_C_65:ExecuteUbergraph_곰
+[2019.05.04-09.53.58:511][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c97e187c0, Size=88
+[2019.05.04-09.53.58:511][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc729f9a0, Size=88, Default__메인위젯UI_C Function /Engine/Transient.REINST_메인위젯UI_C_18:ExecuteUbergraph_메인위젯UI
+[2019.05.04-09.53.58:512][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb8e43900, Size=1568
+[2019.05.04-09.53.58:512][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc73e4100, Size=1568, Default__멧돼지_C Function /Engine/Transient.REINST_멧돼지_C_66:ExecuteUbergraph_멧돼지
+[2019.05.04-09.53.58:512][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0370880, Size=344
+[2019.05.04-09.53.58:512][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc71d2b00, Size=344, Default__모닥불터텍스트_C Function /Engine/Transient.REINST_모닥불터텍스트_C_19:ExecuteUbergraph_모닥불터텍스트
+[2019.05.04-09.53.58:513][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbdac8800, Size=1552
+[2019.05.04-09.53.58:513][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc71bab00, Size=1552, Default__사슴_C Function /Engine/Transient.REINST_사슴_C_67:ExecuteUbergraph_사슴
+[2019.05.04-09.53.58:514][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb91d10f0, Size=48
+[2019.05.04-09.53.58:514][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674ab90, Size=48, Default__상자UI_C Function /Engine/Transient.REINST_상자UI_C_22:ExecuteUbergraph_상자UI
+[2019.05.04-09.53.58:514][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd772340, Size=312
+[2019.05.04-09.53.58:514][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc723fc40, Size=312, Default__상자슬롯UI_C Function /Engine/Transient.REINST_상자슬롯UI_C_23:ExecuteUbergraph_상자슬롯UI
+[2019.05.04-09.53.58:514][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc02d3ae8, Size=4
+[2019.05.04-09.53.58:514][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc64b75d0, Size=4, Default__아이템획득UI_C Function /Engine/Transient.REINST_아이템획득UI_C_25:ExecuteUbergraph_아이템획득UI
+[2019.05.04-09.53.58:515][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cad8d8c00, Size=480
+[2019.05.04-09.53.58:515][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc72dac00, Size=480, Default__인벤토리슬롯UI_C Function /Engine/Transient.REINST_인벤토리슬롯UI_C_28:ExecuteUbergraph_인벤토리슬롯UI
+[2019.05.04-09.53.58:515][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd6967f0, Size=72
+[2019.05.04-09.53.58:515][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc71d5760, Size=72, Default__집UI_C Function /Engine/Transient.REINST_집UI_C_29:ExecuteUbergraph_집UI
+[2019.05.04-09.53.58:516][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc0301a60, Size=216
+[2019.05.04-09.53.58:516][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc71aacc0, Size=216, Default__집터텍스트_C Function /Engine/Transient.REINST_집터텍스트_C_30:ExecuteUbergraph_집터텍스트
+[2019.05.04-09.53.58:516][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbd632fe0, Size=96
+[2019.05.04-09.53.58:516][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc729f700, Size=96, Default__튜토리얼UI_C Function /Engine/Transient.REINST_튜토리얼UI_C_32:ExecuteUbergraph_튜토리얼UI
+[2019.05.04-09.53.58:516][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb9607250, Size=48
+[2019.05.04-09.53.58:516][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc674aad0, Size=48, Default__핫키UI_C Function /Engine/Transient.REINST_핫키UI_C_33:ExecuteUbergraph_핫키UI
+[2019.05.04-09.53.58:979][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9d7e9e0, Size=88, Default__BoarAnimBP_C Function /Game/TopDownBP/Blueprints/BPAnum/BoarAnimBP.BoarAnimBP_C:ExecuteUbergraph_BoarAnimBP
+[2019.05.04-09.53.58:982][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9d225a0, Size=32, Default__BP_CartoonWater_Ocean_C Function /Game/CartoonWaterShader/Blueprints/CartoonWaterBlueprints/BP_CartoonWater_Ocean.BP_CartoonWater_Ocean_C:ExecuteUbergraph_BP_CartoonWater_Ocean
+[2019.05.04-09.53.58:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9db79c0, Size=304, Default__BuildingGhost_C Function /Game/TopDownBP/Blueprints/건물/BuildingGhost.BuildingGhost_C:ExecuteUbergraph_BuildingGhost
+[2019.05.04-09.53.58:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ccd8a0, Size=80, Default__DayAndNight_C Function /Game/TopDownBP/Blueprints/DayAndNight.DayAndNight_C:ExecuteUbergraph_DayAndNight
+[2019.05.04-09.53.58:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9cd24a0, Size=88, Default__DeerAIMBP_C Function /Game/TopDownBP/Blueprints/BPAnum/DeerAIMBP.DeerAIMBP_C:ExecuteUbergraph_DeerAIMBP
+[2019.05.04-09.53.58:988][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9c946d0, Size=48, Default__MainAnim_C Function /Game/TopDownBP/Character/Model/Animation/MainAnim.MainAnim_C:ExecuteUbergraph_MainAnim
+[2019.05.04-09.53.58:990][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9d63600, Size=496, Default__PickupItem_C Function /Game/TopDownBP/인벤토리시스템/아이템/PickupItem.PickupItem_C:ExecuteUbergraph_PickupItem
+[2019.05.04-09.53.58:991][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9db7740, Size=320, Default__Spawn_Animal_C Function /Game/TopDownBP/Blueprints/Spawn_Animal.Spawn_Animal_C:ExecuteUbergraph_Spawn_Animal
+[2019.05.04-09.53.58:992][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9c37f20, Size=224, Default__Spawn_Enemy_C Function /Game/TopDownBP/Blueprints/Spawn_Enemy.Spawn_Enemy_C:ExecuteUbergraph_Spawn_Enemy
+[2019.05.04-09.53.58:992][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9c58a00, Size=48, Default__TempAnim_C Function /Game/TopDownBP/Character/MixamoAnim/TempAnim.TempAnim_C:ExecuteUbergraph_TempAnim
+[2019.05.04-09.53.58:995][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9c84b80, Size=784, Default__광석_C Function /Game/TopDownBP/Blueprints/광석.광석_C:ExecuteUbergraph_광석
+[2019.05.04-09.53.58:998][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9b83200, Size=1088, Default__나무_C Function /Game/TopDownBP/Blueprints/나무.나무_C:ExecuteUbergraph_나무
+[2019.05.04-09.53.58:999][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9cab618, Size=4, Default__대포_D_C Function /Game/TopDownBP/Blueprints/건물/대포_D.대포_D_C:ExecuteUbergraph_대포_D
+[2019.05.04-09.53.59:000][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9db5d00, Size=320, Default__대포탄알_C Function /Game/TopDownBP/Blueprints/타워/대포탄알.대포탄알_C:ExecuteUbergraph_대포탄알
+[2019.05.04-09.53.59:000][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9cab4c8, Size=4, Default__돌파괴_C Function /Game/TopDownBP/Blueprints/타워/돌파괴.돌파괴_C:ExecuteUbergraph_돌파괴
+[2019.05.04-09.53.59:002][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc73c3100, Size=672, Default__모닥불_C Function /Game/TopDownBP/Blueprints/모닥불.모닥불_C:ExecuteUbergraph_모닥불
+[2019.05.04-09.53.59:003][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9d62400, Size=464, Default__모닥불제작_C Function /Game/TopDownBP/Blueprints/모닥불제작.모닥불제작_C:ExecuteUbergraph_모닥불제작
+[2019.05.04-09.53.59:006][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9b22780, Size=800, Default__바위_C Function /Game/TopDownBP/Blueprints/바위.바위_C:ExecuteUbergraph_바위
+[2019.05.04-09.53.59:007][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9cab240, Size=4, Default__박격포_D_C Function /Game/TopDownBP/Blueprints/건물/박격포_D.박격포_D_C:ExecuteUbergraph_박격포_D
+[2019.05.04-09.53.59:008][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9d61c00, Size=480, Default__박격포탄알_C Function /Game/TopDownBP/Blueprints/타워/박격포탄알.박격포탄알_C:ExecuteUbergraph_박격포탄알
+[2019.05.04-09.53.59:012][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9c2dc60, Size=16, Default__상자BP_C Function /Game/TopDownBP/인벤토리시스템/상자BP.상자BP_C:ExecuteUbergraph_상자BP
+[2019.05.04-09.53.59:013][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9caace0, Size=4, Default__석궁_D_C Function /Game/TopDownBP/Blueprints/건물/석궁_D.석궁_D_C:ExecuteUbergraph_석궁_D
+[2019.05.04-09.53.59:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9c36da0, Size=224, Default__석궁화살_C Function /Game/TopDownBP/Blueprints/타워/석궁화살.석궁화살_C:ExecuteUbergraph_석궁화살
+[2019.05.04-09.53.59:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9caac50, Size=8, Default__아이템마스터_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:016][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9a22500, Size=736, Default__열매나무_C Function /Game/TopDownBP/Blueprints/열매나무.열매나무_C:ExecuteUbergraph_열매나무
+[2019.05.04-09.53.59:026][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9950100, Size=256, Default__인벤토리BP_C Function /Game/TopDownBP/인벤토리시스템/인벤토리BP.인벤토리BP_C:ExecuteUbergraph_인벤토리BP
+[2019.05.04-09.53.59:028][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ea4f00, Size=416, Default__집짓기_C Function /Game/TopDownBP/Blueprints/집짓기.집짓기_C:ExecuteUbergraph_집짓기
+[2019.05.04-09.53.59:029][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9caa300, Size=4, Default__투석기_D_C Function /Game/TopDownBP/Blueprints/건물/투석기_D.투석기_D_C:ExecuteUbergraph_투석기_D
+[2019.05.04-09.53.59:029][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc99b8680, Size=600, Default__투석기돌_C Function /Game/TopDownBP/Blueprints/타워/투석기돌.투석기돌_C:ExecuteUbergraph_투석기돌
+[2019.05.04-09.53.59:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9caa220, Size=4, Default__폭발_C Function /Game/TopDownBP/Blueprints/타워/폭발.폭발_C:ExecuteUbergraph_폭발
+[2019.05.04-09.53.59:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc98dbf88, Size=40, Default__횃불_장비_C Function /Game/TopDownBP/Blueprints/횃불_장비.횃불_장비_C:ExecuteUbergraph_횃불_장비
+[2019.05.04-09.53.59:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc987ab00, Size=48, Default__가공전재료_구리광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/가공전재료_구리광석.가공전재료_구리광석_C:ExecuteUbergraph_가공전재료_구리광석
+[2019.05.04-09.53.59:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9caa150, Size=8, Default__가공전재료_구리광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc987a140, Size=48, Default__가공전재료_금광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/가공전재료_금광석.가공전재료_금광석_C:ExecuteUbergraph_가공전재료_금광석
+[2019.05.04-09.53.59:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9caa0d0, Size=8, Default__가공전재료_금광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9879780, Size=48, Default__가공전재료_생고기_C Function /Game/TopDownBP/인벤토리시스템/아이템/가공전재료_생고기.가공전재료_생고기_C:ExecuteUbergraph_가공전재료_생고기
+[2019.05.04-09.53.59:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9caa050, Size=8, Default__가공전재료_생고기_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc98dbd58, Size=40, Default__가공전재료_진흙_C Function /Game/TopDownBP/인벤토리시스템/아이템/가공전재료_진흙.가공전재료_진흙_C:ExecuteUbergraph_가공전재료_진흙
+[2019.05.04-09.53.59:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9fd8, Size=8, Default__가공전재료_진흙_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc98785e0, Size=48, Default__가공전재료_철광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/가공전재료_철광석.가공전재료_철광석_C:ExecuteUbergraph_가공전재료_철광석
+[2019.05.04-09.53.59:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9f58, Size=8, Default__가공전재료_철광석_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:037][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9850f00, Size=1424, Default__대포_C Function /Game/TopDownBP/Blueprints/건물/대포.대포_C:ExecuteUbergraph_대포
+[2019.05.04-09.53.59:038][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc97c7f70, Size=48, Default__도구_돌곡괭이_C Function /Game/TopDownBP/인벤토리시스템/아이템/도구_돌곡괭이.도구_돌곡괭이_C:ExecuteUbergraph_도구_돌곡괭이
+[2019.05.04-09.53.59:039][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9e38, Size=8, Default__도구_돌곡괭이_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:039][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc98dbce0, Size=40, Default__도구_돌도끼_C Function /Game/TopDownBP/인벤토리시스템/아이템/도구_돌도끼.도구_돌도끼_C:ExecuteUbergraph_도구_돌도끼
+[2019.05.04-09.53.59:039][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9c38, Size=8, Default__도구_돌도끼_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:040][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc97c6c20, Size=48, Default__도구_돌망치_C Function /Game/TopDownBP/인벤토리시스템/아이템/도구_돌망치.도구_돌망치_C:ExecuteUbergraph_도구_돌망치
+[2019.05.04-09.53.59:040][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9bb8, Size=8, Default__도구_돌망치_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:040][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9840450, Size=80, Default__도구_휴대용횃불_C Function /Game/TopDownBP/인벤토리시스템/아이템/도구_휴대용횃불.도구_휴대용횃불_C:ExecuteUbergraph_도구_휴대용횃불
+[2019.05.04-09.53.59:040][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9b18, Size=8, Default__도구_휴대용횃불_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:041][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc97c5540, Size=48, Default__무기_돌나이프_C Function /Game/TopDownBP/인벤토리시스템/아이템/무기_돌나이프.무기_돌나이프_C:ExecuteUbergraph_무기_돌나이프
+[2019.05.04-09.53.59:041][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9a98, Size=8, Default__무기_돌나이프_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:045][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc978cf00, Size=1440, Default__박격포_C Function /Game/TopDownBP/Blueprints/건물/박격포.박격포_C:ExecuteUbergraph_박격포
+[2019.05.04-09.53.59:048][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9797100, Size=576, Default__보관상자_C Function /Game/TopDownBP/Blueprints/건물/보관상자.보관상자_C:ExecuteUbergraph_보관상자
+[2019.05.04-09.53.59:052][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc96eab00, Size=1440, Default__석궁_C Function /Game/TopDownBP/Blueprints/건물/석궁.석궁_C:ExecuteUbergraph_석궁
+[2019.05.04-09.53.59:054][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc98ad970, Size=16, Default__소비_구운고기_C Function /Game/TopDownBP/인벤토리시스템/아이템/소비_구운고기.소비_구운고기_C:ExecuteUbergraph_소비_구운고기
+[2019.05.04-09.53.59:054][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9550, Size=8, Default__소비_구운고기_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:054][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc98ad9f0, Size=16, Default__소비_열매_C Function /Game/TopDownBP/인벤토리시스템/아이템/소비_열매.소비_열매_C:ExecuteUbergraph_소비_열매
+[2019.05.04-09.53.59:054][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9580, Size=8, Default__소비_열매_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:057][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc969e800, Size=664, Default__용광로_C Function /Game/TopDownBP/Blueprints/건물/용광로.용광로_C:ExecuteUbergraph_용광로
+[2019.05.04-09.53.59:058][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca92e0, Size=8, Default__자원_나무_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:058][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca92e8, Size=8, Default__자원_돌_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:058][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca92f0, Size=8, Default__재료_구리_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:058][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9300, Size=8, Default__재료_금_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:058][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9308, Size=8, Default__재료_벽돌_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:058][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9310, Size=8, Default__재료_석탄_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:058][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca9318, Size=8, Default__재료_철_C Function /Game/TopDownBP/인벤토리시스템/아이템/아이템마스터.아이템마스터_C:ExecuteUbergraph_아이템마스터
+[2019.05.04-09.53.59:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc97f5c00, Size=472, Default__집_C Function /Game/TopDownBP/Blueprints/건물/집.집_C:ExecuteUbergraph_집
+[2019.05.04-09.53.59:064][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9631d00, Size=1536, Default__투석기_C Function /Game/TopDownBP/Blueprints/건물/투석기.투석기_C:ExecuteUbergraph_투석기
+[2019.05.04-09.53.59:066][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc962e200, Size=600, Default__화덕_C Function /Game/TopDownBP/Blueprints/건물/화덕.화덕_C:ExecuteUbergraph_화덕
+[2019.05.04-09.53.59:067][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc98dad40, Size=40, Default__횃불_C Function /Game/TopDownBP/Blueprints/건물/횃불.횃불_C:ExecuteUbergraph_횃불
+[2019.05.04-09.53.59:068][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc959b340, Size=64, Default__BloodEffect_Attacked_C Function /Game/TopDownBP/Blueprints/UI/BloodEffect_Attacked.BloodEffect_Attacked_C:ExecuteUbergraph_BloodEffect_Attacked
+[2019.05.04-09.53.59:069][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc95ca200, Size=96, Default__BloodEffect_Cold_C Function /Game/TopDownBP/Blueprints/UI/BloodEffect_Cold.BloodEffect_Cold_C:ExecuteUbergraph_BloodEffect_Cold
+[2019.05.04-09.53.59:070][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc95ca020, Size=96, Default__BloodEffect_Health_C Function /Game/TopDownBP/Blueprints/UI/BloodEffect_Health.BloodEffect_Health_C:ExecuteUbergraph_BloodEffect_Health
+[2019.05.04-09.53.59:071][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc95c9d80, Size=96, Default__BloodEffect_Hunger_C Function /Game/TopDownBP/Blueprints/UI/BloodEffect_Hunger.BloodEffect_Hunger_C:ExecuteUbergraph_BloodEffect_Hunger
+[2019.05.04-09.53.59:072][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9ca8950, Size=4, Default__DetailWidget_C Function /Game/TopDownBP/인벤토리시스템/위젯/DetailWidget.DetailWidget_C:ExecuteUbergraph_DetailWidget
+[2019.05.04-09.53.59:072][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc95467a0, Size=136, Default__DraggedItem_C Function /Game/TopDownBP/인벤토리시스템/위젯/DraggedItem.DraggedItem_C:ExecuteUbergraph_DraggedItem
+[2019.05.04-09.53.59:075][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc95da940, Size=392, Default__InGameUI_C Function /Game/TopDownBP/인벤토리시스템/위젯/InGameUI.InGameUI_C:ExecuteUbergraph_InGameUI
+[2019.05.04-09.53.59:078][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc95da400, Size=424, Default__ThrowWidget_C Function /Game/TopDownBP/인벤토리시스템/위젯/ThrowWidget.ThrowWidget_C:ExecuteUbergraph_ThrowWidget
+[2019.05.04-09.53.59:098][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc94bc100, Size=4832, Default__TopDownCharacter_C Function /Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2019.05.04-09.53.59:105][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cca2a9800, Size=136, Default__T건물제작UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/T건물제작UI.T건물제작UI_C:ExecuteUbergraph_T건물제작UI
+[2019.05.04-09.53.59:108][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9c35280, Size=216, Default__T건물카드UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/T건물카드UI.T건물카드UI_C:ExecuteUbergraph_T건물카드UI
+[2019.05.04-09.53.59:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cca1deb00, Size=64, Default__T장비제작UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/T장비제작UI.T장비제작UI_C:ExecuteUbergraph_T장비제작UI
+[2019.05.04-09.53.59:115][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9c34e20, Size=216, Default__T장비카드UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/T장비카드UI.T장비카드UI_C:ExecuteUbergraph_T장비카드UI
+[2019.05.04-09.53.59:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cca40abf8, Size=4, Default__경고문UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/경고문UI.경고문UI_C:ExecuteUbergraph_경고문UI
+[2019.05.04-09.53.59:119][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cca196b00, Size=752, Default__곰_C Function /Game/TopDownBP/Blueprints/곰.곰_C:ExecuteUbergraph_곰
+[2019.05.04-09.53.59:121][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cca143b80, Size=88, Default__메인위젯UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/메인위젯UI.메인위젯UI_C:ExecuteUbergraph_메인위젯UI
+[2019.05.04-09.53.59:130][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cca18e400, Size=1536, Default__멧돼지_C Function /Game/TopDownBP/Blueprints/멧돼지.멧돼지_C:ExecuteUbergraph_멧돼지
+[2019.05.04-09.53.59:132][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ccb008700, Size=344, Default__모닥불터텍스트_C Function /Game/TopDownBP/인벤토리시스템/위젯/모닥불터텍스트.모닥불터텍스트_C:ExecuteUbergraph_모닥불터텍스트
+[2019.05.04-09.53.59:140][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc939dd00, Size=1536, Default__사슴_C Function /Game/TopDownBP/Blueprints/사슴.사슴_C:ExecuteUbergraph_사슴
+[2019.05.04-09.53.59:142][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ccaec2e30, Size=48, Default__상자UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/상자UI.상자UI_C:ExecuteUbergraph_상자UI
+[2019.05.04-09.53.59:144][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc94d0b80, Size=312, Default__상자슬롯UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/상자슬롯UI.상자슬롯UI_C:ExecuteUbergraph_상자슬롯UI
+[2019.05.04-09.53.59:146][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cca409b80, Size=4, Default__아이템획득UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/아이템획득UI.아이템획득UI_C:ExecuteUbergraph_아이템획득UI
+[2019.05.04-09.53.59:149][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cca19c200, Size=480, Default__인벤토리슬롯UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/인벤토리슬롯UI.인벤토리슬롯UI_C:ExecuteUbergraph_인벤토리슬롯UI
+[2019.05.04-09.53.59:152][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ccadfafc0, Size=72, Default__집UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/집UI.집UI_C:ExecuteUbergraph_집UI
+[2019.05.04-09.53.59:153][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc9c348e0, Size=216, Default__집터텍스트_C Function /Game/TopDownBP/인벤토리시스템/위젯/집터텍스트.집터텍스트_C:ExecuteUbergraph_집터텍스트
+[2019.05.04-09.53.59:155][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ccaef0a00, Size=96, Default__튜토리얼UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/튜토리얼UI.튜토리얼UI_C:ExecuteUbergraph_튜토리얼UI
+[2019.05.04-09.53.59:157][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ccad92ec0, Size=48, Default__핫키UI_C Function /Game/TopDownBP/인벤토리시스템/위젯/핫키UI.핫키UI_C:ExecuteUbergraph_핫키UI
+[2019.05.04-09.53.59:588][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cb9207600, Size=264
+[2019.05.04-09.53.59:588][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ccad2b4c0, Size=264, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_167:ExecuteUbergraph_TopDownExampleMap
+[2019.05.04-09.53.59:592][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ccad2ae80, Size=272, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.05.04-09.54.00:746][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.735179ms] /Game/PolyArtDeer/Meshes/SK_Deer.SK_Deer
+[2019.05.04-09.54.00:774][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.029469ms] /Game/PolyArtBear/Meshes/SK_Bear_Black.SK_Bear_Black
+[2019.05.04-09.54.00:778][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.482617ms] /Game/TopDownBP/Mesh/Tower/빌딩고스트/박격포_완_DM.박격포_완_DM
+[2019.05.04-09.54.01:070][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.156375ms] /Game/TopDownBP/Character/Model/MAIN.MAIN
+[2019.05.04-09.54.01:077][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.501510ms] /Game/TopDownBP/Mesh/Tower/빌딩고스트/대포_완_DM.대포_완_DM
+[2019.05.04-09.54.01:105][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [19.020922ms] /Game/TopDownBP/Mesh/Tower/빌딩고스트/석궁_완_DM.석궁_완_DM
+[2019.05.04-09.54.01:216][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [81.759804ms] /Game/TopDownBP/Mesh/Tower/빌딩고스트/투석기_완_DM.투석기_완_DM
+[2019.05.04-09.54.01:263][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.689959ms] /Game/PolyArtBoar/Meshes/SK_Boar_Black.SK_Boar_Black
+[2019.05.04-09.54.01:301][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.761800ms] /Game/LowpolyMapAsset/Forest/Meshes/SM_RockGrey2_high_DM.SM_RockGrey2_high_DM
+[2019.05.04-09.54.01:449][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.313184ms] /Game/TopDownBP/Mesh/Etc/iron_stone2_DM.iron_stone2_DM
+[2019.05.04-09.54.01:451][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.794186ms] /Game/TopDownBP/Mesh/Etc/goldstone2_DM.goldstone2_DM
+[2019.05.04-09.54.01:453][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.001319ms] /Game/TopDownBP/Mesh/Etc/copperstone_2_DM.copperstone_2_DM
+[2019.05.04-09.54.01:597][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.04-09.54.01:598][  0]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.04-09.54.01:667][  0]LogWorld: Bringing World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.04-18.54.01
+[2019.05.04-09.54.01:671][  0]LogWorld: Bringing up level for play took: 0.072477
+[2019.05.04-09.54.01:719][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TopDownBP/인벤토리시스템/위젯/T건물카드UI.T건물카드UI_C:건물개수제한Update'!
+[2019.05.04-09.54.01:719][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/TopDownBP/인벤토리시스템/위젯/T건물카드UI.T건물카드UI_C:건물개수제한Update'!
+[2019.05.04-09.54.01:719][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/TopDownBP/인벤토리시스템/위젯/T건물카드UI.T건물카드UI_C:건물개수제한Update'!
+[2019.05.04-09.54.01:719][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors16' of length 0 in '/Game/TopDownBP/Character/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter'!
+[2019.05.04-09.54.01:720][  0]LogLoad: Took 4.513362 seconds to LoadMap(/Game/TopDownBP/Maps/TopDownExampleMap)
+[2019.05.04-09.54.01:724][  0]LogSlate: Took 0.001782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.04-09.54.01:799][  0]LogLoad: (Engine Initialization) Total time: 12.97 seconds
+[2019.05.04-09.54.01:799][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.04-09.54.01:822][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.05.04-09.54.01:830][  0]LogStaticMesh: Allocated 512x343x64 distance field atlas = 21.4Mb, with 95 objects containing 10.0Mb backing data
+[2019.05.04-09.54.01:951][  0]LogSlate: Window 'DefenseSurvival (64-bit, PCD3D_SM5) ' being destroyed
+[2019.05.04-09.54.01:957][  0]LogEngine: All Windows Closed
+[2019.05.04-09.54.01:957][  0]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.05.04-09.54.02:662][  1]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.04-09.54.02:663][  1]LogExit: Preparing to exit.
+[2019.05.04-09.54.02:663][  1]LogMoviePlayer: Shutting down movie player
+[2019.05.04-09.54.03:466][  1]LogExit: Game engine shut down
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ccad2b4c0, Size=264
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc73e8ae0, Size=72
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc73e4100, Size=1568
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7938, Size=8
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6030400, Size=256
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc727eb00, Size=4896
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674b070, Size=48
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674b100, Size=48
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc09bb9c0, Size=304
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc729f9a0, Size=88
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc727b580, Size=424
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6579b80, Size=16
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc613dd00, Size=560
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc727b740, Size=392
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7640, Size=4
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674ab90, Size=48
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc72dac00, Size=480
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc723fc40, Size=312
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b76d0, Size=4
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7269c60, Size=136
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6e59200, Size=496
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc71d5760, Size=72
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc72db800, Size=472
+[2019.05.04-09.54.03:470][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc72fb900, Size=1408
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7a00, Size=4
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbfd0d300, Size=752
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc729fac0, Size=96
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc72e3200, Size=1456
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7990, Size=4
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6b70ee0, Size=88
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc72bb900, Size=1424
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7960, Size=4
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7347e40, Size=224
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc72c9c00, Size=648
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc729f700, Size=96
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7394d00, Size=672
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674aad0, Size=48
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7236940, Size=216
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc720c680, Size=136
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc729a400, Size=1520
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b78e0, Size=4
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc71bab00, Size=1552
+[2019.05.04-09.54.03:471][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6b71000, Size=88
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc09bbd80, Size=320
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b78c0, Size=4
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc613df80, Size=576
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6e58e00, Size=480
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7385440, Size=448
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc71d2b00, Size=344
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7758, Size=8
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc661b580, Size=56
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7235d00, Size=208
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674af80, Size=48
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7828, Size=8
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc73689c0, Size=416
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc71aacc0, Size=216
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7308300, Size=64
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b75d0, Size=4
+[2019.05.04-09.54.03:472][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7750, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6787498, Size=40
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7810, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc613ee80, Size=592
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc73c6f80, Size=192
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc67874e8, Size=40
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7860, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7738, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674afe0, Size=48
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7870, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6579b30, Size=16
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7778, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674b040, Size=48
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b78a0, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674b010, Size=48
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7888, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674afb0, Size=48
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7850, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7748, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7740, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7730, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7728, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6787358, Size=40
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674af50, Size=48
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b77f8, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7340bd0, Size=80
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b77e8, Size=8
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6787510, Size=40
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc674af20, Size=48
+[2019.05.04-09.54.03:473][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b77c0, Size=8
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc09bbc40, Size=320
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc73a74a0, Size=224
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc729fca0, Size=96
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc729fa00, Size=96
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc740b7e0, Size=32
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7397700, Size=768
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc73c8f00, Size=784
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7393900, Size=1088
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7355900, Size=736
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc6579710, Size=16
+[2019.05.04-09.54.03:474][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc64b7770, Size=8
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9d7e9e0, Size=88
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9d225a0, Size=32
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9db79c0, Size=304
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ccd8a0, Size=80
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9cd24a0, Size=88
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9c946d0, Size=48
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9d63600, Size=496
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9db7740, Size=320
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9c37f20, Size=224
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9c58a00, Size=48
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9c84b80, Size=784
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9b83200, Size=1088
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9cab618, Size=4
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9db5d00, Size=320
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9cab4c8, Size=4
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc73c3100, Size=672
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9d62400, Size=464
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9b22780, Size=800
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9cab240, Size=4
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9d61c00, Size=480
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9c2dc60, Size=16
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9caace0, Size=4
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9c36da0, Size=224
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9caac50, Size=8
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9a22500, Size=736
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9950100, Size=256
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ea4f00, Size=416
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9caa300, Size=4
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc99b8680, Size=600
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9caa220, Size=4
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc98dbf88, Size=40
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc987ab00, Size=48
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9caa150, Size=8
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc987a140, Size=48
+[2019.05.04-09.54.03:477][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9caa0d0, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9879780, Size=48
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9caa050, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc98dbd58, Size=40
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9fd8, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc98785e0, Size=48
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9f58, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9850f00, Size=1424
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc97c7f70, Size=48
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9e38, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc98dbce0, Size=40
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9c38, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc97c6c20, Size=48
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9bb8, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9840450, Size=80
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9b18, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc97c5540, Size=48
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9a98, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc978cf00, Size=1440
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9797100, Size=576
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc96eab00, Size=1440
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc98ad970, Size=16
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9550, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc98ad9f0, Size=16
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9580, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc969e800, Size=664
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca92e0, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca92e8, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca92f0, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9300, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9308, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9310, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca9318, Size=8
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc97f5c00, Size=472
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9631d00, Size=1536
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc962e200, Size=600
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc98dad40, Size=40
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc959b340, Size=64
+[2019.05.04-09.54.03:478][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc95ca200, Size=96
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc95ca020, Size=96
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc95c9d80, Size=96
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9ca8950, Size=4
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc95467a0, Size=136
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc95da940, Size=392
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc95da400, Size=424
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc94bc100, Size=4832
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cca2a9800, Size=136
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9c35280, Size=216
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cca1deb00, Size=64
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9c34e20, Size=216
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cca40abf8, Size=4
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cca196b00, Size=752
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cca143b80, Size=88
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cca18e400, Size=1536
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ccb008700, Size=344
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc939dd00, Size=1536
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ccaec2e30, Size=48
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc94d0b80, Size=312
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cca409b80, Size=4
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cca19c200, Size=480
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ccadfafc0, Size=72
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc9c348e0, Size=216
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ccaef0a00, Size=96
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ccad92ec0, Size=48
+[2019.05.04-09.54.03:479][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ccad2ae80, Size=272
+[2019.05.04-09.54.03:596][  1]LogExit: Object subsystem successfully closed.
+[2019.05.04-09.54.03:617][  1]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.04-09.54.03:622][  1]LogD3D11RHI: Shutdown
+[2019.05.04-09.54.03:622][  1]LogD3D11RHI: CleanupD3DDevice
+[2019.05.04-09.54.03:623][  1]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (340)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module SequenceRecorder (338)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module AutomationController (336)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module AutomationWorker (334)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module AIModule (332)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module GameplayDebugger (331)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module AITestSuite (329)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (326)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (324)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (322)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (320)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module CharacterAI (318)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module SessionServices (316)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (314)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (312)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module MovieScene (310)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module GeometryCache (308)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (307)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (304)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module PortalServices (302)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module PortalRpc (300)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module MessagingRpc (298)
+[2019.05.04-09.54.03:642][  1]LogModuleManager: Shutting down and abandoning module ProfilerService (296)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module TaskGraph (294)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module SteamVRController (292)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (290)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module OculusInput (288)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (286)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (284)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module CableComponent (282)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module AudioCapture (280)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (278)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module AndroidPermission (276)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (272)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (270)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module MediaCompositing (268)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module LinearTimecode (266)
+[2019.05.04-09.54.03:883][  1]LogModuleManager: Shutting down and abandoning module ImgMedia (264)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module HTML5Networking (262)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module DatasmithContent (260)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (258)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module CryptoKeys (256)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (254)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (250)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module UObjectPlugin (248)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (246)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (244)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module SourceControl (243)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (240)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (238)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (236)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module PhysXVehicles (234)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (232)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (230)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (228)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (226)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module ContentBrowser (225)
+[2019.05.04-09.54.03:885][  1]LogModuleManager: Shutting down and abandoning module CollectionManager (224)
+[2019.05.04-09.54.03:885][  1]LogDirectoryWatcher: A directory notification for 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Content/Collections/' was aborted.
+[2019.05.04-09.54.03:886][  1]LogDirectoryWatcher: A directory notification for 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Content/Developers/joono/Collections/' was aborted.
+[2019.05.04-09.54.03:886][  1]LogDirectoryWatcher: A directory notification for 'C:/CapstoneDesign/DefOffGame/DefenseSurvival/Saved/Collections/' was aborted.
+[2019.05.04-09.54.03:886][  1]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (223)
+[2019.05.04-09.54.03:886][  1]LogModuleManager: Shutting down and abandoning module ApexDestruction (218)
+[2019.05.04-09.54.03:886][  1]LogModuleManager: Shutting down and abandoning module ActorSequence (216)
+[2019.05.04-09.54.03:886][  1]LogModuleManager: Shutting down and abandoning module UdpMessaging (214)
+[2019.05.04-09.54.03:987][  1]LogModuleManager: Shutting down and abandoning module TcpMessaging (212)
+[2019.05.04-09.54.04:338][  1]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (210)
+[2019.05.04-09.54.04:338][  1]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2019.05.04-09.54.04:338][  1]LogModuleManager: Shutting down and abandoning module DataValidation (206)
+[2019.05.04-09.54.04:338][  1]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (204)
+[2019.05.04-09.54.04:338][  1]LogModuleManager: Shutting down and abandoning module TreeMap (203)
+[2019.05.04-09.54.04:338][  1]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (200)
+[2019.05.04-09.54.04:338][  1]LogModuleManager: Shutting down and abandoning module LiveLink (198)
+[2019.05.04-09.54.05:178][  1]LogModuleManager: Shutting down and abandoning module Paper2D (196)
+[2019.05.04-09.54.05:178][  1]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (194)
+[2019.05.04-09.54.05:178][  1]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (192)
+[2019.05.04-09.54.05:178][  1]LogModuleManager: Shutting down and abandoning module WmfMedia (190)
+[2019.05.04-09.54.05:179][  1]LogModuleManager: Shutting down and abandoning module Media (189)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module Overlay (178)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module VREditor (174)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module UMG (160)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module Sequencer (158)
+[2019.05.04-09.54.05:185][  1]LogModuleManager: Shutting down and abandoning module MessageLog (155)
+[2019.05.04-09.54.05:186][  1]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
+[2019.05.04-09.54.05:186][  1]LogModuleManager: Shutting down and abandoning module Slate (148)
+[2019.05.04-09.54.05:186][  1]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module MRMesh (144)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module Messaging (142)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module XAudio2 (136)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module Networking (134)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module Core (132)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module KismetCompiler (128)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module MeshUtilities (126)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (125)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (124)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (123)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (121)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (119)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module MaterialBaking (115)
+[2019.05.04-09.54.05:187][  1]LogModuleManager: Shutting down and abandoning module DerivedDataCache (110)
+[2019.05.04-09.54.05:300][  1]LogDerivedDataCache: Shutdown
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module XGEController (108)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module TargetPlatform (106)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (105)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (103)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (101)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (99)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (97)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (95)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (93)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (91)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (89)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (87)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module ImageWrapper (86)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (83)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (81)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (79)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (77)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (75)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (73)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (71)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (69)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.05.04-09.54.05:300][  1]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.05.04-09.54.05:303][  1]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.04-09.54.05:305][  1]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.04-09.54.05:308][  1]LogExit: Exiting.
+[2019.05.04-09.54.05:310][  1]Log file closed, 05/04/19 18:54:05
